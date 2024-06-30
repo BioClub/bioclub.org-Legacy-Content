@@ -14,7 +14,7 @@
 	<meta property="og:url" content="http://bioclub.org/en/project-report/open-source-science">
 			
 		
-									<meta property="og:image" content="http://bioclub.org/common/images/_og_image/DSC02170.jpg">
+									<meta property="og:image" content="/bioclub-org/common/images/_og_image/DSC02170.jpg">
 				
 	<meta property="og:type" content="website">
 	
@@ -138,7 +138,7 @@
 		</div>
 			
         <article id="single-wrapper">
-        	                        	                	<div class="single-eyecatch" style="background-image:url(http://bioclub.org/assets/images/DSC02170.jpg)"></div>
+        	                        	                	<div class="single-eyecatch" style="background-image:url(/bioclub-org/assets/images/DSC02170.jpg)"></div>
             	            			
 											
 																
@@ -205,7 +205,7 @@
 			<div class="single-content">
 								
 														
-																			<p><img src="http://bioclub.org/assets/images/バイオリアクター19.jpg" alt=""></p>
+																			<p><img src="/bioclub-org/assets/images/バイオリアクター19.jpg" alt=""></p>
 																
 					
 													
@@ -217,7 +217,7 @@
 									
 				
 																					
-																			<p><img src="http://bioclub.org/assets/images/DSC02205.jpg" alt="Dr. Brenda Parker. "></p>
+																			<p><img src="/bioclub-org/assets/images/DSC02205.jpg" alt="Dr. Brenda Parker. "></p>
 																
 					
 																												<h3>Dr. Brenda Parker. </h3>
@@ -228,12 +228,12 @@
 									
 				
 																					
-																			<p><img src="http://bioclub.org/assets/images/バイオリアクター2.jpg" alt=""></p>
-													<p><img src="http://bioclub.org/assets/images/ばいおりあくたー1.jpg" alt=""></p>
+																			<p><img src="/bioclub-org/assets/images/バイオリアクター2.jpg" alt=""></p>
+													<p><img src="/bioclub-org/assets/images/ばいおりあくたー1.jpg" alt=""></p>
 																
 					
 																					
-																			<p><img src="http://bioclub.org/assets/images/DSC02170.jpg" alt=""></p>
+																			<p><img src="/bioclub-org/assets/images/DSC02170.jpg" alt=""></p>
 																
 					
 																												<h3>Making a bus move through the energy of algae?</h3>
@@ -253,11 +253,11 @@
 									
 				
 																					
-																			<p><img src="http://bioclub.org/assets/images/postit1.jpg" alt=""></p>
+																			<p><img src="/bioclub-org/assets/images/postit1.jpg" alt=""></p>
 																
 					
 																					
-																			<p><img src="http://bioclub.org/assets/images/postit2.jpg" alt=""></p>
+																			<p><img src="/bioclub-org/assets/images/postit2.jpg" alt=""></p>
 																
 					
 													
@@ -275,15 +275,15 @@
 									
 				
 																					
-																			<p><img src="http://bioclub.org/assets/images/e10.jpg" alt=""></p>
+																			<p><img src="/bioclub-org/assets/images/e10.jpg" alt=""></p>
 																
 					
 																					
-																			<p><img src="http://bioclub.org/assets/images/e7.jpg" alt=""></p>
+																			<p><img src="/bioclub-org/assets/images/e7.jpg" alt=""></p>
 																
 					
 																					
-																			<p><img src="http://bioclub.org/assets/images/e3.jpg" alt=""></p>
+																			<p><img src="/bioclub-org/assets/images/e3.jpg" alt=""></p>
 																
 					
 													
@@ -299,15 +299,15 @@
 									
 				
 																					
-																			<p><img src="http://bioclub.org/assets/images/e5_180621_201639.jpg" alt=""></p>
+																			<p><img src="/bioclub-org/assets/images/e5_180621_201639.jpg" alt=""></p>
 																
 					
 																					
-																			<p><img src="http://bioclub.org/assets/images/DSC02285のコピー.jpg" alt=""></p>
+																			<p><img src="/bioclub-org/assets/images/DSC02285のコピー.jpg" alt=""></p>
 																
 					
 																					
-																			<p><img src="http://bioclub.org/assets/images/e9.jpg" alt=""></p>
+																			<p><img src="/bioclub-org/assets/images/e9.jpg" alt=""></p>
 																
 					
 													
@@ -318,7 +318,7 @@
 									
 				
 																					
-																			<p><img src="http://bioclub.org/assets/images/バイオリアクター11.jpg" alt=""></p>
+																			<p><img src="/bioclub-org/assets/images/バイオリアクター11.jpg" alt=""></p>
 																
 					
 													
@@ -452,7 +452,7 @@
 		
 							<div class="thumb">
 				<a href="/bioclub-org/en/project-report/wet-ware-fab-fabric-1-1" class="ct-block hv-op">
-					<span class="img-wrapper"><img src="http://bioclub.org/assets/images/wwff01.jpg" alt="WET - WARE / FAB - FABRIC The First &quot;Wearing Life&quot; What is a Semi-Life Material? Event Report"></span>
+					<span class="img-wrapper"><img src="/bioclub-org/assets/images/wwff01.jpg" alt="WET - WARE / FAB - FABRIC The First &quot;Wearing Life&quot; What is a Semi-Life Material? Event Report"></span>
 					
 																<p class="ct-link-lead">Design researcher Kazuya Kawasaki and Bio Club director Chiaki Ishizuka organized the WET - WARE - / FAB - FABRIC working group to study and practice innovation at the intersection of biotechnology and fashion. The commemorative first meeting reconsidered the concept of conventional &quot;anthropocentric&quot; clothing design and featured Mr. Yohsuke Takahashi, curator at the 21st Century Museum of Contemporary Art, Kanazawa who actively plans bio-art exhibitions.</p>
 									</a>

@@ -142,7 +142,7 @@
 		</div>
 			
         <article id="single-wrapper">
-																		<div class="single-eyecatch" style="background-image:url(http://bioclub.org/assets/images/IMG_4338.jpeg)"></div>
+																		<div class="single-eyecatch" style="background-image:url(/bioclub-org/assets/images/IMG_4338.jpeg)"></div>
 				         				
 			
 											
@@ -343,7 +343,7 @@ The colloquium addresses an international interdisciplinary research audience to
 		
 							<div class="thumb">
 				<a href="/bioclub-org/event/spcs-4-sharing-session" class="ct-block hv-op">
-					<span class="img-wrapper"><img src="http://bioclub.org/assets/images/SPCS4.jpg" alt="SPCS Season 4 | Living Dyes: 共有セッション"></span>
+					<span class="img-wrapper"><img src="/bioclub-org/assets/images/SPCS4.jpg" alt="SPCS Season 4 | Living Dyes: 共有セッション"></span>
 					
 																<p class="ct-link-lead">2023年9月、さまざまなバックグラウンドを持つ23人の参加者がFabCafe Kyotoに集まり、DIYによるバクテリアの培養方法を学びました。色素を生成する菌株を植え付けたシャーレを持ち帰り、そのバクテリアでテキスタイルを染めるという6週間のチャレンジに挑みました。このグループ実験の結果は、京都と東京で開催される展覧会に展示されます。東京で開催される展示の最終日に、参加者のうちの4人がこのプロセスについての経験や感想を共有します。<br />
 <br />
@@ -385,7 +385,7 @@ Living Dyes | The Exhibition showcases the process and results of the research a
 		
 							<div class="thumb">
 				<a href="/bioclub-org/event/antti-tenetz-getting-lost" class="ct-block hv-op">
-					<span class="img-wrapper"><img src="http://bioclub.org/assets/images/Antti2.jpg" alt="Artist Talk: Antti Tenetz - スペースの間に迷い込む"></span>
+					<span class="img-wrapper"><img src="/bioclub-org/assets/images/Antti2.jpg" alt="Artist Talk: Antti Tenetz - スペースの間に迷い込む"></span>
 					
 																<p class="ct-link-lead">​What can other than human life, slime molds, local and AI machine systems based knowledge and cowandering teach us about survival and evolving as whole.<br />
 <br />

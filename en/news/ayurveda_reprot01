@@ -14,7 +14,7 @@
 	<meta property="og:url" content="http://bioclub.org/en/news/ayurveda_reprot01">
 			
 		
-									<meta property="og:image" content="http://bioclub.org/common/images/_og_image/アーユルヴェーダカバー.jpg">
+									<meta property="og:image" content="/bioclub-org/common/images/_og_image/アーユルヴェーダカバー.jpg">
 				
 	<meta property="og:type" content="website">
 	
@@ -138,7 +138,7 @@
 		</div>
 			
         <article id="single-wrapper">
-															<div class="single-eyecatch" style="background-image:url(http://bioclub.org/assets/images/アーユルヴェーダカバー.jpg)"></div>
+															<div class="single-eyecatch" style="background-image:url(/bioclub-org/assets/images/アーユルヴェーダカバー.jpg)"></div>
 				         				
 			
 											
@@ -306,7 +306,7 @@
 		
 							<div class="thumb">
 				<a href="/bioclub-org/en/news/indigo-dye" class="ct-block hv-op">
-					<span class="img-wrapper"><img src="http://bioclub.org/assets/images/278918F6-0548-41E1-BE59-D38DE5672222.jpg" alt="What is the future of &quot;indigo dye,&quot; color biotechnology that stems from ancient times?"></span>
+					<span class="img-wrapper"><img src="/bioclub-org/assets/images/278918F6-0548-41E1-BE59-D38DE5672222.jpg" alt="What is the future of &quot;indigo dye,&quot; color biotechnology that stems from ancient times?"></span>
 					
 																<p class="ct-link-lead">At &quot;BioClub,&quot; an open bio-community that is active with MTRL in Shibuya, Tokyo, as its base, a focus is placed on the relationship between indigo dye and biotechnology. On June 28th, 2018, the event &quot;&#039;Color Agriculture&#039; - The World of Indigo Science&quot; was held.</p>
 									</a>
@@ -337,7 +337,7 @@
 		
 							<div class="thumb">
 				<a href="/bioclub-org/en/news/サイエンス-アートのレジデンスをこの秋開催-1" class="ct-block hv-op">
-					<span class="img-wrapper"><img src="http://bioclub.org/assets/images/KT_Chris.jpeg" alt="Art and Science Research Residency Program this Fall"></span>
+					<span class="img-wrapper"><img src="/bioclub-org/assets/images/KT_Chris.jpeg" alt="Art and Science Research Residency Program this Fall"></span>
 					
 																<p class="ct-link-lead">This fall, BioClub will offer an art and science research residency program in cooperation with the Finnish Institute in Tokyo and BioArtSociety, an organization that connects the fields of art and science in Finland.</p>
 									</a>
@@ -368,7 +368,7 @@
 		
 							<div class="thumb">
 				<a href="/bioclub-org/en/news/bioclub-ドミニクチェン-小倉ヒラクイベントレポートvol-1がwiredで公開" class="ct-block hv-op">
-					<span class="img-wrapper"><img src="http://bioclub.org/assets/images/ドミニクヒラク.jpg" alt="BioClub x Dominick Chen x Hiraku Ogura Event Report Open to the Public"></span>
+					<span class="img-wrapper"><img src="/bioclub-org/assets/images/ドミニクヒラク.jpg" alt="BioClub x Dominick Chen x Hiraku Ogura Event Report Open to the Public"></span>
 					
 																<p class="ct-link-lead">The event report for the BioClub x Dominick Chen x Hiraku Ogura event &quot;Nazo Hakko&quot; has been made public. The event was held on July 21st, 2017, and to commemorate the releases of &quot;Fermented Cultural Anthropology&quot; and &quot;Nazodoko&quot;!</p>
 									</a>

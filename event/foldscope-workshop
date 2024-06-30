@@ -142,7 +142,7 @@
 		</div>
 			
         <article id="single-wrapper">
-																		<div class="single-eyecatch" style="background-image:url(http://bioclub.org/assets/images/foldscope_event1.jpg)"></div>
+																		<div class="single-eyecatch" style="background-image:url(/bioclub-org/assets/images/foldscope_event1.jpg)"></div>
 				         				
 			
 											
@@ -290,13 +290,13 @@
             <div class="single-content">
 			
 													<p>このワークショップでは、<a href="https://www.foldscope.com">フォールドスコープ</a>の組み立て方、使用方法を学びます。フォールドスコープは、紙で作られた完全な機能を持つ顕微鏡で、誰もが顕微鏡を使い、エキサイティングな発見をすることができます。<br /><br /></p>
-<p><img src="http://bioclub.org/assets/images/IMG_8891.JPG" alt="IMG_8891.JPG" /><br /></p>
+<p><img src="/bioclub-org/assets/images/IMG_8891.JPG" alt="IMG_8891.JPG" /><br /></p>
 <p><strong>- 自分だけのスライドが作れるようになる!<br /></strong></p>
 <p><strong>- 携帯電話をフォールドスコープに接続し、顕微鏡写真や動画を作成します。</strong></p>
 <p><strong>- 自分だけのフォールドスコープを手に入れよう！家に持ち帰って使い続けることができます。</strong></p>
 <p><strong>- クマムシを狩って探検しよう!</strong></p>
 <p><strong></strong></p>
-<p><img src="http://bioclub.org/assets/images/IMG_8883.JPG" alt="IMG_8883.JPG" /></p>
+<p><img src="/bioclub-org/assets/images/IMG_8883.JPG" alt="IMG_8883.JPG" /></p>
 <p><strong>FAQs</strong></p>
 <p><strong>6～12才の子供も参加できますか？</strong><br />ただし、大人の同伴が必要です。大人とお子様の分のチケットをご用意ください。</p>
 <p><strong>ワークショップは何語で行われるのですか？</strong><br />ワークショップは日本語で行われます。しかし、英語しか話せない方も歓迎します。講師は両方話せます。</p>
@@ -304,7 +304,7 @@
 <p>BioClubの場所を教えてください。<br />本ワークショップは、FabCafe MTRL 2Fのスペースで開催されます。直接2Fへお越しください。(下記の地図をご参照ください。)</p>
 <p><em></em><em></em>BioClub<br />道玄坂ピア2Ｆ <br />道玄坂 1-22-7<br />東京都渋谷区 <br />150-0043</p>
 <p><em></em></p>
-<p><img src="http://bioclub.org/assets/images/IMG_8894.JPG#asset" alt="IMG_8894.JPG#asset" /></p>
+<p><img src="/bioclub-org/assets/images/IMG_8894.JPG#asset" alt="IMG_8894.JPG#asset" /></p>
 								
 				
 											
@@ -449,7 +449,7 @@ The colloquium addresses an international interdisciplinary research audience to
 		
 							<div class="thumb">
 				<a href="/bioclub-org/event/spcs-4-sharing-session" class="ct-block hv-op">
-					<span class="img-wrapper"><img src="http://bioclub.org/assets/images/SPCS4.jpg" alt="SPCS Season 4 | Living Dyes: 共有セッション"></span>
+					<span class="img-wrapper"><img src="/bioclub-org/assets/images/SPCS4.jpg" alt="SPCS Season 4 | Living Dyes: 共有セッション"></span>
 					
 																<p class="ct-link-lead">2023年9月、さまざまなバックグラウンドを持つ23人の参加者がFabCafe Kyotoに集まり、DIYによるバクテリアの培養方法を学びました。色素を生成する菌株を植え付けたシャーレを持ち帰り、そのバクテリアでテキスタイルを染めるという6週間のチャレンジに挑みました。このグループ実験の結果は、京都と東京で開催される展覧会に展示されます。東京で開催される展示の最終日に、参加者のうちの4人がこのプロセスについての経験や感想を共有します。<br />
 <br />
@@ -491,7 +491,7 @@ Living Dyes | The Exhibition showcases the process and results of the research a
 		
 							<div class="thumb">
 				<a href="/bioclub-org/event/antti-tenetz-getting-lost" class="ct-block hv-op">
-					<span class="img-wrapper"><img src="http://bioclub.org/assets/images/Antti2.jpg" alt="Artist Talk: Antti Tenetz - スペースの間に迷い込む"></span>
+					<span class="img-wrapper"><img src="/bioclub-org/assets/images/Antti2.jpg" alt="Artist Talk: Antti Tenetz - スペースの間に迷い込む"></span>
 					
 																<p class="ct-link-lead">​What can other than human life, slime molds, local and AI machine systems based knowledge and cowandering teach us about survival and evolving as whole.<br />
 <br />

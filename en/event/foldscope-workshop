@@ -137,7 +137,7 @@
 		</div>
 			
         <article id="single-wrapper">
-																		<div class="single-eyecatch" style="background-image:url(http://bioclub.org/assets/images/foldscope_event1.jpg)"></div>
+																		<div class="single-eyecatch" style="background-image:url(/bioclub-org/assets/images/foldscope_event1.jpg)"></div>
 				         				
 			
 											
@@ -284,16 +284,16 @@
             <div class="single-content">
 			
 													<p>In this workshop you will learn how to construct, assemble and use a <a href="https://foldscope.com">Foldscope</a>. The Foldscope is a fully-functioning microscope made from paper, that allows everyone to use a microscope and make exciting discoveries!</p>
-<p><img src="http://bioclub.org/assets/images/IMG_8891.JPG" alt="IMG_8891.JPG" /><br /></p>
+<p><img src="/bioclub-org/assets/images/IMG_8891.JPG" alt="IMG_8891.JPG" /><br /></p>
 <p><strong>- You will learn how to make your own slides!</strong><br /></p>
 <p><strong>- Connect your mobile phone to the Foldscope - and make microscopic pictures and movies!</strong></p>
 <p><strong>- You will get your own Foldscope - you can take it home and continue using it!<br /></strong></p>
 <p><strong>- We will hunt and explore Tardigrades!</strong></p>
-<p><img src="http://bioclub.org/assets/images/IMG_8883.JPG" alt="IMG_8883.JPG" /></p>
+<p><img src="/bioclub-org/assets/images/IMG_8883.JPG" alt="IMG_8883.JPG" /></p>
 <p><strong>FAQs</strong></p>
 <p><strong>Can 6-12 year-olds also join this workshop?<br /></strong>Yes, they can, but the need to be accompanied by an adult. Please by a ticket for both the adult and the child.<br /></p>
 <p><strong>Which language will the workshop be held?</strong><br />The workshop will be held in Japanese. But English-only speakers are also welcome. Our instructors can speak both.<br /><br /><strong>Are discount tickets available?</strong><br />We have a limited number of <em>Early Bird</em> tickets, please get them as soon as possible to get a discount!<br /><br /><strong>How to find BioClub?</strong><br />This workshop will be held at the FabCafe MTRL 2F space. Please go directly to 2F. (see map below.)<br /><em>BioClub Tokyo</em><br /><em>Dogenzaka 1−22−7 <br />Dogenzaka Pier 2F<br />150-0043 Tokyo</em></p>
-<p><img src="http://bioclub.org/assets/images/IMG_8894.JPG#asset" alt="IMG_8894.JPG#asset" /></p>
+<p><img src="/bioclub-org/assets/images/IMG_8894.JPG#asset" alt="IMG_8894.JPG#asset" /></p>
 								
 				
 											
@@ -449,7 +449,7 @@ The colloquium addresses an international interdisciplinary research audience to
 		
 							<div class="thumb">
 				<a href="/bioclub-org/en/event/spcs-4-sharing-session" class="ct-block hv-op">
-					<span class="img-wrapper"><img src="http://bioclub.org/assets/images/SPCS4.jpg" alt="SPCS Season 4 | Living Dyes: Sharing Session"></span>
+					<span class="img-wrapper"><img src="/bioclub-org/assets/images/SPCS4.jpg" alt="SPCS Season 4 | Living Dyes: Sharing Session"></span>
 					
 																<p class="ct-link-lead">2023年9月、さまざまなバックグラウンドを持つ23人の参加者がFabCafe Kyotoに集まり、DIYによるバクテリアの培養方法を学びました。色素を生成する菌株を植え付けたシャーレを持ち帰り、そのバクテリアでテキスタイルを染めるという6週間のチャレンジに挑みました。このグループ実験の結果は、京都と東京で開催される展覧会に展示されます。東京で開催される展示の最終日に、参加者のうちの4人がこのプロセスについての経験や感想を共有します。<br />
 <br />
@@ -493,7 +493,7 @@ Living Dyes | The Exhibition showcases the process and results of the research a
 		
 							<div class="thumb">
 				<a href="/bioclub-org/en/event/antti-tenetz-getting-lost" class="ct-block hv-op">
-					<span class="img-wrapper"><img src="http://bioclub.org/assets/images/Antti2.jpg" alt="Artist Talk: Antti Tenetz - Getting lost between Spaces"></span>
+					<span class="img-wrapper"><img src="/bioclub-org/assets/images/Antti2.jpg" alt="Artist Talk: Antti Tenetz - Getting lost between Spaces"></span>
 					
 																<p class="ct-link-lead">​What can other than human life, slime molds, local and AI machine systems based knowledge and cowandering teach us about survival and evolving as whole.<br />
 <br />

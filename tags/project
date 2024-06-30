@@ -14,7 +14,7 @@
 	<meta property="og:url" content="http://bioclub.org/">
 			
 		
-									<meta property="og:image" content="http://bioclub.org/common/images/_og_image/bioclub_newlogo.jpg">
+									<meta property="og:image" content="/bioclub-org/common/images/_og_image/bioclub_newlogo.jpg">
 				
 	<meta property="og:type" content="website">
 	
@@ -162,7 +162,7 @@
 														
 																																				<div class="date">events&nbsp;&nbsp;|&nbsp;&nbsp;2023.05.19 (金) 19:00 – </div>
 							<h2 class="article-ttl"><a href="/bioclub-org/event/misomics-2023">Misomics: 市民科学による味噌の中の細菌のゲノム解析</a></h2>
-																															<div class="thumb"><a href="/bioclub-org/event/misomics-2023"><span class="img-wrapper"><img src="http://bioclub.org/assets/images/IMG_0490.jpeg" alt="Misomics: 市民科学による味噌の中の細菌のゲノム解析"></span></a></div>
+																															<div class="thumb"><a href="/bioclub-org/event/misomics-2023"><span class="img-wrapper"><img src="/bioclub-org/assets/images/IMG_0490.jpeg" alt="Misomics: 市民科学による味噌の中の細菌のゲノム解析"></span></a></div>
 																					</li>
 											<li class="article">
 						 
@@ -180,7 +180,7 @@
 														
 																																				<div class="date">events&nbsp;&nbsp;|&nbsp;&nbsp;2022.08.16 (火) 19:30 – </div>
 							<h2 class="article-ttl"><a href="/bioclub-org/event/misomics-study-meeting">Misomics - Miso x Genomics - 勉強会</a></h2>
-																															<div class="thumb"><a href="/bioclub-org/event/misomics-study-meeting"><span class="img-wrapper"><img src="http://bioclub.org/assets/images/misomics.JPG" alt="Misomics - Miso x Genomics - 勉強会"></span></a></div>
+																															<div class="thumb"><a href="/bioclub-org/event/misomics-study-meeting"><span class="img-wrapper"><img src="/bioclub-org/assets/images/misomics.JPG" alt="Misomics - Miso x Genomics - 勉強会"></span></a></div>
 																					</li>
 									            </ul>
         </article>
