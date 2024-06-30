@@ -6,8 +6,9 @@ The content of the legacy site [bioclub.org](www.bioclub.org) has be scraped wit
 ## Progress
 
 To do:
-- [ ] Fix the path
-- [ ] Upload the content of the old site temporarily to [https://legacy.bioclub.tokyo], to help with the manual importing of the old content.
+- [x] Fix paths
+- [x] Upload the content of the old site temporarily to [legacy.bioclub.tokyo](https://legacy.bioclub.tokyo), to help with the manual importing of the old content.
+- [x] [legacy.bioclub.tokyo](https://legacy.bioclub.tokyo) is now under `.htaccess`, disencouraging search engines to index the site. Please go to Discord `#website` for access info.
 
 
 
