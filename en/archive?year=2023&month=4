@@ -11,10 +11,10 @@
 		
 		<meta property="og:title" content="2023 April - BioClub">
 		
-	<meta property="og:url" content="http://bioclub.org/en/">
+	<meta property="og:url" content="/bioclub-org/en/">
 			
 		
-									<meta property="og:image" content="http://bioclub.org/en/cpresources/transforms/1?x=OavFYqkz6">
+									<meta property="og:image" content="/bioclub-org/en/cpresources/transforms/1?x=OavFYqkz6">
 				
 	<meta property="og:type" content="website">
 	
@@ -30,18 +30,7 @@
 	<meta property="og:site_name" content="BioClub">
 	<meta property="article:publisher" content="https://www.facebook.com/bioclubshibuya/">
 	
-	<!-- google map api -->
-	<script type='text/javascript' charset='utf-8' src='//maps.googleapis.com/maps/api/js?&key=AIzaSyDgoNhhsnaOD8gnESPlY5xC1yr6y-R_3WI'></script>
-	
-	<!-- Global site tag (gtag.js) - Google Analytics -->
-	<script async src="https://www.googletagmanager.com/gtag/js?id=UA-121405163-1"></script>
-	<script>
-		window.dataLayer = window.dataLayer || [];
-		function gtag(){dataLayer.push(arguments);}
-		gtag('js', new Date());
-		
-		gtag('config', 'UA-121405163-1');
-	</script>
+
 <style>
 @media screen and (min-width: 641px) {
   #single-wrapper .single-eyecatch {
@@ -259,8 +248,7 @@
     <div class="copyright">&copy; 2024 Open BioClub</div>
 </footer>
 
-<script src="//ajax.googleapis.com/ajax/libs/jquery/1.11.2/jquery.min.js"></script>
-<script>window.jQuery || document.write('<script src="/bioclub-org/common/css/js/vendor/jquery-1.11.2.min.js"><\/script>')</script>
+<script src="/bioclub-org/common/js/vendor/jquery.min.js"></script><script>window.jQuery || document.write('<script src="/bioclub-org/common/css/js/vendor/jquery-1.11.2.min.js"><\/script>')</script>
 <script src="/bioclub-org/common/js/vendor/jquery.easing.1.3.js"></script>
 <script src="/bioclub-org/common/js/vendor/jquery.scrollbar.min.js"></script>
 <script src="/bioclub-org/common/js/vendor/imagesloaded.pkgd.min.js"></script>

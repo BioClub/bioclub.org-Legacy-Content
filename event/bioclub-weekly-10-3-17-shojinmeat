@@ -11,7 +11,7 @@
 		
 		<meta property="og:title" content="">
 		
-	<meta property="og:url" content="http://bioclub.org/event/bioclub-weekly-10-3-17-shojinmeat">
+	<meta property="og:url" content="/bioclub-org/event/bioclub-weekly-10-3-17-shojinmeat">
 			
 		
 					
@@ -29,18 +29,7 @@
 	<meta property="og:site_name" content="BioClub">
 	<meta property="article:publisher" content="https://www.facebook.com/bioclubshibuya/">
 	
-	<!-- google map api -->
-	<script type='text/javascript' charset='utf-8' src='//maps.googleapis.com/maps/api/js?&key=AIzaSyDgoNhhsnaOD8gnESPlY5xC1yr6y-R_3WI'></script>
-	
-	<!-- Global site tag (gtag.js) - Google Analytics -->
-	<script async src="https://www.googletagmanager.com/gtag/js?id=UA-121405163-1"></script>
-	<script>
-		window.dataLayer = window.dataLayer || [];
-		function gtag(){dataLayer.push(arguments);}
-		gtag('js', new Date());
-		
-		gtag('config', 'UA-121405163-1');
-	</script>
+
 <style>
 @media screen and (min-width: 641px) {
   #single-wrapper .single-eyecatch {
@@ -455,8 +444,7 @@ Living Dyes | The Exhibition showcases the process and results of the research a
     <div class="copyright">&copy; 2024 Open BioClub</div>
 </footer>
 
-<script src="//ajax.googleapis.com/ajax/libs/jquery/1.11.2/jquery.min.js"></script>
-<script>window.jQuery || document.write('<script src="/bioclub-org/common/css/js/vendor/jquery-1.11.2.min.js"><\/script>')</script>
+<script src="/bioclub-org/common/js/vendor/jquery.min.js"></script><script>window.jQuery || document.write('<script src="/bioclub-org/common/css/js/vendor/jquery-1.11.2.min.js"><\/script>')</script>
 <script src="/bioclub-org/common/js/vendor/jquery.easing.1.3.js"></script>
 <script src="/bioclub-org/common/js/vendor/jquery.scrollbar.min.js"></script>
 <script src="/bioclub-org/common/js/vendor/imagesloaded.pkgd.min.js"></script>
