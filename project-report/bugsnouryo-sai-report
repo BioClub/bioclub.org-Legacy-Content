@@ -1,0 +1,444 @@
+<!doctype html>
+	<html class="no-js" lang="ja">
+    <head prefix="og: http://ogp.me/ns# website: http://ogp.me/ns/website#">
+	<meta charset="utf-8">
+	<meta http-equiv="X-UA-Compatible" content="IE=edge">
+	<title>BioClub</title>
+	
+			<meta name="description" content="bioclub">
+		
+			<meta property="og:description" content="">
+		
+		<meta property="og:title" content="bugs">
+		
+	<meta property="og:url" content="http://bioclub.org/project-report/bugsnouryo-sai-report">
+			
+		
+					
+	<meta property="og:type" content="website">
+	
+	<meta name="viewport" content="width=device-width">
+	<script src="/common/js/viewport.js"></script>
+	
+	<link rel="stylesheet" href="/common/css/normalize.min.css">
+	<link rel="stylesheet" href="/common/css/main.css?20170322">
+	<script src="/common/js/vendor/modernizr-2.8.3-respond-1.4.2.min.js"></script>
+	<script src="https://use.fontawesome.com/0dfbc630d2.js"></script>
+	<link rel="shortcut icon" href="/favicon.ico">
+	
+	<meta property="og:site_name" content="BioClub">
+	<meta property="article:publisher" content="https://www.facebook.com/bioclubshibuya/">
+	
+	<!-- google map api -->
+	<script type='text/javascript' charset='utf-8' src='//maps.googleapis.com/maps/api/js?&key=AIzaSyDgoNhhsnaOD8gnESPlY5xC1yr6y-R_3WI'></script>
+	
+	<!-- Global site tag (gtag.js) - Google Analytics -->
+	<script async src="https://www.googletagmanager.com/gtag/js?id=UA-121405163-1"></script>
+	<script>
+		window.dataLayer = window.dataLayer || [];
+		function gtag(){dataLayer.push(arguments);}
+		gtag('js', new Date());
+		
+		gtag('config', 'UA-121405163-1');
+	</script>
+<style>
+@media screen and (min-width: 641px) {
+  #single-wrapper .single-eyecatch {
+    height:580px;
+  }
+}</style>
+
+</head>
+
+<body class="single">
+		
+        <header id="site-header">
+            
+						<div class="header-logo-box img-style" id="logo">
+													<a href="/" class="block">
+				         							<h1 class="logo-img-slider-wrap">
+						<a href="/" class=""><img alt="BioClub" src="/common/img/logo.gif"></a>
+					</h1>
+				 
+				
+															 </a>
+												</div>
+			
+            <nav class="subnav">
+                <ul>
+                    <li>
+						<a href="http://bioclub.org/event/">
+								
+								events
+													</a>
+					</li>
+                    <li>
+						<a href="http://bioclub.org/news/">
+								
+								news
+													</a>
+					</li>
+											<li>
+							<a href="http://bioclub.org/project/">
+																	report
+															</a>
+						</li>
+										
+                </ul>
+									<div class="lang">
+						<div class="en"><a href="http://bioclub.org/en/" class="hv-op">en</a></div>
+						<div class="ja"><span>ja</span></div>
+					</div>
+				            </nav>
+			<div id="tag-show">#</div>
+			<div class="open-global-nav-btn" id="open-global-nav-btn"><span class="bar bar01"></span><span class="bar bar02"></span><span class="bar bar03"></span></div>
+			
+        </header>
+		
+		
+		<div class="open-global-nav" id="open-global-nav">
+			<div class="nav-inner" id="nav-inner">
+				<div class="btn-close txt-c" id="open-global-nav-close"><span class="bar bar01"></span><span class="bar bar02"></span></div>
+				<div class="table-style">
+					<div class="table-cell nav-box">
+						<div class="link-inner">
+							
+															<ul class="global-nav-lang-link">
+									<li><a href="http://bioclub.org/en/" class="hv-op">en</a></li>
+									<li><span>ja</span></li>
+								</ul>
+														
+							<ul class="global-nav-link">
+								<li>
+									<a href="http://bioclub.org/event/" class="hv-op">
+											
+											events
+																			</a>
+								</li>
+								<li>
+									<a href="http://bioclub.org/news/" class="hv-op">
+											
+											news
+																			</a>
+								</li>
+																											<li>
+											<a href="http://bioclub.org/project/" class="hv-op">
+																									report
+																							</a>
+										</li>
+																									
+															</ul>
+							
+							<ul class="global-nav-sub-link">
+																	<li><a class="hv-op" href="http://bioclub.org/about/">about</a></li>
+																<li><a href="/contact/" class="hv-op"><i class="fa fa-envelope"></i></a></li>
+								<li><a href="https://github.com/BioClub" target="_blank" class="hv-op"><i class="fa fa-github"></i></a></li>
+								<li><a href="https://www.facebook.com/bioclubtokyo/" target="_blank" class="hv-op"><i class="fa fa-facebook"></i></a></li>
+							</ul>
+						</div>
+					</div>
+				</div>
+			</div>
+		</div>
+			
+        <article id="single-wrapper">
+        	                        	                	<div class="single-eyecatch" style="background-image:url(http://bioclub.org/assets/images/bugreport.png)"></div>
+            	            			
+											
+																
+			<div class="single-head-pager-box">
+				<div class="ct-inner ct-side-space txt-c">
+					<div class="single-pager-text-box">
+																			<div class="single-pager-box prev">
+								<div class="table-style">
+									<a href="http://bioclub.org/project-report/open-source-science" class="table-cell va-mid">
+										<p class="single-pager-text">Prev</p>
+									</a>
+								</div>
+							</div>
+												
+						
+																																														
+																																																			
+																
+														
+											
+						<div class="single-pager-date-box">
+							<div class="table-style">
+								<div class="table-cell va-mid">
+																			<p class="single-pager-date-text">2018.08.11 (土) 18:00 – </p>	
+																	</div>
+							</div>
+						</div>
+					
+																			<div class="single-pager-box next">
+								<div class="table-style">
+									<a href="http://bioclub.org/project-report/wet-ware-fab-fabric-1-1" class="table-cell va-mid">
+										<p class="single-pager-text">Next</p>
+									</a>
+								</div>
+							</div>
+											</div>
+				</div>
+			</div>
+			
+            <header class="single-header">
+				
+								<div class="single-post-info-box">
+						<span class="ct-label lg va-top type">project reports</span>
+
+						
+																				<span class="ct-label lg va-top mgl0 status">終了</span>
+														
+					
+
+
+
+
+				</div>
+				
+				<h1 class="ct-single-ttl h1"> 虫を聞き虫を食べる「バグズ納涼祭」レポート</h1>
+			   
+																	<div class="ct-tag-btn-list-wrap">
+													<div class="tag-btn"><a href="http://bioclub.org/tags/news">#NEWS</a></div>
+													<div class="tag-btn"><a href="http://bioclub.org/tags/report">#REPORT</a></div>
+											</div>
+							</header>
+		
+			<div class="single-content">
+								
+						
+											<p>虫は、私たちにとって、もっとも奇妙な隣人のひとりかもしれません。<br />夏は虫たちの季節。帰宅した玄関先でジージー鳴きながら飛び回ってジタバタしているセミは、誰かにとってはナイトメアかもしれません。</p>
+<p>秋が近づき、少し涼しい風が吹く河辺を歩いていると、ふと空を見上げると、夕暮れの向こうの方にトンボの群れが飛んでいきます。この時、ふとセンチメンタルな感情をトンボに重ねている自分に気づくことがある。</p>
+<p>虫たちは季節を演出する役者であり、私たちの感情に様々な形で寄り添って生きています。夏の終わり、そんな虫たちにまつわる“納涼”を堪能するイベント、その名も「虫を聞き虫を食べる - バグズ納涼祭- 」がBioClubで開催されました。</p>
+<p><img src="https://lh5.googleusercontent.com/TMJ0gd-GkJ71NtNcZ1bHJQ-Z4NtzMXWhKOnn6etqJZuDHkg__D7uAKDxLxUwQSZxzfTGlhotS3LQJmGJ-QwbnuQZ37ILHusuXaAILwAwYl4W3d8uNcmdbKkpsr2lmodzzjzVMC-n" width="602" height="403" style="border-style:none;" alt="TMJ0gd-GkJ71NtNcZ1bHJQ-Z4NtzMXWhKOnn6etqJZuDHkg__D7uAKDxLxUwQSZxzfTGlhotS3LQJmGJ-QwbnuQZ37ILHusuXaAILwAwYl4W3d8uNcmdbKkpsr2lmodzzjzVMC-n" /><br /></p>
+<p>
+</p>
+<p><img src="https://lh6.googleusercontent.com/AVPnNSKgVnagnhC6Wfl-yegu0avceF6ycXtlVy_GCw9PKrttXWoQqwplz-1KTIQKlnDt7eVhDFZm-K5wG6fTCd7UMkQvMjLvDQDox4rlmBdWzmu8GmNXj4Q-QgGRfSjl6vjCYdnU" width="602" height="403" style="border-style:none;" alt="AVPnNSKgVnagnhC6Wfl-yegu0avceF6ycXtlVy_GCw9PKrttXWoQqwplz-1KTIQKlnDt7eVhDFZm-K5wG6fTCd7UMkQvMjLvDQDox4rlmBdWzmu8GmNXj4Q-QgGRfSjl6vjCYdnU" /></p>
+<p><strong><br />【虫を纏い、自らの境界線を拡張する】</strong></p>
+<p>幼い頃、多くの人は自分と他者、人間と他の生物に、明確な境界線を見出してはいなかったものです。</p>
+<p>今は玄関先でのたうち回るセミや、羽音を立てて街灯のまわりを飛ぶカナブンは、ある人にとっては恐怖の対象かもしれません。しかし幼い頃はそれらの虫が動き回る様子や、歩き回る仕草に自分を重ね、空を飛んだり、自分が小さくなったりする空想にふけり、それらの仮想体験を絵に描いたりした経験が誰しもあるものです。かつて私たちは、いろんなものになることができた。それは自己の境界線が曖昧で、どこまでも拡張可能だったからなのかもしれません。</p>
+<p>アーティストのドリタさんの「虫の足音を音と振動で聞く作品」は、虫を身に纏うような体験を通し、虫の身体感覚を自分のことのように感じられる作品です。</p>
+<p><img src="https://lh6.googleusercontent.com/ZbW9B0PvzbnP8LIKVSnvmzLH2KW8tBY0cV3G3rJ6btV9XYT7Qhcn2k3kyLAJ3i4T7EAeaAQlJTOc9KaghqgSloWYdu2QomyAVdxToUfudOZVr67px6HAx1anpoblxrkz_5DiEWp3" width="602" height="401" style="border-style:none;" alt="ZbW9B0PvzbnP8LIKVSnvmzLH2KW8tBY0cV3G3rJ6btV9XYT7Qhcn2k3kyLAJ3i4T7EAeaAQlJTOc9KaghqgSloWYdu2QomyAVdxToUfudOZVr67px6HAx1anpoblxrkz_5DiEWp3" /></p>
+<p>体験する人は、まずダンゴムシやクワガタなど用意された虫から、自分の好きな虫を選び、それをカプセルの中に入れます。虫たちはカプセルの中で自由に動き回ります。その虫の足音や、身体が物に触れる音が、カプセルの床面にあるマイクから集められて増幅され、指向性スピーカーから出力されます。体験する人は、まるで人の足音のように大きな音として、それらを聞くことができます。</p>
+<p>「体験した人からは『虫を大きく感じた』などの感想をいただいてます。今日多かったのは、『自分が虫になったようだ』という感想でした。カプセルの中の虫が、そこに置いてある木の上に乗ると、まるで自分で座っているような感覚を覚えたといった感想がありました」（ドリタ）</p>
+<p>また、体験中の脳の活動がモニタリングされているため、体験者は虫の音を聞きながら、自分自身がどのような精神状態にいたかを知ることができます。</p>
+<p><img src="https://lh6.googleusercontent.com/jRdl9RL7GSKzmXBsb7eSUruH49Xkm_JY13HATyS67AsKMcW2KY5xQ73gMSt2zSh8ZPXvMg8FK1BXRy3AmhPin7FY1hcKbNn9hj3nPXelxFBV4ScSBRvBj3fz_54i50fO8JlSUNkR" width="602" height="401" style="border-style:none;" alt="jRdl9RL7GSKzmXBsb7eSUruH49Xkm_JY13HATyS67AsKMcW2KY5xQ73gMSt2zSh8ZPXvMg8FK1BXRy3AmhPin7FY1hcKbNn9hj3nPXelxFBV4ScSBRvBj3fz_54i50fO8JlSUNkR" /></p>
+<p>「この作品を通して、どうやら虫の状態が人間の精神に反映されるようです。私は、体験した人々が虫のことを恐れなくなったり、リラックスしていたり、または虫の存在を過度に大きく感じてしまい、虫を恐れるようになる様子を目の当たりにしてきました。そのとき人間の脳内ではどんなことが起きているのか。それを定量的に評価するために脳波を計測しています。今後は脳波のデータも活かしながら、より自分の立場を捨てて作品に没入できる環境をつくってみたい。まるで自分自身が虫になるような感覚を構築できる作品になっていくといいなと思っています」（ドリタ）</p>
+<p><strong>【蜂の子狩り「ヘボ追い」は人と自然をゆるやかに繋ぐ】</strong></p>
+<p>もうひとりのプレゼンターは岐阜県にある情報科学芸術大学院大学「IAMAS」出身の山口伊生人さん。山口さんはかつて日本各地で行われていた、蜂の子狩り「ヘボ追い」の研究者です。<br /><br />「ヘボ追いはまさに現代のブリコラージュ（※）です。地域住民の有志によって構成される狩猟集団が、独自の狩猟道具をつくって行います。そこに発揮されている楽しさと創造性には目を見張るものがあります」（山口）</p>
+<p>竹村さんは岐阜県中津川市付知町のヘボ追いにエスノグラファーとして参加。ラピッドプロトタイピングなどの手法を導入し、失われつつあるその魅力を伝承し継承するためのブックレット「ZINE」を配布する活動を行っています。</p>
+<p>プレゼンでは、クロスズメバチに餌を捕獲させ、巣を追跡するところから、巣を採取し、養殖し、多くの蜂の子を収穫するまでの一部始終が紹介されました。</p>
+<p>追跡の際に用いられるのは、「チラ」と呼ばれる小さくて軽い「旗」のようなもの。これをハチに持ち帰らせることで巣の場所を突き止めます。巣の採取の際も水平を保って持ち帰るなど、知恵と工夫に溢れたへぼ追いの仕事は、まるで昆虫界の爆弾処理班そのもので、会場を沸かせました。</p>
+<p><img src="https://lh5.googleusercontent.com/P0Y_T6bTj3J1LQiF7E-DBJEla_cC9GOcrJazZKXyaX8ipQOUmLELBWm_INqUsIE8rxV4jEUrQzUg18iX_CEtBHUOkaoUau4_aQG7fH3S8o-o4nhX_YdKluW707k6LCX6bG5JrK-D" width="602" height="401" style="border-style:none;" alt="P0Y_T6bTj3J1LQiF7E-DBJEla_cC9GOcrJazZKXyaX8ipQOUmLELBWm_INqUsIE8rxV4jEUrQzUg18iX_CEtBHUOkaoUau4_aQG7fH3S8o-o4nhX_YdKluW707k6LCX6bG5JrK-D" /></p>
+<p><img src="https://lh5.googleusercontent.com/md6i00VElGv6hmC9MNeWs1NQqxa5K5rUUAEVzkAJXEAHWmpmAAAtie-nFeT5GTxfLYe7GydrLEiqXm7HD6v5vuXccgqn0CVG-ZSUpLfa7_XVY06Jm05QbhqnenmvGviSam6eVsla" width="602" height="403" style="border-style:none;" alt="md6i00VElGv6hmC9MNeWs1NQqxa5K5rUUAEVzkAJXEAHWmpmAAAtie-nFeT5GTxfLYe7GydrLEiqXm7HD6v5vuXccgqn0CVG-ZSUpLfa7_XVY06Jm05QbhqnenmvGviSam6eVsla" /><br /></p>
+<p>「田舎は都市と違い、夕食に店で“買ってないもの”がでてくる。それらは山で採れた木の実やキノコなどです。蜂の子もそのひとつで、珍味などではなく、地域社会でずっと身の回りにあったものであり、食べ継がれてきたものです。その系譜の中でヘボ追いも生まれ、受け継がれてきた文化なんです」（山口）</p>
+<p>先のドリタさんの作品が、衣食住で言えば、虫を纏うという点で「衣」に特化していたとすれば、山口さんのプレゼンは、虫の「住」を感じさせてくれました。「住」とは、ただ風雨をしのげる家を建てるだけではありません。「住」とはつまり与えられた環境との協調なのです。ヘボ追いは、自然から蜂を食として享受するための営みに他なりませんが、与えられた環境の中で、人々の「住」をつくるためのコミュニティであり伝統であるようにも感じられました。</p>
+<p>都会と比べてみれば、ヘボ追いがあるコミュニティは自然と人間の境界線がよりうまく協調しており、「住」み良いものであるようにすら思えました。</p>
+<p>※「器用仕事」と訳される人類学用語のひとつ。身の回りの材料や道具を使って、与えられた環境に適応する工夫や知恵を言い表す言葉であり、それに基づく文化そのものを表現する場合もある。</p>
+<p><strong><br />【虫が広げる、食の宇宙】</strong></p>
+<p>イベント会場のテーブルにはたくさんの虫たちが並んでいました。これらは食としての虫、つまり昆虫食です。ざざむしやバッタ、コオロギや蜂の子など、さまざまな虫が食卓に並びます。これらをビールとともに楽しみながら、イベントは進んでいました。</p>
+<p>もうひとりのプレゼンターはファブラボ浜松代表の竹村真人さん。普段はファブラボの運営や、イベントオーガナイザーとして仕事をしている竹村さんは勇敢な食の開拓者です。</p>
+<p>彼のTumblr「HOW TO EAT (ALMOST) ANYTHING」を覗いてみると、台北の蛇料理レストランで蛇の血や毒をショットグラスで飲んでいる恐ろしい光景や、世界で二番目に臭い（一番って何なんだろう）発酵食品が紹介されていたり、海辺の船や岩にびっしりとこびりつくフジツボを食べている様子など、世界各地を旅して味わった食の遍（変）歴が大量に投稿されています。</p>
+<p><img src="https://lh4.googleusercontent.com/dYHLVBXjPwJw1QwfVsXdd9sPLlDDHeoeWJLWRjxN_d3XkzIf0BS6N8_sSNJSntWCXkJXpfJW07a7bnmZtxu2688QHdZ5p1S9soNc1lE9k66oGoywXwI3OO-a4aS5Umq-bqvZB1Qm" width="602" height="403" style="border-style:none;" alt="dYHLVBXjPwJw1QwfVsXdd9sPLlDDHeoeWJLWRjxN_d3XkzIf0BS6N8_sSNJSntWCXkJXpfJW07a7bnmZtxu2688QHdZ5p1S9soNc1lE9k66oGoywXwI3OO-a4aS5Umq-bqvZB1Qm" /></p>
+<p>「ファブラボの世界大会に行ったら、すぐにゲテモノ料理を探すということが習慣になり、ライフワークになりました。Tumblrをつくっていくと、それを見た多くの人がゲテモノ料理に誘ってくれるようになりました。蛇料理のレストランで、毒のショットとともに解毒剤のカプセルが出てきたときは驚きましたね（笑）」（竹村）</p>
+<p>会場を震撼させたのは、ヤシの木の中にいるカミキリムシの幼虫を食べる映像。ナンプラーにつけただけの、なんと生の「踊り食い」です。この幼虫は木を食い破るほどの強い歯を持っているので、頭部をつまんで残し、胴体だけを食べる。こうしないとお腹を食い破られるそうです（想像しただけで恐ろしいですね…）。味は非常に美味しく、まるでピーナツバターを食べているような味わいなのだとか。現地では精力剤として売られているそうです。</p>
+<p>竹村さんは当然、虫の「食」がテーマ。そのプレゼンは、一見するとゲテモノ自慢なのですが、その話には「食の境界線」が感じられました。見た目はゲテモノでも、それらは現地の人からすればローカルフードです。ゲテモノに見えるのは、私たちがそれらの手前に食の境界線を引いているからです。</p>
+<p>食の境界線は、食文化や、その土地の生態系などによって定義されています。この境界線をまたぐと、動物が突然、食べ物に見えたり、食べ物ではないものに見えたりするわけです。</p>
+<p><img src="https://lh6.googleusercontent.com/8o5tyHcJofkfyA61rG2g0hYpUbz9-W_IKO8JlzsqvOQyxjLy1p1Lls9ahAsb-Zf1N957b5r1BGrv1Yn2BPbwxrrZazi6mS14-JZMfTItQ7PI0B7dpIdkaoMUaYIdmp_8WvztvNar" width="602" height="401" style="border-style:none;" alt="8o5tyHcJofkfyA61rG2g0hYpUbz9-W_IKO8JlzsqvOQyxjLy1p1Lls9ahAsb-Zf1N957b5r1BGrv1Yn2BPbwxrrZazi6mS14-JZMfTItQ7PI0B7dpIdkaoMUaYIdmp_8WvztvNar" /></p>
+<p>虫を聞き、虫を食べながら、虫の衣食住を考察してゆくたび、この奇妙な隣人は今の私たちが生きているよりもずっと前から人間に寄り添ってきたことがありありと感じられました。虫について考えることは、人間について考えることなのかもしれない。そう思える、ちょっと奇妙で示唆に満ちた納涼祭でした。</p>
+<p><img src="https://lh3.googleusercontent.com/e0lORInE7vRo_x9aEZDezDwHrkYqWJubcW0xH972eZ5zAvtD64Yg7v2jF6ycTw9GoZEaobLzVH7wZhiefayuLI4cusxRdCd_SEoGMHNG10ybEqo363p0T_GUzrHt2JVAvxdHdGHR" width="602" height="401" style="border-style:none;" alt="e0lORInE7vRo_x9aEZDezDwHrkYqWJubcW0xH972eZ5zAvtD64Yg7v2jF6ycTw9GoZEaobLzVH7wZhiefayuLI4cusxRdCd_SEoGMHNG10ybEqo363p0T_GUzrHt2JVAvxdHdGHR" /></p>
+<p><br /></p>
+<p>開催情報</p>
+<p>虫を聞き虫を食べる - バグズ納涼祭<br />日時：2018年8月11日（土）18:00 - 20:30<br />場所：FabCafe MTRL<br />ゲスト：<br />ドリタ（アーティスト）<br />竹村まさと（FabLab浜松 主宰）<br />山口伊生人 And more..</p>
+<p>イベントページ：<br /><a href="http://bioclub.org/event/bugseatlisten">http://bioclub.org/event/bugse...</a></p>
+									
+				
+									
+	
+			</div><!-- .single-content -->
+            
+			
+			
+											
+																
+			<div class="single-head-pager-box type-white">
+				<div class="ct-inner ct-side-space txt-c">
+					<div class="single-pager-text-box">
+																			<div class="single-pager-box prev">
+								<div class="table-style">
+									<a href="http://bioclub.org/project-report/open-source-science" class="table-cell va-mid">
+										<p class="single-pager-text">Prev</p>
+									</a>
+								</div>
+							</div>
+												
+						<div class="single-pager-date-box">
+							<div class="table-style">
+								<div class="table-cell va-mid">
+									<a href="http://bioclub.org/project_report/">
+																					一覧ページへ
+																			</a>
+								</div>
+							</div>
+						</div>
+					
+																			<div class="single-pager-box next">
+								<div class="table-style">
+									<a href="http://bioclub.org/project-report/wet-ware-fab-fabric-1-1" class="table-cell va-mid">
+										<p class="single-pager-text">Next</p>
+									</a>
+								</div>
+							</div>
+											</div>
+				</div>
+			</div>
+
+										<aside>
+					<div class="ct-inner ct-side-space">
+													<h2 class="h2 ct-bd-ttl">新着記事</h2>
+												<ul class="article-list col3">
+															<li class="article">
+	<a href="http://bioclub.org/project-report/イベントレポート-バイオリソースは生命の方舟-ダイバーシティが拡げるバイオの可能性-科学技術と社会を縁の下で支える-バイオリソース-をどう伝え-活用するか" class="ct-block hv-op">
+	
+		<p class="ct-label-wrap">
+							<span class="ct-label text-small lg type va-top">project reports</span>
+						
+																																						<span class="ct-label text-small lg va-top status">終了</span>
+																
+												
+						
+													
+		</p>
+		
+		
+	
+									
+		
+		
+										
+		<h2 class="article-ttl">
+			科学技術と社会を縁の下で支える「バイオリソース」をどう伝え、活用するか /「バイオリソースは生命の方舟〜ダイバーシティが拡げるバイオの可能性〜」
+		</h2>
+	</a>
+	
+																														<div class="tag-btn"><a href="http://bioclub.org/tags/イベント">#トークイベント</a></div>
+		
+							<div class="thumb">
+				<a href="http://bioclub.org/project-report/イベントレポート-バイオリソースは生命の方舟-ダイバーシティが拡げるバイオの可能性-科学技術と社会を縁の下で支える-バイオリソース-をどう伝え-活用するか" class="ct-block hv-op">
+					<span class="img-wrapper"><img src="http://bioclub.org/assets/images/原稿1番目_改.jpg" alt="科学技術と社会を縁の下で支える「バイオリソース」をどう伝え、活用するか /「バイオリソースは生命の方舟〜ダイバーシティが拡げるバイオの可能性〜」"></span>
+					
+																<p class="ct-link-lead">2021年、理化学研究所バイオリソース研究センターは設立から20周年を迎えます。その節目を迎えるにあたり、アウトリーチ活動を通した社会との連携を目指します。2021年3月6日、そのファーストステップとして、一般向けにBRCの事業の紹介を行いバイオリソースの活用法や市民とのコミュニケーションについて方向性を探ることを目的として「バイオリソースは生命の方舟：ダイバーシティが拡げるバイオの可能性」を実施しました。</p>
+									</a>
+			</div>
+			</li>															<li class="article">
+	<a href="http://bioclub.org/project-report/微生物多様性から都市におけるウェルビーイングを探る-3か月でアウトリーチ活動を実践-living-machine-project" class="ct-block hv-op">
+	
+		<p class="ct-label-wrap">
+							<span class="ct-label text-small lg type va-top">project reports</span>
+						
+																																
+						
+													
+		</p>
+		
+		
+	
+									
+		
+		
+										
+		<h2 class="article-ttl">
+			微生物多様性から都市におけるウェルビーイングを探る。 3か月でアウトリーチ活動を実践「Living Machine Project」
+		</h2>
+	</a>
+	
+																														<div class="tag-btn"><a href="http://bioclub.org/tags/ワークショップ">#ワークショップ</a></div>
+		
+							<div class="thumb">
+				<a href="http://bioclub.org/project-report/微生物多様性から都市におけるウェルビーイングを探る-3か月でアウトリーチ活動を実践-living-machine-project" class="ct-block hv-op">
+					<span class="img-wrapper"><img src="http://bioclub.org/assets/images/panasonic-flf_living_machine-8.jpg" alt="微生物多様性から都市におけるウェルビーイングを探る。 3か月でアウトリーチ活動を実践「Living Machine Project」"></span>
+					
+																<p class="ct-link-lead">パナソニックにおいて先行開発に特化したプロジェクトを推進するデザインチーム「FUTURE LIFE FACTORY」は、都市生活者のウェルビーイングを考えるにあたり、土壌に生息する微生物の多様性に着目。長期展望から微生物多様性の重要性を啓発し、都市生活者の間で対話や議論を喚起することを目的に「Living Machine Project」を立ち上げました。</p>
+									</a>
+			</div>
+			</li>															<li class="article">
+	<a href="http://bioclub.org/project-report/wet-ware-fab-fabric-1-1" class="ct-block hv-op">
+	
+		<p class="ct-label-wrap">
+							<span class="ct-label text-small lg type va-top">project reports</span>
+						
+																																						<span class="ct-label text-small lg va-top status">終了</span>
+																
+												
+						
+													
+		</p>
+		
+		
+	
+									
+		
+		
+																		
+																																																		
+													
+						<div class="event-date">2018.11.24 (土) 18:00 – </div>
+				
+		<h2 class="article-ttl">
+			WET - WARE / FAB - FABRIC 第一回目「生命を身につける」 半生命的素材とはなにか イベントレポート
+		</h2>
+	</a>
+	
+																									<div class="tag-btn"><a href="http://bioclub.org/tags/news">#NEWS</a></div>
+		
+							<div class="thumb">
+				<a href="http://bioclub.org/project-report/wet-ware-fab-fabric-1-1" class="ct-block hv-op">
+					<span class="img-wrapper"><img src="http://bioclub.org/assets/images/wwff01.jpg" alt="WET - WARE / FAB - FABRIC 第一回目「生命を身につける」 半生命的素材とはなにか イベントレポート"></span>
+					
+																<p class="ct-link-lead">Design researcher Kazuya Kawasaki and Bio Club director Chiaki Ishizuka organized the WET - WARE - / FAB - FABRIC working group to study and practice innovation at the intersection of biotechnology and fashion. The commemorative first meeting reconsidered the concept of conventional &quot;anthropocentric&quot; clothing design and featured Mr. Yohsuke Takahashi, curator at the 21st Century Museum of Contemporary Art, Kanazawa who actively plans bio-art exhibitions.</p>
+									</a>
+			</div>
+			</li>													</ul>
+					</div>
+					
+				</aside>
+						
+        </article>
+
+	<div class="single-footer-wrap">
+	
+<nav id="tag-modal">
+    <div class="tag-modal-ttl">tags</div>
+    <ul>
+					<li><a href="http://bioclub.org/tags/weekly_meeting">#WeeklyMeeting<span>&nbsp;(29)</span></a></li>
+					<li><a href="http://bioclub.org/tags/ワークショップ">#ワークショップ<span>&nbsp;(32)</span></a></li>
+					<li><a href="http://bioclub.org/tags/イベント">#トークイベント<span>&nbsp;(33)</span></a></li>
+					<li><a href="http://bioclub.org/tags/ミートアップ">#ミートアップ<span>&nbsp;(7)</span></a></li>
+					<li><a href="http://bioclub.org/tags/news">#NEWS<span>&nbsp;(10)</span></a></li>
+					<li><a href="http://bioclub.org/tags/report">#REPORT<span>&nbsp;(11)</span></a></li>
+					<li><a href="http://bioclub.org/tags/biohack-academy">#BioHack Academy<span>&nbsp;(12)</span></a></li>
+					<li><a href="http://bioclub.org/tags/project">#PROJECT<span>&nbsp;(2)</span></a></li>
+		    </ul>
+</nav>
+<div id="tag-modal-close"></div>
+
+<footer id="site-footer">
+    <div class="copyright">&copy; 2024 Open BioClub</div>
+</footer>
+
+<script src="//ajax.googleapis.com/ajax/libs/jquery/1.11.2/jquery.min.js"></script>
+<script>window.jQuery || document.write('<script src="/common/css/js/vendor/jquery-1.11.2.min.js"><\/script>')</script>
+<script src="/common/js/vendor/jquery.easing.1.3.js"></script>
+<script src="/common/js/vendor/jquery.scrollbar.min.js"></script>
+<script src="/common/js/vendor/imagesloaded.pkgd.min.js"></script>
+<script src="/common/js/vendor/masonry.pkgd.min.js"></script>
+<script src="/common/js/vendor/jquery.touchSwipe.min.js"></script>
+<script src="/common/js/vendor/jquery.BlackAndWhite.js"></script>
+<script src="/common/js/vendor/slick.min.js"></script>
+<script src="/common/js/main.js?20180322"></script>
+<script src="/common/js/common.js"></script>
+	</div>
+	
+</body>
+</html>

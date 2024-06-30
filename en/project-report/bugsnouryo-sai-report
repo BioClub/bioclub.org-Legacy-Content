@@ -1,0 +1,427 @@
+<!doctype html>
+	<html class="no-js" lang="ja">
+    <head prefix="og: http://ogp.me/ns# website: http://ogp.me/ns/website#">
+	<meta charset="utf-8">
+	<meta http-equiv="X-UA-Compatible" content="IE=edge">
+	<title>BioClub</title>
+	
+			<meta name="description" content="descriptionテスト入力">
+		
+			<meta property="og:description" content="">
+		
+		<meta property="og:title" content="bugs">
+		
+	<meta property="og:url" content="http://bioclub.org/en/project-report/bugsnouryo-sai-report">
+			
+		
+					
+	<meta property="og:type" content="website">
+	
+	<meta name="viewport" content="width=device-width">
+	<script src="/common/js/viewport.js"></script>
+	
+	<link rel="stylesheet" href="/common/css/normalize.min.css">
+	<link rel="stylesheet" href="/common/css/main.css?20170322">
+	<script src="/common/js/vendor/modernizr-2.8.3-respond-1.4.2.min.js"></script>
+	<script src="https://use.fontawesome.com/0dfbc630d2.js"></script>
+	<link rel="shortcut icon" href="/favicon.ico">
+	
+	<meta property="og:site_name" content="BioClub">
+	<meta property="article:publisher" content="https://www.facebook.com/bioclubshibuya/">
+	
+	<!-- google map api -->
+	<script type='text/javascript' charset='utf-8' src='//maps.googleapis.com/maps/api/js?&key=AIzaSyDgoNhhsnaOD8gnESPlY5xC1yr6y-R_3WI'></script>
+	
+	<!-- Global site tag (gtag.js) - Google Analytics -->
+	<script async src="https://www.googletagmanager.com/gtag/js?id=UA-121405163-1"></script>
+	<script>
+		window.dataLayer = window.dataLayer || [];
+		function gtag(){dataLayer.push(arguments);}
+		gtag('js', new Date());
+		
+		gtag('config', 'UA-121405163-1');
+	</script>
+<style>
+@media screen and (min-width: 641px) {
+  #single-wrapper .single-eyecatch {
+    height:580px;
+  }
+}</style>
+
+</head>
+
+<body class="single">
+		
+        <header id="site-header">
+            
+						<div class="header-logo-box img-style" id="logo">
+													<a href="/en" class="block">
+				         							<h1 class="logo-img-slider-wrap">
+						<a href="/" class=""><img alt="BioClub" src="/common/img/logo.gif"></a>
+					</h1>
+				 
+				
+															 </a>
+												</div>
+			
+            <nav class="subnav">
+                <ul>
+                    <li>
+						<a href="http://bioclub.org/en/event/">
+								
+								events
+													</a>
+					</li>
+                    <li>
+						<a href="http://bioclub.org/en/news/">
+								
+								news
+													</a>
+					</li>
+										
+                </ul>
+									<div class="lang">
+						<div class="en"><span>en</span></div>
+						<div class="ja"><a href="/" class="hv-op">ja</a></div>
+					</div>
+				            </nav>
+			<div id="tag-show">#</div>
+			<div class="open-global-nav-btn" id="open-global-nav-btn"><span class="bar bar01"></span><span class="bar bar02"></span><span class="bar bar03"></span></div>
+			
+        </header>
+		
+		
+		<div class="open-global-nav" id="open-global-nav">
+			<div class="nav-inner" id="nav-inner">
+				<div class="btn-close txt-c" id="open-global-nav-close"><span class="bar bar01"></span><span class="bar bar02"></span></div>
+				<div class="table-style">
+					<div class="table-cell nav-box">
+						<div class="link-inner">
+							
+															<ul class="global-nav-lang-link">
+									<li><span>en</span></li>
+									<li><a href="/" class="hv-op">ja</a></li>
+								</ul>
+														
+							<ul class="global-nav-link">
+								<li>
+									<a href="http://bioclub.org/en/event/" class="hv-op">
+											
+											events
+																			</a>
+								</li>
+								<li>
+									<a href="http://bioclub.org/en/news/" class="hv-op">
+											
+											news
+																			</a>
+								</li>
+																
+																	<li>
+										<a href="http://bioclub.org/en/archive/" class="hv-op">
+												
+												archive
+																					</a>
+									</li>
+															</ul>
+							
+							<ul class="global-nav-sub-link">
+																<li><a href="/contact/" class="hv-op"><i class="fa fa-envelope"></i></a></li>
+								<li><a href="https://github.com/BioClub" target="_blank" class="hv-op"><i class="fa fa-github"></i></a></li>
+								<li><a href="https://www.facebook.com/bioclubtokyo/" target="_blank" class="hv-op"><i class="fa fa-facebook"></i></a></li>
+							</ul>
+						</div>
+					</div>
+				</div>
+			</div>
+		</div>
+			
+        <article id="single-wrapper">
+        	                        	                	<div class="single-eyecatch" style="background-image:url(http://bioclub.org/assets/images/bugreport.png)"></div>
+            	            			
+											
+																
+			<div class="single-head-pager-box">
+				<div class="ct-inner ct-side-space txt-c">
+					<div class="single-pager-text-box">
+																			<div class="single-pager-box prev">
+								<div class="table-style">
+									<a href="http://bioclub.org/en/project-report/open-source-science" class="table-cell va-mid">
+										<p class="single-pager-text">Prev</p>
+									</a>
+								</div>
+							</div>
+												
+						
+																																														
+																																																			
+																
+								
+														
+											
+						<div class="single-pager-date-box">
+							<div class="table-style">
+								<div class="table-cell va-mid">
+																			<p class="single-pager-date-text">Sat., August 11, 18:00 – </p>	
+																	</div>
+							</div>
+						</div>
+					
+																			<div class="single-pager-box next">
+								<div class="table-style">
+									<a href="http://bioclub.org/en/project-report/wet-ware-fab-fabric-1-1" class="table-cell va-mid">
+										<p class="single-pager-text">Next</p>
+									</a>
+								</div>
+							</div>
+											</div>
+				</div>
+			</div>
+			
+            <header class="single-header">
+				
+								<div class="single-post-info-box">
+						<span class="ct-label lg va-top type">project reports</span>
+
+						
+																				<span class="ct-label lg va-top mgl0 status">End</span>
+														
+					
+
+
+
+
+				</div>
+				
+				<h1 class="ct-single-ttl h1">Listen to the bugs, and eat them too - Bugs Summer Night Festival Report.</h1>
+			   
+																	<div class="ct-tag-btn-list-wrap">
+													<div class="tag-btn"><a href="http://bioclub.org/en/tags/news">#NEWS</a></div>
+													<div class="tag-btn"><a href="http://bioclub.org/en/tags/report">#REPORT</a></div>
+											</div>
+							</header>
+		
+			<div class="single-content">
+								
+						
+											<p>Bugs may be our strangest neighbors.<br />Summer is the bugs’ season. The chirp of the cicada at the doorway may be a nightmare for some people when they come home.</p>
+<p>As the autumn approaches, I look up at the sky while walking down the river. A cool breeze blows as I notice a swarm of dragonflies flying towards the sunset. I realize then how I associate dragonflies with sentimental emotions.</p>
+<p>Bugs are actors who perform the role of seasons. They affect our emotions in various ways. At the end of the summer, BioClub hosted an event to enjoy the cool summer nights associated with these bugs. The event is called Listen to the bugs, and eat them too - Bugs Summer Night Festival.</p>
+<p><img src="https://lh5.googleusercontent.com/TMJ0gd-GkJ71NtNcZ1bHJQ-Z4NtzMXWhKOnn6etqJZuDHkg__D7uAKDxLxUwQSZxzfTGlhotS3LQJmGJ-QwbnuQZ37ILHusuXaAILwAwYl4W3d8uNcmdbKkpsr2lmodzzjzVMC-n" width="602" height="403" alt="TMJ0gd-GkJ71NtNcZ1bHJQ-Z4NtzMXWhKOnn6etqJZuDHkg__D7uAKDxLxUwQSZxzfTGlhotS3LQJmGJ-QwbnuQZ37ILHusuXaAILwAwYl4W3d8uNcmdbKkpsr2lmodzzjzVMC-n" style="border-style:none;vertical-align:middle;height:auto;" /></p>
+<p><img src="https://lh6.googleusercontent.com/AVPnNSKgVnagnhC6Wfl-yegu0avceF6ycXtlVy_GCw9PKrttXWoQqwplz-1KTIQKlnDt7eVhDFZm-K5wG6fTCd7UMkQvMjLvDQDox4rlmBdWzmu8GmNXj4Q-QgGRfSjl6vjCYdnU" width="602" height="403" alt="AVPnNSKgVnagnhC6Wfl-yegu0avceF6ycXtlVy_GCw9PKrttXWoQqwplz-1KTIQKlnDt7eVhDFZm-K5wG6fTCd7UMkQvMjLvDQDox4rlmBdWzmu8GmNXj4Q-QgGRfSjl6vjCYdnU" style="border-style:none;vertical-align:middle;height:auto;" /></p>
+<p><strong>Imagining ourselves as bugs, and extending our boundaries.</strong></p>
+<p>When they are young, many people have no clear boundaries defined between themselves and other people, or between humans and other organisms.</p>
+<p>Now, when they see a cicada writhing at their doorway, or hear a drone beetle buzzing around a street light, they may consider it terrifying. However, everyone experiences a phase when they are young, where they get inspired by watching the behavior of these bugs moving and walking around. They daydream about flying in the sky or shrinking, and get obsessed with these daydreams, and even draw pictures of them. Back then, we were able to imagine ourselves as a lot of things because our boundaries were unclear, and we were able to expand them as much as we please.</p>
+<p>The artist, Dorita, has an installation where you can listen to the footsteps of the bugs through sound and vibration. It lets the participants see through the bugs’ eyes, and experience what it would be like from the bugs’ perspective.</p>
+<p><img src="https://lh6.googleusercontent.com/ZbW9B0PvzbnP8LIKVSnvmzLH2KW8tBY0cV3G3rJ6btV9XYT7Qhcn2k3kyLAJ3i4T7EAeaAQlJTOc9KaghqgSloWYdu2QomyAVdxToUfudOZVr67px6HAx1anpoblxrkz_5DiEWp3" width="602" height="401" alt="ZbW9B0PvzbnP8LIKVSnvmzLH2KW8tBY0cV3G3rJ6btV9XYT7Qhcn2k3kyLAJ3i4T7EAeaAQlJTOc9KaghqgSloWYdu2QomyAVdxToUfudOZVr67px6HAx1anpoblxrkz_5DiEWp3" style="border-style:none;" /></p>
+<p>The participants first choose the bug they like from the prepared bugs, such as pill bugs or stag beetles, then put it in the capsule. The bugs move around freely inside the capsule. The sound of the bugs’ footsteps and the sound of them touching things is collected and amplified through the mic on the floor of the capsule, then output to a directional speaker. The participants are able to listen to these sounds as loudly as if they were human footsteps.<br /></p>
+<p>“One of the impressions I got from the people who experienced it is, ‘I felt like the bugs are big.’ The impression I got a lot today was, ‘I felt like I became the bug itself.’ There was also someone who said it felt like they were sitting on the twig inside the capsule when the bugs climbed on it.”<br />-Dorita.</p>
+<p>Also, because their brains are monitored, the people experiencing this can discover their own state of mind when they were listening to the sound of the bugs.</p>
+<p><img src="https://lh6.googleusercontent.com/jRdl9RL7GSKzmXBsb7eSUruH49Xkm_JY13HATyS67AsKMcW2KY5xQ73gMSt2zSh8ZPXvMg8FK1BXRy3AmhPin7FY1hcKbNn9hj3nPXelxFBV4ScSBRvBj3fz_54i50fO8JlSUNkR" width="602" height="401" alt="jRdl9RL7GSKzmXBsb7eSUruH49Xkm_JY13HATyS67AsKMcW2KY5xQ73gMSt2zSh8ZPXvMg8FK1BXRy3AmhPin7FY1hcKbNn9hj3nPXelxFBV4ScSBRvBj3fz_54i50fO8JlSUNkR" style="border-style:none;" /></p><p>“This installation shows that the state of the bugs seems to affect the humans’ state of mind. I have seen people who no longer fear bugs, and feel relaxed around them afterwards, and others who start to feel like the bugs are huge, and fear them. We measure the participants’ brain waves to quantitatively assess what is happening inside their brain during their experience. From now on, I want to leverage the brain waves data to create an environment where people can forget about their own perspective, and get immersed in the installation. It would be nice if it becomes a work that gives the audience the impression that they are the bugs themselves.” -Dorita.</p>
+<p><strong><br /></strong></p>
+<p><strong>The Yellow Jacket Hunting, a hornet larvae hunting activity, gradually connects people and nature.</strong></p>
+<p>Another presenter is Ioto Yamaguchi, who graduated from the Institute of Advanced Media Arts and Sciences (IAMAS) in the Gifu prefecture. Yamaguchi is the researcher of The Yellow Jacket Hunting, the hornet larvae hunting activity, that was taking place in various places in Japan.</p>
+<p>“The Yellow Jacket Hunting is today’s bricolage*. The hunting group, founded by local volunteers, hunts with the unique hunting tools they made themselves. There is something about the fun and creativity they show that keeps you attracted to them.”<br />-Yamaguchi.</p>
+<p>Takemura participates as an ethnographer in The Yellow Jacket Hunting taking place in Tsukechi Town, Nakatsugawa City, Gifu Prefecture. He brings in the rapid prototyping technique, and makes a booklet called, “ZINE”, in order to pass down the almost-lost charm of the technique, and distributes it.</p>
+<p>In the presentation, he introduced the whole story of harvesting hornet larvae. From the part where he lets the yellow jackets secure their own food, tracks their hive, collects the hives, cultivates it, until he harvests a great number of hornet larvae.</p>
+<p>The tool used for the tracking process is a small, light tool that resembles a flag. By letting the bee take this back to its hive, it becomes possible to locate it. The Yellow Jacket Hunting job is full of knowledge and ingenuity, and is basically the bomb disposal unit in the world of bugs. This excited the people in the hall.</p>
+<p><img src="https://lh5.googleusercontent.com/P0Y_T6bTj3J1LQiF7E-DBJEla_cC9GOcrJazZKXyaX8ipQOUmLELBWm_INqUsIE8rxV4jEUrQzUg18iX_CEtBHUOkaoUau4_aQG7fH3S8o-o4nhX_YdKluW707k6LCX6bG5JrK-D" width="602" height="401" alt="P0Y_T6bTj3J1LQiF7E-DBJEla_cC9GOcrJazZKXyaX8ipQOUmLELBWm_INqUsIE8rxV4jEUrQzUg18iX_CEtBHUOkaoUau4_aQG7fH3S8o-o4nhX_YdKluW707k6LCX6bG5JrK-D" style="border-style:none;vertical-align:middle;height:auto;" /></p>
+<p><img src="https://lh5.googleusercontent.com/md6i00VElGv6hmC9MNeWs1NQqxa5K5rUUAEVzkAJXEAHWmpmAAAtie-nFeT5GTxfLYe7GydrLEiqXm7HD6v5vuXccgqn0CVG-ZSUpLfa7_XVY06Jm05QbhqnenmvGviSam6eVsla" width="602" height="403" alt="md6i00VElGv6hmC9MNeWs1NQqxa5K5rUUAEVzkAJXEAHWmpmAAAtie-nFeT5GTxfLYe7GydrLEiqXm7HD6v5vuXccgqn0CVG-ZSUpLfa7_XVY06Jm05QbhqnenmvGviSam6eVsla" style="border-style:none;vertical-align:middle;height:auto;" /></p>
+<p>“Unlike in urban areas, the food in the countryside served for dinner is made of “non store-bought” ingredients, such as fruits or mushrooms gathered from the mountain. Hornet larva is also one of these ingredients. It is not a delicacy, but an ingredient that has been around the regional community and has been eaten and passed down from generation to generation. The Yellow Jacket Hunting is also a culture that has been born and passed down in that lineage.”　-Yamaguchi.</p>
+<p>If Dorita’s work, mentioned above, symbolizes the clothing in the three necessities of life; food, clothing, and shelter, as it makes the audience feel like the bugs are wrapped around them, then Yamaguchi’s presentation would symbolize the shelter. Shelter is not only about building a house to keep out the wind and rain, but rather about the harmony between one and their surrounding environment. There is no doubt that The Yellow Jacket Hunting is an activity to acquire the bees from nature as food. However, I still feel it is a tradition and a community for building a shelter for the residents in the surrounding environment.</p>
+<p>Compared to urban cities, the boundaries between humans and nature are more coordinated in The Yellow Jacket Hunting community, and makes me feel that it would be nice to live there.</p>
+<p>*One of the terms used in anthropology that translates to “Skillful Work.” It is a word that expresses the ingenuity and knowledge used to adapt to the surrounding environment by using the materials and tools available in the area. There are cases where it represents the culture that it originated from.</p>
+<p><br /></p>
+<p><strong>The universe of food expanded by bugs.</strong></p>
+<p>There are a lot of bugs lined up on the table in the event hall. These are served as food, in other words, these are bug dishes. There are various bugs lined up on the dining table, such as dobsonflies, grasshoppers, crickets, and hornet larvae. These bugs are enjoyed with beers as the event progresses.</p>
+<p>Another presenter is FabLab Hamamatsu’s representative, Masato Takemura. Takemura, whose job usually is managing FabLab and organizing events, is the pioneer of the brave foods.</p>
+<p>If you peek at his Tumblr, How to Eat (Almost) Anything, you will find a massive amount of posts about his trips, or rather his weird trips, where he tries food from all over the world. For example, you will find him posting the terrifying sight of drinking snake blood and poison out of a shot glass in a snake dishes restaurant in Taipei, or presenting us the world’s second-worst smelling fermented food (I wonder what the first is), or eating the acorn barnacles stuck to rocks or ships on the coast.</p>
+<p><img src="https://lh4.googleusercontent.com/dYHLVBXjPwJw1QwfVsXdd9sPLlDDHeoeWJLWRjxN_d3XkzIf0BS6N8_sSNJSntWCXkJXpfJW07a7bnmZtxu2688QHdZ5p1S9soNc1lE9k66oGoywXwI3OO-a4aS5Umq-bqvZB1Qm" width="602" height="403" alt="dYHLVBXjPwJw1QwfVsXdd9sPLlDDHeoeWJLWRjxN_d3XkzIf0BS6N8_sSNJSntWCXkJXpfJW07a7bnmZtxu2688QHdZ5p1S9soNc1lE9k66oGoywXwI3OO-a4aS5Umq-bqvZB1Qm" style="border-style:none;" /><br /></p><p>“It became a habit and my life’s work to search for bizarre food when I go to FabLab’s convention. When I made the Tumblr page, many people who saw it started inviting me for bizarre food. I was surprised when they served me an antidote capsule with the poison shot in the snake dishes restaurant. (Laughs.)”<br />-Takemura.</p>
+<p>What shocked the hall was the footage of him eating a longhorn beetle’s larvae inside a palm tree. He ate it raw and alive, dipped in fish sauce. Since this larva’s teeth are strong enough to bite and tear through wood, you have to pinch the head and only eat its body. If you do not do this, it will bite and tear through your stomach (The thought alone is terrifying…). Apparently, it tastes really good. They say it tastes like peanut butter. It is sold locally as a stimulant.</p>
+<p>Of course, the theme of Takemura’s presentation is bug-eating. At first, it looks like he is showing off his bizarre food, but it is still related to the food boundaries topic. Even though it looks like bizarre food, it is considered local food by the local residents. The reason we see it as bizarre food is that we draw a line at it.</p>
+<p>Food boundaries are defined by factors such as food culture, or the ecosystem of the region. When we cross these boundaries, suddenly we start regarding animals as food, or not regarding them as food anymore.</p>
+<p><img src="https://lh6.googleusercontent.com/8o5tyHcJofkfyA61rG2g0hYpUbz9-W_IKO8JlzsqvOQyxjLy1p1Lls9ahAsb-Zf1N957b5r1BGrv1Yn2BPbwxrrZazi6mS14-JZMfTItQ7PI0B7dpIdkaoMUaYIdmp_8WvztvNar" width="602" height="401" alt="8o5tyHcJofkfyA61rG2g0hYpUbz9-W_IKO8JlzsqvOQyxjLy1p1Lls9ahAsb-Zf1N957b5r1BGrv1Yn2BPbwxrrZazi6mS14-JZMfTItQ7PI0B7dpIdkaoMUaYIdmp_8WvztvNar" style="border-style:none;vertical-align:middle;height:auto;" title="8o5tyHcJofkfyA61rG2g0hYpUbz9-W_IKO8JlzsqvOQyxjLy1p1Lls9ahAsb-Zf1N957b5r1BGrv1Yn2BPbwxrrZazi6mS14-JZMfTItQ7PI0B7dpIdkaoMUaYIdmp_8WvztvNar" /></p>
+<p>Questioning the bugs’ necessities of life while listening to, and eating them enabled me to vividly imagine these strange neighbors walking along with humans before we were even born. Perhaps thinking about bugs is somehow connected to thinking about humans. It was a summer night festival full of such strange, thought-provoking ideas.</p>
+<p><img src="https://lh3.googleusercontent.com/e0lORInE7vRo_x9aEZDezDwHrkYqWJubcW0xH972eZ5zAvtD64Yg7v2jF6ycTw9GoZEaobLzVH7wZhiefayuLI4cusxRdCd_SEoGMHNG10ybEqo363p0T_GUzrHt2JVAvxdHdGHR" width="602" height="401" alt="e0lORInE7vRo_x9aEZDezDwHrkYqWJubcW0xH972eZ5zAvtD64Yg7v2jF6ycTw9GoZEaobLzVH7wZhiefayuLI4cusxRdCd_SEoGMHNG10ybEqo363p0T_GUzrHt2JVAvxdHdGHR" style="border-style:none;vertical-align:middle;height:auto;" /></p>
+<p><br /></p>
+<p>Exhibition information</p>
+<p>Listen to the bugs, and eat them too - Bugs Summer Night Festival<br />Date and time: Saturday, August 11th, 2018. 6:00 p.m. – 8:30 p.m.<br />Place: FabCafe MTRL<br />Guests:<br />Dorita (Artist)<br />Masato Takemura (FabLab Hamamatsu’s Chairman)<br />Ioto Yamaguchi and more…</p>
+<p>Event page: <br /><a href="http://bioclub.org/event/bugseatlisten">http://bioclub.org/event/bugse...</a></p>
+<p><a href="http://bioclub.org/event/bugseatlisten"></a></p>
+									
+				
+									
+	
+			</div><!-- .single-content -->
+            
+			
+			
+											
+																
+			<div class="single-head-pager-box type-white">
+				<div class="ct-inner ct-side-space txt-c">
+					<div class="single-pager-text-box">
+																			<div class="single-pager-box prev">
+								<div class="table-style">
+									<a href="http://bioclub.org/en/project-report/open-source-science" class="table-cell va-mid">
+										<p class="single-pager-text">Prev</p>
+									</a>
+								</div>
+							</div>
+												
+						<div class="single-pager-date-box">
+							<div class="table-style">
+								<div class="table-cell va-mid">
+									<a href="http://bioclub.org/en/project_report/">
+																					To list page
+																			</a>
+								</div>
+							</div>
+						</div>
+					
+																			<div class="single-pager-box next">
+								<div class="table-style">
+									<a href="http://bioclub.org/en/project-report/wet-ware-fab-fabric-1-1" class="table-cell va-mid">
+										<p class="single-pager-text">Next</p>
+									</a>
+								</div>
+							</div>
+											</div>
+				</div>
+			</div>
+
+										<aside>
+					<div class="ct-inner ct-side-space">
+													<h2 class="h2 ct-bd-ttl">The Latest</h2>
+												<ul class="article-list col3">
+															<li class="article">
+	<a href="http://bioclub.org/en/project-report/イベントレポート-バイオリソースは生命の方舟-ダイバーシティが拡げるバイオの可能性-科学技術と社会を縁の下で支える-バイオリソース-をどう伝え-活用するか" class="ct-block hv-op">
+	
+		<p class="ct-label-wrap">
+							<span class="ct-label text-small lg type va-top">project reports</span>
+						
+																																						<span class="ct-label text-small lg va-top status">End</span>
+																
+												
+						
+													
+		</p>
+		
+		
+	
+									
+		
+		
+										
+		<h2 class="article-ttl">
+			 イベントレポート「バイオリソースは生命の方舟〜ダイバーシティが拡げるバイオの可能性〜」：科学技術と社会を縁の下で支える「バイオリソース」をどう伝え、活用するか
+		</h2>
+	</a>
+	
+						
+									<p class="ct-link-lead"><a href="http://bioclub.org/en/project-report/イベントレポート-バイオリソースは生命の方舟-ダイバーシティが拡げるバイオの可能性-科学技術と社会を縁の下で支える-バイオリソース-をどう伝え-活用するか" class="ct-block hv-op">2021年、理化学研究所バイオリソース研究センターは設立から20周年を迎えます。その節目を迎えるにあたり、アウトリーチ活動を通した社会との連携を目指します。2021年3月6日、そのファーストステップとして、一般向けにBRCの事業の紹介を行いバイオリソースの活用法や市民とのコミュニケーションについて方向性を探ることを目的として「バイオリソースは生命の方舟：ダイバーシティが拡げるバイオの可能性」を実施しました。</a></p>
+			</li>															<li class="article">
+	<a href="http://bioclub.org/en/project-report/微生物多様性から都市におけるウェルビーイングを探る-3か月でアウトリーチ活動を実践-living-machine-project" class="ct-block hv-op">
+	
+		<p class="ct-label-wrap">
+							<span class="ct-label text-small lg type va-top">project reports</span>
+						
+																																
+						
+													
+		</p>
+		
+		
+	
+									
+		
+		
+										
+		<h2 class="article-ttl">
+			微生物多様性から都市におけるウェルビーイングを探る。 3か月でアウトリーチ活動を実践「Living Machine Project」
+		</h2>
+	</a>
+	
+						
+									<p class="ct-link-lead"><a href="http://bioclub.org/en/project-report/微生物多様性から都市におけるウェルビーイングを探る-3か月でアウトリーチ活動を実践-living-machine-project" class="ct-block hv-op">パナソニックにおいて先行開発に特化したプロジェクトを推進するデザインチーム「FUTURE LIFE FACTORY」は、都市生活者のウェルビーイングを考えるにあたり、土壌に生息する微生物の多様性に着目。長期展望から微生物多様性の重要性を啓発し、都市生活者の間で対話や議論を喚起することを目的に「Living Machine Project」を立ち上げました。</a></p>
+			</li>															<li class="article">
+	<a href="http://bioclub.org/en/project-report/wet-ware-fab-fabric-1-1" class="ct-block hv-op">
+	
+		<p class="ct-label-wrap">
+							<span class="ct-label text-small lg type va-top">project reports</span>
+						
+																																						<span class="ct-label text-small lg va-top status">End</span>
+																
+												
+						
+													
+		</p>
+		
+		
+	
+									
+		
+		
+																		
+																																																		
+													
+				
+						<div class="event-date">Sat., November 24, 18:00 – </div>
+				
+		<h2 class="article-ttl">
+			WET - WARE / FAB - FABRIC The First &quot;Wearing Life&quot; What is a Semi-Life Material? Event Report
+		</h2>
+	</a>
+	
+																									<div class="tag-btn"><a href="http://bioclub.org/en/tags/news">#NEWS</a></div>
+		
+							<div class="thumb">
+				<a href="http://bioclub.org/en/project-report/wet-ware-fab-fabric-1-1" class="ct-block hv-op">
+					<span class="img-wrapper"><img src="http://bioclub.org/assets/images/wwff01.jpg" alt="WET - WARE / FAB - FABRIC The First &quot;Wearing Life&quot; What is a Semi-Life Material? Event Report"></span>
+					
+																<p class="ct-link-lead">Design researcher Kazuya Kawasaki and Bio Club director Chiaki Ishizuka organized the WET - WARE - / FAB - FABRIC working group to study and practice innovation at the intersection of biotechnology and fashion. The commemorative first meeting reconsidered the concept of conventional &quot;anthropocentric&quot; clothing design and featured Mr. Yohsuke Takahashi, curator at the 21st Century Museum of Contemporary Art, Kanazawa who actively plans bio-art exhibitions.</p>
+									</a>
+			</div>
+			</li>													</ul>
+					</div>
+					
+				</aside>
+						
+        </article>
+
+	<div class="single-footer-wrap">
+	
+<nav id="tag-modal">
+    <div class="tag-modal-ttl">tags</div>
+    <ul>
+					<li><a href="http://bioclub.org/en/tags/weekly_meeting">#Weekly_Meeting<span>&nbsp;(29)</span></a></li>
+					<li><a href="http://bioclub.org/en/tags/ワークショップ">#ワークショップ<span>&nbsp;(30)</span></a></li>
+					<li><a href="http://bioclub.org/en/tags/イベント">#イベント<span>&nbsp;(33)</span></a></li>
+					<li><a href="http://bioclub.org/en/tags/ミートアップ">#ミートアップ<span>&nbsp;(7)</span></a></li>
+					<li><a href="http://bioclub.org/en/tags/news">#NEWS<span>&nbsp;(9)</span></a></li>
+					<li><a href="http://bioclub.org/en/tags/report">#REPORT<span>&nbsp;(10)</span></a></li>
+					<li><a href="http://bioclub.org/en/tags/biohack-academy">#BioHack Academy<span>&nbsp;(12)</span></a></li>
+					<li><a href="http://bioclub.org/en/tags/project">#PROJECT<span>&nbsp;(2)</span></a></li>
+		    </ul>
+</nav>
+<div id="tag-modal-close"></div>
+
+<footer id="site-footer">
+    <div class="copyright">&copy; 2024 Open BioClub</div>
+</footer>
+
+<script src="//ajax.googleapis.com/ajax/libs/jquery/1.11.2/jquery.min.js"></script>
+<script>window.jQuery || document.write('<script src="/common/css/js/vendor/jquery-1.11.2.min.js"><\/script>')</script>
+<script src="/common/js/vendor/jquery.easing.1.3.js"></script>
+<script src="/common/js/vendor/jquery.scrollbar.min.js"></script>
+<script src="/common/js/vendor/imagesloaded.pkgd.min.js"></script>
+<script src="/common/js/vendor/masonry.pkgd.min.js"></script>
+<script src="/common/js/vendor/jquery.touchSwipe.min.js"></script>
+<script src="/common/js/vendor/jquery.BlackAndWhite.js"></script>
+<script src="/common/js/vendor/slick.min.js"></script>
+<script src="/common/js/main.js?20180322"></script>
+<script src="/common/js/common.js"></script>
+	</div>
+	
+</body>
+</html>

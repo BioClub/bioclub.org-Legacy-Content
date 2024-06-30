@@ -1,0 +1,576 @@
+<!doctype html>
+	<html class="no-js" lang="ja">
+    <head prefix="og: http://ogp.me/ns# website: http://ogp.me/ns/website#">
+	<meta charset="utf-8">
+	<meta http-equiv="X-UA-Compatible" content="IE=edge">
+	<title>BioClub</title>
+	
+			<meta name="description" content="bioclub">
+		
+			<meta property="og:description" content="">
+		
+		<meta property="og:title" content="">
+		
+	<meta property="og:url" content="http://bioclub.org/event/benjamin-skepper">
+			
+		
+					
+	<meta property="og:type" content="website">
+	
+	<meta name="viewport" content="width=device-width">
+	<script src="/common/js/viewport.js"></script>
+	
+	<link rel="stylesheet" href="/common/css/normalize.min.css">
+	<link rel="stylesheet" href="/common/css/main.css?20170322">
+	<script src="/common/js/vendor/modernizr-2.8.3-respond-1.4.2.min.js"></script>
+	<script src="https://use.fontawesome.com/0dfbc630d2.js"></script>
+	<link rel="shortcut icon" href="/favicon.ico">
+	
+	<meta property="og:site_name" content="BioClub">
+	<meta property="article:publisher" content="https://www.facebook.com/bioclubshibuya/">
+	
+	<!-- google map api -->
+	<script type='text/javascript' charset='utf-8' src='//maps.googleapis.com/maps/api/js?&key=AIzaSyDgoNhhsnaOD8gnESPlY5xC1yr6y-R_3WI'></script>
+	
+	<!-- Global site tag (gtag.js) - Google Analytics -->
+	<script async src="https://www.googletagmanager.com/gtag/js?id=UA-121405163-1"></script>
+	<script>
+		window.dataLayer = window.dataLayer || [];
+		function gtag(){dataLayer.push(arguments);}
+		gtag('js', new Date());
+		
+		gtag('config', 'UA-121405163-1');
+	</script>
+<style>
+@media screen and (min-width: 641px) {
+  #single-wrapper .single-eyecatch {
+    height:580px;
+  }
+}</style>
+
+</head>
+
+<body class="single">
+		
+        <header id="site-header">
+            
+						<div class="header-logo-box img-style" id="logo">
+													<a href="/" class="block">
+				         							<h1 class="logo-img-slider-wrap">
+						<a href="/" class=""><img alt="BioClub" src="/common/img/logo.gif"></a>
+					</h1>
+				 
+				
+															 </a>
+												</div>
+			
+            <nav class="subnav">
+                <ul>
+                    <li>
+						<a href="http://bioclub.org/event/">
+								
+								events
+													</a>
+					</li>
+                    <li>
+						<a href="http://bioclub.org/news/">
+								
+								news
+													</a>
+					</li>
+											<li>
+							<a href="http://bioclub.org/project/">
+																	report
+															</a>
+						</li>
+										
+                </ul>
+									<div class="lang">
+						<div class="en"><a href="http://bioclub.org/en/" class="hv-op">en</a></div>
+						<div class="ja"><span>ja</span></div>
+					</div>
+				            </nav>
+			<div id="tag-show">#</div>
+			<div class="open-global-nav-btn" id="open-global-nav-btn"><span class="bar bar01"></span><span class="bar bar02"></span><span class="bar bar03"></span></div>
+			
+        </header>
+		
+		
+		<div class="open-global-nav" id="open-global-nav">
+			<div class="nav-inner" id="nav-inner">
+				<div class="btn-close txt-c" id="open-global-nav-close"><span class="bar bar01"></span><span class="bar bar02"></span></div>
+				<div class="table-style">
+					<div class="table-cell nav-box">
+						<div class="link-inner">
+							
+															<ul class="global-nav-lang-link">
+									<li><a href="http://bioclub.org/en/" class="hv-op">en</a></li>
+									<li><span>ja</span></li>
+								</ul>
+														
+							<ul class="global-nav-link">
+								<li>
+									<a href="http://bioclub.org/event/" class="hv-op">
+											
+											events
+																			</a>
+								</li>
+								<li>
+									<a href="http://bioclub.org/news/" class="hv-op">
+											
+											news
+																			</a>
+								</li>
+																											<li>
+											<a href="http://bioclub.org/project/" class="hv-op">
+																									report
+																							</a>
+										</li>
+																									
+															</ul>
+							
+							<ul class="global-nav-sub-link">
+																	<li><a class="hv-op" href="http://bioclub.org/about/">about</a></li>
+																<li><a href="/contact/" class="hv-op"><i class="fa fa-envelope"></i></a></li>
+								<li><a href="https://github.com/BioClub" target="_blank" class="hv-op"><i class="fa fa-github"></i></a></li>
+								<li><a href="https://www.facebook.com/bioclubtokyo/" target="_blank" class="hv-op"><i class="fa fa-facebook"></i></a></li>
+							</ul>
+						</div>
+					</div>
+				</div>
+			</div>
+		</div>
+			
+        <article id="single-wrapper">
+																		<div class="single-eyecatch" style="background-image:url(http://bioclub.org/assets/images/23000413_538339926516593_2825369478021315234_o.jpg)"></div>
+				         				
+			
+											
+																
+			<div class="single-head-pager-box">
+				<div class="ct-inner ct-side-space txt-c">
+					<div class="single-pager-text-box">
+																			<div class="single-pager-box prev">
+								<div class="table-style">
+									<a href="http://bioclub.org/event/music_and_yeast" class="table-cell va-mid">
+										<p class="single-pager-text">Prev</p>
+									</a>
+								</div>
+							</div>
+												
+						
+																																														
+																																																																																										
+																									
+														
+											
+						<div class="single-pager-date-box">
+							<div class="table-style">
+								<div class="table-cell va-mid">
+																			<p class="single-pager-date-text">2017.11.07 (火) 19:00 – </p>	
+																	</div>
+							</div>
+						</div>
+					
+																			<div class="single-pager-box next">
+								<div class="table-style">
+									<a href="http://bioclub.org/event/身体拡張カフェ-guest-高橋さきの-翻訳者" class="table-cell va-mid">
+										<p class="single-pager-text">Next</p>
+									</a>
+								</div>
+							</div>
+											</div>
+				</div>
+			</div>
+			
+			
+		    <header class="single-header">
+			
+								<div class="single-post-info-box">
+						<span class="ct-label lg va-top type">events</span>
+
+						
+									
+			
+							  										<span class="ct-label lg va-top mgl0 status">終了</span>
+									  			
+							
+
+
+
+
+				</div>
+				
+                <h1 class="ct-single-ttl h1">BioClub Weekly: Benjamin Skepper</h1>
+				
+																	<div class="ct-tag-btn-list-wrap">
+													<div class="tag-btn"><a href="http://bioclub.org/tags/weekly_meeting">#WeeklyMeeting</a></div>
+											</div>
+								
+				
+								<div class="ct-date-box">
+				
+																													
+																																																																																
+																						
+												
+						<dl class="table-style">
+							<dt class="table-cell va-top fw-b ct-date-ttl">Date</dt>
+							<dd class="table-cell va-top ct-date-box-text">
+								<div class="ct-date-box-text-inner">
+									<p>2017.11.07 (火)</p>
+								</div>
+							</dd>
+						</dl>
+										
+					
+																				
+				</div>
+            </header>
+			
+            <div class="single-content">
+			
+													<p>マルチメディアアーティストのBenjamin Skepperさんがアート+テクノロジー+テクノロジーをテーマに<span class="word_break"></span>マインにした自分の作品の紹介をします。<br /></p>
+<p>このイベントは参加者の質疑応答を混ぜながらのトークイベントです。ベンジャミンさんは日本語も喋れるので皆<span class="word_break"></span>あなたは気軽にお立ち寄りください！<br /><br />マルチメディアアーティスト<a href="https://www.facebook.com/benjaminskepper/">Benjamin Skepper</a>はArt + Science + Technologyの交差点で最近の作品を発表します。まず、マイクロソフト・オーストラリアと協力して、メルボルン・サイエンス・ギャラリー（Melather Science Gallery）のための誘致+反撃（Resract + Repel）のオープニング・デモ・オープニングのための彼のcommisisonのビデオプレゼンテーション。第2に、モスクワ国家音楽院でのフェロースウィップの一環としてロシアで進行中の研究プロジェクト。Q＆Aトークショースタイルのインタラクティブセッションになり、日本語も話せます！日本語でもどうぞ。11月16日、ベンジャミンは<span class="text_exposed_show">、六本木のスーパーデラックスで</span>行われるサイエンス・ギャラリー「パンプ・ブラッド」を<span class="text_exposed_show">体験します。</span><span class="Apple-converted-space"> </span><a href="https://www.facebook.com/benjaminskepper/"></a><span class="Apple-converted-space"> </span><br /><br /><span class="text_exposed_show"></span></p>
+<p>SuperDeluxeイベント<a href="https://www.facebook.com/events/292727161231764">https://www.facebook.com/</a><span class="Apple-converted-space"> </span><a href="https://www.facebook.com/events/292727161231764"><span class="word_break"></span>イベント/ 292727161231764</a></p>
+<p>Benjamin Skepper<br /><a href="https://l.facebook.com/l.php?u=https%3A%2F%2Fbenjaminskepper.com%2F&amp;h=ATPIXP7HWGPSu45kg-_jJehmngdFJ_phLFAxi-pL1V8c6KV6K-NO0vi62Hmsor-M37JfebteuA75p3a3QAcIebPySdYGz8YlA8f8O2N3dG-TysT7rb8u4kYNV93SXvE0kXajKK5WWdbe47df70RT7gL5WJ1-uf09sAoyTgkPLlodNhiay13E9cY" target="_blank" rel="noreferrer noopener">https://<span class="word_break"></span>benjaminskepper.com/</a></p>
+<p>VIDEO<span class="Apple-converted-space"> </span><a href="https://l.facebook.com/l.php?u=https%3A%2F%2Fvimeo.com%2Fbenjaminskepper&amp;h=ATPd5OOxu9-_8mm1KZkd4CtLxX1MBI9y6XiT82xV6CmYaMiG0i666uHVyBAWpedVyxgZ_80NjSYYhwak3bOgediiyyTtHL7eXPgvUaxpM5THQv_RJRXW_b-Z3p4k79TS0AY-QZj4mTlxPE1JcfLhUT5rSosxBqd2Y7Is9FM9KWsC2frleSupf3k" target="_blank" rel="noreferrer noopener">vimeo.com/benjaminskepper</a><br />MUSIC<span class="Apple-converted-space"> </span><a href="http://benjaminskepper.bandcamp.com/" target="_blank" rel="noreferrer noopener">benjaminskepper.bandcamp.c<span class="word_break"></span>om/</a><br />FACEBOOK<span class="Apple-converted-space"> </span><a href="http://facebook.com/benjaminskepper">facebook.com/<span class="word_break"></span>benjaminskepper</a><br />TWITTER<span class="Apple-converted-space"> </span><a href="https://twitter.com/benjaminskepper" target="_blank" rel="noreferrer noopener">twitter.com/<span class="word_break"></span>benjaminskepper</a><br />INSTA<span class="Apple-converted-space"> </span><a href="http://instagram.com/benjaminskepper/" target="_blank" rel="noreferrer noopener">instagram.com/<span class="word_break"></span>benjaminskepper/</a></p>
+<p>- - - - - - - - - - - - - - - - - - - - - - - -<span class="Apple-converted-space"> </span></p>
+<p>About BioClub</p>
+<p>*毎週火曜日はBioClubのオープンミーティングで<span class="word_break"></span>す。どなたでも参加可能です。バイオラボ見学の際はこち<span class="word_break"></span>らへご参加ください。<br />日時：毎週火曜日 19:00-21:00 場所：FabCafe MTRL<span class="Apple-converted-space"> </span></p>
+								
+				
+											
+				
+																	                                <div class="btn"><span>終了</span></div>
+                        
+					          
+
+            									
+	
+		
+								
+	
+	
+				
+            </div><!-- .single-content -->
+
+            <div id="event-info">
+                <div class="single-content">
+	
+																<h2>BioClub Weekly: 7/11/2017: Benjamin Skepper</h2>
+										
+																											
+					
+										                    	<div id="gmap"></div>
+										
+					
+					
+																					                              <div class="btn"><span>終了</span></div>
+                        
+            
+										
+					
+                </div><!-- .single-content -->
+            </div><!-- #event-info -->
+			
+			
+			
+											
+																
+			<div class="single-head-pager-box type-white">
+				<div class="ct-inner ct-side-space txt-c">
+					<div class="single-pager-text-box">
+																			<div class="single-pager-box prev">
+								<div class="table-style">
+									<a href="http://bioclub.org/event/music_and_yeast" class="table-cell va-mid">
+										<p class="single-pager-text">Prev</p>
+									</a>
+								</div>
+							</div>
+												
+						<div class="single-pager-date-box">
+							<div class="table-style">
+								<div class="table-cell va-mid">
+									<a href="http://bioclub.org/event/">
+																					一覧ページへ
+																			</a>
+								</div>
+							</div>
+						</div>
+					
+																			<div class="single-pager-box next">
+								<div class="table-style">
+									<a href="http://bioclub.org/event/身体拡張カフェ-guest-高橋さきの-翻訳者" class="table-cell va-mid">
+										<p class="single-pager-text">Next</p>
+									</a>
+								</div>
+							</div>
+											</div>
+				</div>
+			</div>
+			
+										<aside>
+					<div class="ct-inner ct-side-space">
+													<h2 class="h2 ct-bd-ttl">新着記事</h2>
+												<ul class="article-list col3">
+															<li class="article">
+	<a href="http://bioclub.org/event/kat-alb" class="ct-block hv-op">
+	
+		<p class="ct-label-wrap">
+							<span class="ct-label text-small lg type va-top">events</span>
+						
+						
+															
+																		
+													  															  									
+			
+			
+						
+													
+		</p>
+		
+		
+	
+																	
+																											
+								
+						<div class="event-date">2023.12.13 (水) 04:00 – </div>
+				
+		
+		
+										
+		<h2 class="article-ttl">
+			 Ekaterina Kormilitsyna at Art Laboratory Berlin (online)
+		</h2>
+	</a>
+	
+						
+									<p class="ct-link-lead"><a href="http://bioclub.org/event/kat-alb" class="ct-block hv-op">From our friends from Art Laboratory Berlin:<br />
+Art Laboratory Berlin is delighted to invite you to take part in our Colloquium, a discursive format on research in art, science and humanities, curated by Regine Rapp. It takes place in tandem with our Reading Club, curated by Tuçe Erel.<br />
+The colloquium addresses an international interdisciplinary research audience to present and discuss past, present or future projects by artists and scholars, curators or editors from the fields of art, science and the humanities. The topics could refer to an art project, a book, text or chapter, a research or exhibition project, a lab experiment, a lecture series, a conference concept or other.</a></p>
+			</li>															<li class="article">
+	<a href="http://bioclub.org/event/spcs-4-sharing-session" class="ct-block hv-op">
+	
+		<p class="ct-label-wrap">
+							<span class="ct-label text-small lg type va-top">events</span>
+						
+						
+															
+																		
+													  															  									
+			
+			
+						
+													
+		</p>
+		
+		
+	
+																	
+																											
+								
+						<div class="event-date">2023.12.06 (水) 19:00 – </div>
+				
+		
+		
+										
+		<h2 class="article-ttl">
+			SPCS Season 4 | Living Dyes: 共有セッション
+		</h2>
+	</a>
+	
+																									<div class="tag-btn"><a href="http://bioclub.org/tags/イベント">#トークイベント</a></div>
+		
+							<div class="thumb">
+				<a href="http://bioclub.org/event/spcs-4-sharing-session" class="ct-block hv-op">
+					<span class="img-wrapper"><img src="http://bioclub.org/assets/images/SPCS4.jpg" alt="SPCS Season 4 | Living Dyes: 共有セッション"></span>
+					
+																<p class="ct-link-lead">2023年9月、さまざまなバックグラウンドを持つ23人の参加者がFabCafe Kyotoに集まり、DIYによるバクテリアの培養方法を学びました。色素を生成する菌株を植え付けたシャーレを持ち帰り、そのバクテリアでテキスタイルを染めるという6週間のチャレンジに挑みました。このグループ実験の結果は、京都と東京で開催される展覧会に展示されます。東京で開催される展示の最終日に、参加者のうちの4人がこのプロセスについての経験や感想を共有します。<br />
+<br />
+Living Dyes | The Exhibition showcases the process and results of the research and actual dyed works from a 1.5 month workshop on dyeing textiles with bacteria. How do everyday participants adopt this relatively new and undeveloped dyeing technique? Come witness it for yourself. Detailed explanations in a guided tour by the exhibition organiser are also available.</p>
+									</a>
+			</div>
+			</li>															<li class="article">
+	<a href="http://bioclub.org/event/antti-tenetz-getting-lost" class="ct-block hv-op">
+	
+		<p class="ct-label-wrap">
+							<span class="ct-label text-small lg type va-top">events</span>
+						
+						
+															
+																		
+													  															  									
+			
+			
+						
+													
+		</p>
+		
+		
+	
+																	
+																											
+								
+						<div class="event-date">2023.12.05 (火) 20:00 – </div>
+				
+		
+		
+										
+		<h2 class="article-ttl">
+			Artist Talk: Antti Tenetz - スペースの間に迷い込む
+		</h2>
+	</a>
+	
+																									<div class="tag-btn"><a href="http://bioclub.org/tags/イベント">#トークイベント</a></div>
+		
+							<div class="thumb">
+				<a href="http://bioclub.org/event/antti-tenetz-getting-lost" class="ct-block hv-op">
+					<span class="img-wrapper"><img src="http://bioclub.org/assets/images/Antti2.jpg" alt="Artist Talk: Antti Tenetz - スペースの間に迷い込む"></span>
+					
+																<p class="ct-link-lead">​What can other than human life, slime molds, local and AI machine systems based knowledge and cowandering teach us about survival and evolving as whole.<br />
+<br />
+人間の生命、粘菌、ローカルおよびAI機械システムに基づく知識、そして臆病さ以外に、生存と全体としての進化について何を教えてくれるのだろうか。</p>
+									</a>
+			</div>
+			</li>													</ul>
+					</div>
+					
+				</aside>
+			            <div id="single-wrapper-close"></div>
+
+        </article>
+
+		<div class="single-footer-wrap">
+	
+<nav id="tag-modal">
+    <div class="tag-modal-ttl">tags</div>
+    <ul>
+					<li><a href="http://bioclub.org/tags/weekly_meeting">#WeeklyMeeting<span>&nbsp;(29)</span></a></li>
+					<li><a href="http://bioclub.org/tags/ワークショップ">#ワークショップ<span>&nbsp;(32)</span></a></li>
+					<li><a href="http://bioclub.org/tags/イベント">#トークイベント<span>&nbsp;(33)</span></a></li>
+					<li><a href="http://bioclub.org/tags/ミートアップ">#ミートアップ<span>&nbsp;(7)</span></a></li>
+					<li><a href="http://bioclub.org/tags/news">#NEWS<span>&nbsp;(10)</span></a></li>
+					<li><a href="http://bioclub.org/tags/report">#REPORT<span>&nbsp;(11)</span></a></li>
+					<li><a href="http://bioclub.org/tags/biohack-academy">#BioHack Academy<span>&nbsp;(12)</span></a></li>
+					<li><a href="http://bioclub.org/tags/project">#PROJECT<span>&nbsp;(2)</span></a></li>
+		    </ul>
+</nav>
+<div id="tag-modal-close"></div>
+
+<footer id="site-footer">
+    <div class="copyright">&copy; 2024 Open BioClub</div>
+</footer>
+
+<script src="//ajax.googleapis.com/ajax/libs/jquery/1.11.2/jquery.min.js"></script>
+<script>window.jQuery || document.write('<script src="/common/css/js/vendor/jquery-1.11.2.min.js"><\/script>')</script>
+<script src="/common/js/vendor/jquery.easing.1.3.js"></script>
+<script src="/common/js/vendor/jquery.scrollbar.min.js"></script>
+<script src="/common/js/vendor/imagesloaded.pkgd.min.js"></script>
+<script src="/common/js/vendor/masonry.pkgd.min.js"></script>
+<script src="/common/js/vendor/jquery.touchSwipe.min.js"></script>
+<script src="/common/js/vendor/jquery.BlackAndWhite.js"></script>
+<script src="/common/js/vendor/slick.min.js"></script>
+<script src="/common/js/main.js?20180322"></script>
+<script src="/common/js/common.js"></script>
+	</div>
+	
+			<script id="gmap-script">
+			//google map
+			function initializeGmap() {
+				var lelStyle = [
+				  {
+					"featureType": "landscape",
+					"elementType": "geometry",
+					"stylers": [
+					{ "saturation": -100 },
+					{ "lightness": 63 }
+					]
+				  },{
+					"featureType": "road.local",
+					"stylers": [
+					{ "lightness": 50 }
+					]
+				  },{
+					"featureType": "road.local",
+					"elementType": "geometry.fill",
+					"stylers": [
+					{ "saturation": -100 },
+					{ "lightness": 100 }
+					]
+				  },{
+					"featureType": "road.highway",
+					"stylers": [
+					{ "hue": "#ffdd00" }
+					]
+				  },{
+					"featureType": "road.highway.controlled_access",
+					"stylers": [
+					{ "hue": "#e8340c" },
+					{ "lightness": 30 }
+					]
+				  },{
+					"featureType": "road",
+					"elementType": "geometry.stroke",
+					"stylers": [
+					{ "visibility": "off" }
+					]
+				  },{
+					"featureType": "administrative",
+					"elementType": "labels",
+					"stylers": [
+					{ "visibility": "off" }
+					]
+				  },{
+					"elementType": "labels.text.stroke",
+					"stylers": [
+					{ "visibility": "off" }
+					]
+				  },{
+					"elementType": "labels.text.fill",
+					"stylers": [
+					{ "gamma": 1.54 }
+					]
+				  },{
+					"featureType": "water",
+					"elementType": "labels",
+					"stylers": [
+					{ "visibility": "off" }
+					]
+				  },
+				  {
+					"featureType": "water",
+					"stylers": [
+					{ "lightness": 50 },
+					{ "hue": "#0088ff" }
+					]
+				  },
+					{
+						"featureType": "all",
+						"stylers": [
+							{ "saturation": -100 },
+							{"lightness": 10}
+						]
+					}
+				]
+				var mapDiv = document.getElementById("gmap");
+				var mapCanvas = new google.maps.Map(mapDiv, {
+					center:new google.maps.LatLng(35.65606110, 139.69549320),
+					zoom:15,
+					mapTypeId:google.maps.MapTypeId.ROADMAP,
+					styles: lelStyle,
+					scrollwheel: false
+				});
+				createMarker ({
+					position : new google.maps.LatLng(35.65606110, 139.69549320),
+					map : mapCanvas
+				});
+				function createMarker (opts) {
+					var marker = new google.maps.Marker(opts);
+					return marker;
+				}
+			}
+			initializeGmap();
+		</script>
+	</body>
+</html>

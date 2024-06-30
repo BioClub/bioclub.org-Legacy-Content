@@ -1,0 +1,425 @@
+<!doctype html>
+	<html class="no-js" lang="ja">
+    <head prefix="og: http://ogp.me/ns# website: http://ogp.me/ns/website#">
+	<meta charset="utf-8">
+	<meta http-equiv="X-UA-Compatible" content="IE=edge">
+	<title>BioClub</title>
+	
+			<meta name="description" content="bioclub">
+		
+			<meta property="og:description" content="">
+		
+		<meta property="og:title" content="">
+		
+	<meta property="og:url" content="http://bioclub.org/news/ayurveda_reprot01">
+			
+		
+									<meta property="og:image" content="http://bioclub.org/common/images/_og_image/アーユルヴェーダカバー.jpg">
+				
+	<meta property="og:type" content="website">
+	
+	<meta name="viewport" content="width=device-width">
+	<script src="/common/js/viewport.js"></script>
+	
+	<link rel="stylesheet" href="/common/css/normalize.min.css">
+	<link rel="stylesheet" href="/common/css/main.css?20170322">
+	<script src="/common/js/vendor/modernizr-2.8.3-respond-1.4.2.min.js"></script>
+	<script src="https://use.fontawesome.com/0dfbc630d2.js"></script>
+	<link rel="shortcut icon" href="/favicon.ico">
+	
+	<meta property="og:site_name" content="BioClub">
+	<meta property="article:publisher" content="https://www.facebook.com/bioclubshibuya/">
+	
+	<!-- google map api -->
+	<script type='text/javascript' charset='utf-8' src='//maps.googleapis.com/maps/api/js?&key=AIzaSyDgoNhhsnaOD8gnESPlY5xC1yr6y-R_3WI'></script>
+	
+	<!-- Global site tag (gtag.js) - Google Analytics -->
+	<script async src="https://www.googletagmanager.com/gtag/js?id=UA-121405163-1"></script>
+	<script>
+		window.dataLayer = window.dataLayer || [];
+		function gtag(){dataLayer.push(arguments);}
+		gtag('js', new Date());
+		
+		gtag('config', 'UA-121405163-1');
+	</script>
+<style>
+@media screen and (min-width: 641px) {
+  #single-wrapper .single-eyecatch {
+    height:580px;
+  }
+}</style>
+
+</head>
+
+<body class="single">
+		
+        <header id="site-header">
+            
+						<div class="header-logo-box img-style" id="logo">
+													<a href="/" class="block">
+				         							<h1 class="logo-img-slider-wrap">
+						<a href="/" class=""><img alt="BioClub" src="/common/img/logo.gif"></a>
+					</h1>
+				 
+				
+															 </a>
+												</div>
+			
+            <nav class="subnav">
+                <ul>
+                    <li>
+						<a href="http://bioclub.org/event/">
+								
+								events
+													</a>
+					</li>
+                    <li>
+						<a href="http://bioclub.org/news/">
+								
+								news
+													</a>
+					</li>
+											<li>
+							<a href="http://bioclub.org/project/">
+																	report
+															</a>
+						</li>
+										
+                </ul>
+									<div class="lang">
+						<div class="en"><a href="http://bioclub.org/en/" class="hv-op">en</a></div>
+						<div class="ja"><span>ja</span></div>
+					</div>
+				            </nav>
+			<div id="tag-show">#</div>
+			<div class="open-global-nav-btn" id="open-global-nav-btn"><span class="bar bar01"></span><span class="bar bar02"></span><span class="bar bar03"></span></div>
+			
+        </header>
+		
+		
+		<div class="open-global-nav" id="open-global-nav">
+			<div class="nav-inner" id="nav-inner">
+				<div class="btn-close txt-c" id="open-global-nav-close"><span class="bar bar01"></span><span class="bar bar02"></span></div>
+				<div class="table-style">
+					<div class="table-cell nav-box">
+						<div class="link-inner">
+							
+															<ul class="global-nav-lang-link">
+									<li><a href="http://bioclub.org/en/" class="hv-op">en</a></li>
+									<li><span>ja</span></li>
+								</ul>
+														
+							<ul class="global-nav-link">
+								<li>
+									<a href="http://bioclub.org/event/" class="hv-op">
+											
+											events
+																			</a>
+								</li>
+								<li>
+									<a href="http://bioclub.org/news/" class="hv-op">
+											
+											news
+																			</a>
+								</li>
+																											<li>
+											<a href="http://bioclub.org/project/" class="hv-op">
+																									report
+																							</a>
+										</li>
+																									
+															</ul>
+							
+							<ul class="global-nav-sub-link">
+																	<li><a class="hv-op" href="http://bioclub.org/about/">about</a></li>
+																<li><a href="/contact/" class="hv-op"><i class="fa fa-envelope"></i></a></li>
+								<li><a href="https://github.com/BioClub" target="_blank" class="hv-op"><i class="fa fa-github"></i></a></li>
+								<li><a href="https://www.facebook.com/bioclubtokyo/" target="_blank" class="hv-op"><i class="fa fa-facebook"></i></a></li>
+							</ul>
+						</div>
+					</div>
+				</div>
+			</div>
+		</div>
+			
+        <article id="single-wrapper">
+															<div class="single-eyecatch" style="background-image:url(http://bioclub.org/assets/images/アーユルヴェーダカバー.jpg)"></div>
+				         				
+			
+											
+																
+			<div class="single-head-pager-box">
+				<div class="ct-inner ct-side-space txt-c">
+					<div class="single-pager-text-box">
+																			<div class="single-pager-box prev">
+								<div class="table-style">
+									<a href="http://bioclub.org/news/report" class="table-cell va-mid">
+										<p class="single-pager-text">Prev</p>
+									</a>
+								</div>
+							</div>
+												
+																															
+						<div class="single-pager-date-box">
+							<div class="table-style">
+								<div class="table-cell va-mid">
+									<p class="single-pager-date-text">2018.03.02  (金)</p>	
+								</div>
+							</div>
+						</div>
+					
+																			<div class="single-pager-box next">
+								<div class="table-style">
+									<a href="http://bioclub.org/news/art-scienceresearch.tokyo" class="table-cell va-mid">
+										<p class="single-pager-text">Next</p>
+									</a>
+								</div>
+							</div>
+											</div>
+				</div>
+			</div>
+			
+		    <header class="single-header">
+           						<div class="single-post-info-box">
+						<span class="ct-label lg va-top type">news</span>
+
+
+
+
+
+				</div>
+				
+                <h1 class="ct-single-ttl h1">アーユルヴェーダWS ~ インド医療の生命観と物質観を学ぶ ~  【1】基礎編レポート</h1>
+				
+																	<div class="ct-tag-btn-list-wrap">
+													<div class="tag-btn"><a href="http://bioclub.org/tags/report">#REPORT</a></div>
+											</div>
+								
+            </header>
+            <div class="single-content">
+               
+								
+						
+											<p><sup></sup>2017年9月28日、BioClub主催のワークショップ『古代のdiyバイオ：アーユルヴーダワークショップ ~ インド医療の生命観と物質観を学ぶ ~』が開催されました。第１回 “基礎編”の参加レポートをお届けします。<br /><em>Text by：nk-810</em><br /><br /></p>
+<p>講師の小峰博生さんはインドの大学でアーユルヴェーダの医師の資格を取得。1983年という早くから日本でアーユルヴェーダを取り入れているハタイクリニックで2008年から専門医として働いている方です。BioClubのメンバーでもあり、DIYバイオを学ぶBioHackAcademyTokyoの２期卒業生でもあります。</p>
+<p><img src="https://lh6.googleusercontent.com/4AyA01weJhHMzzTGcTFApI0qyP_jnaSfbJ8q0WKrvi6iPKumSkyD8sDjEs6s0z913hJFg3MRWzKCLwmWIu2rdXnL4zjtNiGjahkRDj7jfV7B-J3knGvtM93fDR3WKlEvO_i8Jy-0" width="602" height="401" style="border-style:none;vertical-align:middle;height:auto;" alt="4AyA01weJhHMzzTGcTFApI0qyP_jnaSfbJ8q0WKrvi6iPKumSkyD8sDjEs6s0z913hJFg3MRWzKCLwmWIu2rdXnL4zjtNiGjahkRDj7jfV7B-J3knGvtM93fDR3WKlEvO_i8Jy-0" title="4AyA01weJhHMzzTGcTFApI0qyP_jnaSfbJ8q0WKrvi6iPKumSkyD8sDjEs6s0z913hJFg3MRWzKCLwmWIu2rdXnL4zjtNiGjahkRDj7jfV7B-J3knGvtM93fDR3WKlEvO_i8Jy-0" /></p>
+<p>「みなさん、アーユルヴェーダという言葉にどんなイメージがありますか？エステっぽいとか…ちょっと神さま系?なのかな…とか、そういうイメージありますよね。でも、そういう発信ってちょっと違うんじゃないかなというところから今回のワークショップを企画しました。」</p>
+<p>確かに日本では “癒やし“や”美容“といったイメージが強いアーユルヴェーダ。花に囲まれたスパでごま油をおでこに垂らされているキレイな女性のイメージ（ものすごいステレオタイプ）がありますが、実はAyurveda(アーユルヴェーダ)は”ayus生命+veda知識”で生命科学という意味なんだそうです。　</p>
+<p>小峰さんがDIYバイオに着目したのは、アーユルヴェーダとの類似点から。そして２つのムーブメントを繋げていきたいからだそう。テクノロジーや富や知識は一極集中しがちだけれど、みんなで共有して社会を良くしていくこともできる。それが市民参加型の生物学でありバイオハッキングのムーブメント。そこが古代のアーユルヴェーダとすごく似ていているのだそう。</p>
+<p>「古代にも、みんなで生命の働きを知ろう広めようとした人達がいたんです。今日はまず、どういった世界観なのか、どういう医療なのか、どんな歴史で生命観や物質感を持っているのかをお話しします。最後にみんなで体質判断をやってみましょう。」</p>
+									
+				
+																					
+																			<p><img src="http://bioclub.org/assets/images/22281109_10156333652801002_310608886_o.jpg" alt=""></p>
+																
+					
+													
+											<p>まずは基本的な世界観から。アーユルヴェーダには有名な古典が3冊あり（『チャラカ・サンタヒー』『スシュルタ・サンタヒー』 『アシュターンガ・フリダヤ・サンタヒー』 ）そこに表されている世界観･身体感は“世界に広がっているものが身体にもあって、世界と身体はつながっている。”というものなんだそう。</p>
+<p>「この感覚は、現代になってわかってきた人間は自分の身体だけで生きているわけではなくて微生物と共生していることだったり、 『猿と女とサイボーグ』の作者ダナ・ハラウェイが言っている機械も我々の身体の一部だということ、つまり、スマートフォンや微生物が身体を拡張してくれていることと通じるものがありますよね。」</p>
+<p>　大きな特徴は、”物理的に生命と向き合う”こと。治療医学と予防医学に分かれており、治療に関しては内科、育児学、グラハ、眼科、外科、薬学、アンチエイジング、セクソロジーの８つの学科があるそうで、中でもおもしろかったのが「グラハ」という科目。昔で言うと悪霊に取り憑かれた患者をどうするかという話なのですが、実はこれ現代で言う感染症のこと。確かに虫歯菌をちっちゃな悪魔みたいな表現にすることは今でも普通に行われています。顕微鏡のない古代でも生命現象と向き合い観察することで、目に見えない存在を知りえていたわけです。</p>
+<p>「古代にはおもしろい薬の作り方もあったみたいで、例えば豚を３日くらい断食させてからミルク粥だけを数日食べさせる。その後お腹を裂いて、出てきたお粥を薬草と混ぜてお酒にする。生物学の人に聞いたら豚の腸内細菌を取り込む工夫だったのではないかと。」</p>
+<p>　育児学が妊産婦ケアだけではなく性行為のやり方から育児までを網羅していたり、白内障の治療が紀元前後から行われていたりというお話しを伺っていると、スパやエステではなくすごく現実的な”医療”なんだなと目から鱗が落ちました。</p>
+<p>　　アーユルヴェーダの歴史は諸説が様々ありますが、紀元前1500年くらいにスタートしたそうです。 当時から強いカースト制度がありました。　仏陀が活躍する位の紀元前５００年前後になると、貧しい西インドと豊かな東インドでは経済格差も大きかった。気候が温暖で食料も技術も進んでいた東インドでは、余暇で哲学が発達し身分制度に疑問を持つ動きがでてきた。　それくらいからアーユルヴェーダが広まってきたんだそう。</p>
+<p>「カースト制度では血や死体に触る医師は穢れの仕事だったんですね。当時の医師は街から街へと旅するボヘミアンだったのでさらによい扱いは受けていなかった。それでも生や自然を知りたい情熱がそこにはあった。そこがバイオハッカーの人達に凄く似ているんです。」</p>
+									
+				
+																					
+																			<p><img src="http://bioclub.org/assets/images/22343912_10156333899536002_1627586685_o.jpg" alt=""></p>
+																
+					
+													
+											<p>最近、小峰さんはスペインのバイオハッカーコミュニティでもＤＩＹ治療薬のワークショップを開いたそう。スペインは医療格差が大きく、公の医療を受けられない不法移民も多い。そのため、科学者やお医者さんと市民が協力しながら自分達で医療を作ろうとしているGYNEPUNKSというグループがいるのだそうです。立場やカーストを飛び越えて医療をやっちゃおうよという姿勢が時を超えてシンクロしています。</p>
+<p>「アーユルヴェーダでは、世界を５つの元素”空・風・火・水・地 “で捉えています。日本だとお寺の5重の塔や旗の色などがこの５元素由来ですね。そこからでてくる身体感や世界観は、神経ネットワークや蜂の行動なんかの現代の複雑系に似ています。構造ではなくふるまいで分類している。つまりモノだけではなく時間の概念が入っているんです。」</p>
+<p>　例えば「空」は分子の状態が密ではなく、ふるまいかたで空間を作っていくもの。小さくて空間に融け込んで素早く拡がるイメージ。この働きが多いとやわらかく崩れやすくなっていきます。生きた木は水がはいって密だけれど時間の経過で枯れ木になるとぽろぽろになる。これは空の元素が入ったからだ。という考え方をしていたのだとか。血管も筒だから広がるし、ビッグバンで空間ができましたーというのも同じように捉える。なのでアーユルヴェーダでは、解剖生理学の講義は宇宙の始まりから話すのだそうです。「西洋」のサイエンスが注目し始めている複雑系やエピジェネティクスといった領域を古代から考えていた人達がいると思うと、新しい知や発見は温故知新にあるのかもしれないなと興味が募ります。</p>
+<p><img src="https://lh3.googleusercontent.com/ECpgmcagQbvkO17Gdh3zjFVmAFfdGmMexcgN3K3VsJhXDsekN-fxkeRLwiYZ5k1JedCy-Bd66ve2weXGF5MnxBZo9j09NQMRyXvt7RmLIDJ89gpbfGYRfuVPeBjy0LFp7N2Q9Z2L" width="602" height="401" alt="ECpgmcagQbvkO17Gdh3zjFVmAFfdGmMexcgN3K3VsJhXDsekN-fxkeRLwiYZ5k1JedCy-Bd66ve2weXGF5MnxBZo9j09NQMRyXvt7RmLIDJ89gpbfGYRfuVPeBjy0LFp7N2Q9Z2L" style="border-style:none;vertical-align:middle;height:auto;" /></p>
+<p>「自分自身を維持するというのは、外側の物質を入れて、自分をつくって、内側の物質を外に出して、どんどん自分を新しくしていくこと、つまり代謝です。身体性が先にあり新陳代謝しているのをモニタリングするために心が生まれた。という考え方をアーユルヴェーダではしています。主に触覚が心を作り上げる。暑いときに暑いなイヤだなと思う。それは身体の自己組織化、代謝に有益じゃないからイヤだと感じる。本来は気持ちいいと感じるものは身体にとっていいものなんです。だから暑かったら服を脱ぐのもアーユルヴェーダでは治療なんです。 」</p>
+<p><img src="https://lh3.googleusercontent.com/aHQ_jCu3kW6R6olFtFzvTq-YrriDsRPP8zO1sbYw6C9b_pFfasaeIvrD-G0G7Ypsg9b0uguZOByf7CLLvp-IkbIPH8KpIpWOWk5GM1dMO0qiDRvAOFQINHI0RkdQWRrRmfMosAjC" width="602" height="401" alt="aHQ_jCu3kW6R6olFtFzvTq-YrriDsRPP8zO1sbYw6C9b_pFfasaeIvrD-G0G7Ypsg9b0uguZOByf7CLLvp-IkbIPH8KpIpWOWk5GM1dMO0qiDRvAOFQINHI0RkdQWRrRmfMosAjC" style="border-style:none;vertical-align:middle;height:auto;" /></p>
+<p>　自己組織化に必要な代謝。その、”モノを動かして、変化させて、くっつける”バランスが人体を作っているという考え方に基づき、代謝パターンで体質がヴァータ、ピッタ、カパの３つに分類されています。 2015年にNATUREに掲載された論文では遺伝子検査と照らし合わせた結果、それなりに整合性があることも解ってきたそうで、西洋的なエビデンスと合わせて現在でもアップデートがなされているそうです。</p>
+<p>「それぞれに病気のかかりやすさやオススメの食べ物や運動や環境のガイドラインがありますが、３種類だけの分類ですし、個々人の差もあるので、あくまでざっくりしたガイドラインだと考えてください。」</p>
+<p><img src="https://lh4.googleusercontent.com/l7hiIBFHiQFcehGra3Ckev0JzehYsUwifka8V_9aZ83THTKQ6iHRVA5ICeO3Eu5gQU7PO0sKPpQZpUuUE28lPbMxYAnvlSN012l8QHkreV-IE7SB3ARVtYMgD2Buwg8o9q0kZk1Z" width="602" height="401" alt="l7hiIBFHiQFcehGra3Ckev0JzehYsUwifka8V_9aZ83THTKQ6iHRVA5ICeO3Eu5gQU7PO0sKPpQZpUuUE28lPbMxYAnvlSN012l8QHkreV-IE7SB3ARVtYMgD2Buwg8o9q0kZk1Z" style="border-style:none;vertical-align:middle;height:auto;" /></p>
+<p>この後は診断タイム。暖かい気候が好きか、のどが渇きやすいか、お腹を下しやすいかなど37の質問に答えていくことで自分がどの代謝パターンの傾向が強いのかをみていきます。</p>
+<p>「まとめると、循環する五大元素を自己組織化する存在が生命で、その代謝パターンによって予防や治療を考えていくというのが基本的な考え方になっています。」</p>
+<p>次回は自分の体質に合った「薬」作りにチャレンジです。</p>
+									
+				
+									
+	
+
+            </div><!-- .single-content -->
+
+			
+											
+																
+			<div class="single-head-pager-box type-white">
+				<div class="ct-inner ct-side-space txt-c">
+					<div class="single-pager-text-box">
+																			<div class="single-pager-box prev">
+								<div class="table-style">
+									<a href="http://bioclub.org/news/report" class="table-cell va-mid">
+										<p class="single-pager-text">Prev</p>
+									</a>
+								</div>
+							</div>
+												
+						<div class="single-pager-date-box">
+							<div class="table-style">
+								<div class="table-cell va-mid">
+									<a href="http://bioclub.org/news/">
+																					一覧ページへ
+																			</a>
+								</div>
+							</div>
+						</div>
+					
+																			<div class="single-pager-box next">
+								<div class="table-style">
+									<a href="http://bioclub.org/news/art-scienceresearch.tokyo" class="table-cell va-mid">
+										<p class="single-pager-text">Next</p>
+									</a>
+								</div>
+							</div>
+											</div>
+				</div>
+			</div>
+
+										<aside>
+					<div class="ct-inner ct-side-space">
+													<h2 class="h2 ct-bd-ttl">新着記事</h2>
+												<ul class="article-list col3">
+															<li class="article">
+	<a href="http://bioclub.org/news/indigo-dye" class="ct-block hv-op">
+	
+		<p class="ct-label-wrap">
+							<span class="ct-label text-small lg type va-top">news</span>
+						
+							<span class="ct-label text-small lg va-top new gray">2018.7.30</span>
+						
+													
+		</p>
+		
+		
+	
+									
+		
+		
+										
+		<h2 class="article-ttl">
+			古来より伝わる色づくりのバイオ技術 「インディゴ染め」の未来とは？
+		</h2>
+	</a>
+	
+																									<div class="tag-btn"><a href="http://bioclub.org/tags/イベント">#トークイベント</a></div>
+		
+							<div class="thumb">
+				<a href="http://bioclub.org/news/indigo-dye" class="ct-block hv-op">
+					<span class="img-wrapper"><img src="http://bioclub.org/assets/images/278918F6-0548-41E1-BE59-D38DE5672222.jpg" alt="古来より伝わる色づくりのバイオ技術 「インディゴ染め」の未来とは？"></span>
+					
+																<p class="ct-link-lead">At &quot;BioClub,&quot; an open bio-community that is active with MTRL in Shibuya, Tokyo, as its base, a focus is placed on the relationship between indigo dye and biotechnology. On June 28th, 2018, the event &quot;&#039;Color Agriculture&#039; - The World of Indigo Science&quot; was held.</p>
+									</a>
+			</div>
+			</li>															<li class="article">
+	<a href="http://bioclub.org/news/art-scienceresearch.tokyo" class="ct-block hv-op">
+	
+		<p class="ct-label-wrap">
+							<span class="ct-label text-small lg type va-top">news</span>
+						
+							<span class="ct-label text-small lg va-top new gray">2018.3.20</span>
+						
+													
+		</p>
+		
+		
+	
+									
+		
+		
+										
+		<h2 class="article-ttl">
+			アート&amp;サイエンスリサーチレジデンスをこの秋開催
+		</h2>
+	</a>
+	
+																									<div class="tag-btn"><a href="http://bioclub.org/tags/news">#NEWS</a></div>
+		
+							<div class="thumb">
+				<a href="http://bioclub.org/news/art-scienceresearch.tokyo" class="ct-block hv-op">
+					<span class="img-wrapper"><img src="http://bioclub.org/assets/images/KT_Chris.jpeg" alt="アート&amp;サイエンスリサーチレジデンスをこの秋開催"></span>
+					
+																<p class="ct-link-lead">This fall, BioClub will offer an art and science research residency program in cooperation with the Finnish Institute in Tokyo and BioArtSociety, an organization that connects the fields of art and science in Finland.</p>
+									</a>
+			</div>
+			</li>															<li class="article">
+	<a href="http://bioclub.org/news/report" class="ct-block hv-op">
+	
+		<p class="ct-label-wrap">
+							<span class="ct-label text-small lg type va-top">news</span>
+						
+							<span class="ct-label text-small lg va-top new gray">2018.3.1</span>
+						
+													
+		</p>
+		
+		
+	
+									
+		
+		
+										
+		<h2 class="article-ttl">
+			BioClub×ドミニクチェン×小倉ヒラクイベントレポート公開
+		</h2>
+	</a>
+	
+																									<div class="tag-btn"><a href="http://bioclub.org/tags/report">#REPORT</a></div>
+		
+							<div class="thumb">
+				<a href="http://bioclub.org/news/report" class="ct-block hv-op">
+					<span class="img-wrapper"><img src="http://bioclub.org/assets/images/ドミニクヒラク.jpg" alt="BioClub×ドミニクチェン×小倉ヒラクイベントレポート公開"></span>
+					
+																<p class="ct-link-lead">The event report for the BioClub x Dominick Chen x Hiraku Ogura event &quot;Nazo Hakko&quot; has been made public. The event was held on July 21st, 2017, and to commemorate the releases of &quot;Fermented Cultural Anthropology&quot; and &quot;Nazodoko&quot;!</p>
+									</a>
+			</div>
+			</li>													</ul>
+					</div>
+					
+				</aside>
+			            <div id="single-wrapper-close"></div>
+
+        </article>
+
+
+		<div class="single-footer-wrap">
+	
+<nav id="tag-modal">
+    <div class="tag-modal-ttl">tags</div>
+    <ul>
+					<li><a href="http://bioclub.org/tags/weekly_meeting">#WeeklyMeeting<span>&nbsp;(29)</span></a></li>
+					<li><a href="http://bioclub.org/tags/ワークショップ">#ワークショップ<span>&nbsp;(32)</span></a></li>
+					<li><a href="http://bioclub.org/tags/イベント">#トークイベント<span>&nbsp;(33)</span></a></li>
+					<li><a href="http://bioclub.org/tags/ミートアップ">#ミートアップ<span>&nbsp;(7)</span></a></li>
+					<li><a href="http://bioclub.org/tags/news">#NEWS<span>&nbsp;(10)</span></a></li>
+					<li><a href="http://bioclub.org/tags/report">#REPORT<span>&nbsp;(11)</span></a></li>
+					<li><a href="http://bioclub.org/tags/biohack-academy">#BioHack Academy<span>&nbsp;(12)</span></a></li>
+					<li><a href="http://bioclub.org/tags/project">#PROJECT<span>&nbsp;(2)</span></a></li>
+		    </ul>
+</nav>
+<div id="tag-modal-close"></div>
+
+<footer id="site-footer">
+    <div class="copyright">&copy; 2024 Open BioClub</div>
+</footer>
+
+<script src="//ajax.googleapis.com/ajax/libs/jquery/1.11.2/jquery.min.js"></script>
+<script>window.jQuery || document.write('<script src="/common/css/js/vendor/jquery-1.11.2.min.js"><\/script>')</script>
+<script src="/common/js/vendor/jquery.easing.1.3.js"></script>
+<script src="/common/js/vendor/jquery.scrollbar.min.js"></script>
+<script src="/common/js/vendor/imagesloaded.pkgd.min.js"></script>
+<script src="/common/js/vendor/masonry.pkgd.min.js"></script>
+<script src="/common/js/vendor/jquery.touchSwipe.min.js"></script>
+<script src="/common/js/vendor/jquery.BlackAndWhite.js"></script>
+<script src="/common/js/vendor/slick.min.js"></script>
+<script src="/common/js/main.js?20180322"></script>
+<script src="/common/js/common.js"></script>
+	</div>
+</body>
+</html>

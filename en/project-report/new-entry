@@ -1,0 +1,436 @@
+<!doctype html>
+	<html class="no-js" lang="ja">
+    <head prefix="og: http://ogp.me/ns# website: http://ogp.me/ns/website#">
+	<meta charset="utf-8">
+	<meta http-equiv="X-UA-Compatible" content="IE=edge">
+	<title>BioClub</title>
+	
+			<meta name="description" content="descriptionテスト入力">
+		
+			<meta property="og:description" content="">
+		
+		<meta property="og:title" content="">
+		
+	<meta property="og:url" content="http://bioclub.org/en/project-report/new-entry">
+			
+		
+					
+	<meta property="og:type" content="website">
+	
+	<meta name="viewport" content="width=device-width">
+	<script src="/common/js/viewport.js"></script>
+	
+	<link rel="stylesheet" href="/common/css/normalize.min.css">
+	<link rel="stylesheet" href="/common/css/main.css?20170322">
+	<script src="/common/js/vendor/modernizr-2.8.3-respond-1.4.2.min.js"></script>
+	<script src="https://use.fontawesome.com/0dfbc630d2.js"></script>
+	<link rel="shortcut icon" href="/favicon.ico">
+	
+	<meta property="og:site_name" content="BioClub">
+	<meta property="article:publisher" content="https://www.facebook.com/bioclubshibuya/">
+	
+	<!-- google map api -->
+	<script type='text/javascript' charset='utf-8' src='//maps.googleapis.com/maps/api/js?&key=AIzaSyDgoNhhsnaOD8gnESPlY5xC1yr6y-R_3WI'></script>
+	
+	<!-- Global site tag (gtag.js) - Google Analytics -->
+	<script async src="https://www.googletagmanager.com/gtag/js?id=UA-121405163-1"></script>
+	<script>
+		window.dataLayer = window.dataLayer || [];
+		function gtag(){dataLayer.push(arguments);}
+		gtag('js', new Date());
+		
+		gtag('config', 'UA-121405163-1');
+	</script>
+<style>
+@media screen and (min-width: 641px) {
+  #single-wrapper .single-eyecatch {
+    height:580px;
+  }
+}</style>
+
+</head>
+
+<body class="single">
+		
+        <header id="site-header">
+            
+						<div class="header-logo-box img-style" id="logo">
+													<a href="/en" class="block">
+				         							<h1 class="logo-img-slider-wrap">
+						<a href="/" class=""><img alt="BioClub" src="/common/img/logo.gif"></a>
+					</h1>
+				 
+				
+															 </a>
+												</div>
+			
+            <nav class="subnav">
+                <ul>
+                    <li>
+						<a href="http://bioclub.org/en/event/">
+								
+								events
+													</a>
+					</li>
+                    <li>
+						<a href="http://bioclub.org/en/news/">
+								
+								news
+													</a>
+					</li>
+										
+                </ul>
+									<div class="lang">
+						<div class="en"><span>en</span></div>
+						<div class="ja"><a href="/" class="hv-op">ja</a></div>
+					</div>
+				            </nav>
+			<div id="tag-show">#</div>
+			<div class="open-global-nav-btn" id="open-global-nav-btn"><span class="bar bar01"></span><span class="bar bar02"></span><span class="bar bar03"></span></div>
+			
+        </header>
+		
+		
+		<div class="open-global-nav" id="open-global-nav">
+			<div class="nav-inner" id="nav-inner">
+				<div class="btn-close txt-c" id="open-global-nav-close"><span class="bar bar01"></span><span class="bar bar02"></span></div>
+				<div class="table-style">
+					<div class="table-cell nav-box">
+						<div class="link-inner">
+							
+															<ul class="global-nav-lang-link">
+									<li><span>en</span></li>
+									<li><a href="/" class="hv-op">ja</a></li>
+								</ul>
+														
+							<ul class="global-nav-link">
+								<li>
+									<a href="http://bioclub.org/en/event/" class="hv-op">
+											
+											events
+																			</a>
+								</li>
+								<li>
+									<a href="http://bioclub.org/en/news/" class="hv-op">
+											
+											news
+																			</a>
+								</li>
+																
+																	<li>
+										<a href="http://bioclub.org/en/archive/" class="hv-op">
+												
+												archive
+																					</a>
+									</li>
+															</ul>
+							
+							<ul class="global-nav-sub-link">
+																<li><a href="/contact/" class="hv-op"><i class="fa fa-envelope"></i></a></li>
+								<li><a href="https://github.com/BioClub" target="_blank" class="hv-op"><i class="fa fa-github"></i></a></li>
+								<li><a href="https://www.facebook.com/bioclubtokyo/" target="_blank" class="hv-op"><i class="fa fa-facebook"></i></a></li>
+							</ul>
+						</div>
+					</div>
+				</div>
+			</div>
+		</div>
+			
+        <article id="single-wrapper">
+        	                        	                	<div class="single-eyecatch" style="background-image:url(http://bioclub.org/assets/images/プロトセル1.jpg)"></div>
+            	            			
+											
+																
+			<div class="single-head-pager-box">
+				<div class="ct-inner ct-side-space txt-c">
+					<div class="single-pager-text-box">
+																		
+						
+																																														
+																																																																																										
+																									
+								
+														
+											
+						<div class="single-pager-date-box">
+							<div class="table-style">
+								<div class="table-cell va-mid">
+																			<p class="single-pager-date-text">Wed., March 20, 00:00 – </p>	
+																	</div>
+							</div>
+						</div>
+					
+																			<div class="single-pager-box next">
+								<div class="table-style">
+									<a href="http://bioclub.org/en/project-report/open-source-science" class="table-cell va-mid">
+										<p class="single-pager-text">Next</p>
+									</a>
+								</div>
+							</div>
+											</div>
+				</div>
+			</div>
+			
+            <header class="single-header">
+				
+								<div class="single-post-info-box">
+						<span class="ct-label lg va-top type">project reports</span>
+
+						
+																				<span class="ct-label lg va-top mgl0 status">End</span>
+														
+					
+
+
+
+
+				</div>
+				
+				<h1 class="ct-single-ttl h1">&quot;Life&quot; created through movement - Protocell Generation Experiential Workshop Report </h1>
+			   
+																	<div class="ct-tag-btn-list-wrap">
+													<div class="tag-btn"><a href="http://bioclub.org/en/tags/news">#NEWS</a></div>
+													<div class="tag-btn"><a href="http://bioclub.org/en/tags/report">#REPORT</a></div>
+											</div>
+							</header>
+		
+			<div class="single-content">
+								
+																					<h3>WETBOTS: - Protocell Generation Workshop Report</h3>
+																
+				
+													
+											<p>Have you ever thought about the gap between matter and life?</p>
+<p>The human body is made up of an accumulation of various matter, such as water, fat, and protein. However, if we gather all of the matter that we are made of, it would form a mass, but not "life." Rather than existing merely as matter, we perform complex functions such as moving, singing, and growing larger by eating other masses. It is miraculous if you really think about it... </p>
+<p>The "WetBots - Protocell and Wet Automata Generation Workshop" held on March 20th was an opportunity to, along with cutting-edge biotechnology, take on the great biological and philosophical question, "when does matter become life?" We explored the world of creating systems with biological characteristics through the experience of making "protocells" that move as if alive.  </p>
+									
+				
+																												<h3>Lecturer Introduction</h3>
+																
+				
+																					
+																						
+					
+													
+											<p><a href="http://www.biodynamicgeometries.com/">Juan M. Castro</a> is an artist from Bogota, Colombia who is living in Tokyo. With a Ph.D. in media art from Tama Art University, he presents work and holds workshops around the world. Having studied biotechnology to create his art, he is a rare artist who works directly with bio-media. His previous work includes visual art that reflects an interaction between the viewer and cyanobacteria, said to be the original life that supplied the earth with oxygen, and bio-microsculptures created by synthesizing chemicals that make up cell membranes. This time, he held a workshop for the protocell creation process, which the general public does not usually get the chance to experience. </p>
+<p>Pre-modern biology was primarily a method of examining and classifying the organisms being studied, but cutting edge scientific research has enabled a creative approach called a "constitutive approach" in the field of living organic chemistry to "create" and understand things that function like organisms! </p>
+<p><strong>In order to understand the basic properties of life held in cells and cell aggregates as material science, is is necessary to do "create and understand" research (constructive approach) of organic molecular aggregates with "lifelikeness" to complement the "measure and understand" research (reductive approach) of conventional molecular cell biology.</strong> Source: <a href="http://park.itc.u-tokyo.ac.jp/toyota_lab/index.html">Tokyo University Komaba Toyota Lab HP</a></p>
+<p>You can understand how a car works after setting up a plastic model. This constructive approach takes an unusually high amount of time and labor, since it must be created from car parts such as "tires" or "engine." It is an investigation method that seeks through repeated trial and error to actually recreate how life's autonomous systems occur.</p>
+<p>The characteristic functions of "cells," the smallest unit of life, at this stage </p>
+<p>・Autonomously create the membrane structure<br />・Move<br />・Divide</p>
+<p>We attempt to reproduce these functions to be closer to real cells. </p>
+									
+				
+																												<h3>Primitive living system &quot;protocell&quot;</h3>
+																
+				
+													
+											<p>"Protocells," with which Mr. Castro has been working in the Tokyo University <a href="http://park.itc.u-tokyo.ac.jp/toyota_lab/">Toyota Lab</a> for many years, are primitive "living systems" said to have existed before organisms were living on earth. He attempts to create from the beginning organic molecular aggregates that behave like cells. Last year in May, 2017, Mr. Castro's alma mater Tama Art University School of Information Design held Art + Wet Artificial Life: the first international workshop in Japan, featuring leading figure in protocells Professor <strong>Steen Rasmussen</strong>. There are protocell models based on vesicles (lipid membrane), but this workshop used a method of protecell creation based on oil droplets. </p>
+									
+				
+																					
+																						
+					
+																					
+																						
+					
+													
+											<p>This workshop included a thorough lecture of basic methods for handling wet materials, such as how to measure materials, how to use pipettes, and how to process chemicals. Pipettes were used to carefully place one drop each of two solutions into an aqueous solution mixed with surfactant. Then, each one became a sphere resembling a salmon roe formed from the oil membrane and started to move on its own. </p>
+									
+				
+																					
+																						
+					
+																					
+																						
+					
+													
+											<p>⇨<a href="https://youtu.be/gTYCScgoJjs">Video</a> </p>
+<p>When you see a small sphere moving freely, it seems mysteriously alive and appears to have a will. <br />Mr. Castro stated that "the color itself has no meaning, but people like colors and end up projecting some meaning onto the object. I wanted people to experience how we often unconsciously feel that something is "alive" just through movement and color." Indeed, even if you know in your mind that the thing moving before you is just matter, it can resemble goldfish or a tadpole, or appear to be communicating. At an advanced stage, it can get closer bit by bit to the behavior of a real cell through 3D movements such as rising and falling in water, controlling the speed, or successfully dividing. </p>
+									
+				
+																					
+																						
+					
+													
+											<p>In the second half, there was a discussion about what kinds of new things will be born and how our senses and conceptions will change if we can create a "living" structure. It is called differentiation when cells gather together and become "eyes" or "hair," but we are still far off from being able to create that artificially. These functions exist inherently in our cells, but we are beginning to understand how complex and mysterious cell structure and functions are. </p>
+									
+				
+																					
+																						
+					
+													
+											<p>One of the participants, an aspiring architecture student, said "I was interested to think that in the future, living materials will be used in manufacturing. I can picture it even more realistically after actually experiencing these materials in this workshop." </p>
+<p>What sorts of spaces and products would be created if rooms and walls could autonomously self-organize in this way? If we could create something artificial that resembles life, could we call it alive? If we lived in a world where these things are routinely created, how will our values change? </p>
+<p>With this opportunity, we would like to continue the Bio Club soft matter workshops. Please look forward to the next one. </p>
+<p>Event details: Date: March 20th, 2018. Location: FabCafe MTRL "<a href="http://bioclub.org/event/wetbots">WETBOTS - Protocell and Wet Automata Generation Workshop</a>"<br /></p>
+									
+				
+									
+	
+			</div><!-- .single-content -->
+            
+			
+			
+											
+																
+			<div class="single-head-pager-box type-white">
+				<div class="ct-inner ct-side-space txt-c">
+					<div class="single-pager-text-box">
+																		
+						<div class="single-pager-date-box">
+							<div class="table-style">
+								<div class="table-cell va-mid">
+									<a href="http://bioclub.org/en/project_report/">
+																					To list page
+																			</a>
+								</div>
+							</div>
+						</div>
+					
+																			<div class="single-pager-box next">
+								<div class="table-style">
+									<a href="http://bioclub.org/en/project-report/open-source-science" class="table-cell va-mid">
+										<p class="single-pager-text">Next</p>
+									</a>
+								</div>
+							</div>
+											</div>
+				</div>
+			</div>
+
+										<aside>
+					<div class="ct-inner ct-side-space">
+													<h2 class="h2 ct-bd-ttl">The Latest</h2>
+												<ul class="article-list col3">
+															<li class="article">
+	<a href="http://bioclub.org/en/project-report/イベントレポート-バイオリソースは生命の方舟-ダイバーシティが拡げるバイオの可能性-科学技術と社会を縁の下で支える-バイオリソース-をどう伝え-活用するか" class="ct-block hv-op">
+	
+		<p class="ct-label-wrap">
+							<span class="ct-label text-small lg type va-top">project reports</span>
+						
+																																						<span class="ct-label text-small lg va-top status">End</span>
+																
+												
+						
+													
+		</p>
+		
+		
+	
+									
+		
+		
+										
+		<h2 class="article-ttl">
+			 イベントレポート「バイオリソースは生命の方舟〜ダイバーシティが拡げるバイオの可能性〜」：科学技術と社会を縁の下で支える「バイオリソース」をどう伝え、活用するか
+		</h2>
+	</a>
+	
+						
+									<p class="ct-link-lead"><a href="http://bioclub.org/en/project-report/イベントレポート-バイオリソースは生命の方舟-ダイバーシティが拡げるバイオの可能性-科学技術と社会を縁の下で支える-バイオリソース-をどう伝え-活用するか" class="ct-block hv-op">2021年、理化学研究所バイオリソース研究センターは設立から20周年を迎えます。その節目を迎えるにあたり、アウトリーチ活動を通した社会との連携を目指します。2021年3月6日、そのファーストステップとして、一般向けにBRCの事業の紹介を行いバイオリソースの活用法や市民とのコミュニケーションについて方向性を探ることを目的として「バイオリソースは生命の方舟：ダイバーシティが拡げるバイオの可能性」を実施しました。</a></p>
+			</li>															<li class="article">
+	<a href="http://bioclub.org/en/project-report/微生物多様性から都市におけるウェルビーイングを探る-3か月でアウトリーチ活動を実践-living-machine-project" class="ct-block hv-op">
+	
+		<p class="ct-label-wrap">
+							<span class="ct-label text-small lg type va-top">project reports</span>
+						
+																																
+						
+													
+		</p>
+		
+		
+	
+									
+		
+		
+										
+		<h2 class="article-ttl">
+			微生物多様性から都市におけるウェルビーイングを探る。 3か月でアウトリーチ活動を実践「Living Machine Project」
+		</h2>
+	</a>
+	
+						
+									<p class="ct-link-lead"><a href="http://bioclub.org/en/project-report/微生物多様性から都市におけるウェルビーイングを探る-3か月でアウトリーチ活動を実践-living-machine-project" class="ct-block hv-op">パナソニックにおいて先行開発に特化したプロジェクトを推進するデザインチーム「FUTURE LIFE FACTORY」は、都市生活者のウェルビーイングを考えるにあたり、土壌に生息する微生物の多様性に着目。長期展望から微生物多様性の重要性を啓発し、都市生活者の間で対話や議論を喚起することを目的に「Living Machine Project」を立ち上げました。</a></p>
+			</li>															<li class="article">
+	<a href="http://bioclub.org/en/project-report/wet-ware-fab-fabric-1-1" class="ct-block hv-op">
+	
+		<p class="ct-label-wrap">
+							<span class="ct-label text-small lg type va-top">project reports</span>
+						
+																																						<span class="ct-label text-small lg va-top status">End</span>
+																
+												
+						
+													
+		</p>
+		
+		
+	
+									
+		
+		
+																		
+																																																		
+													
+				
+						<div class="event-date">Sat., November 24, 18:00 – </div>
+				
+		<h2 class="article-ttl">
+			WET - WARE / FAB - FABRIC The First &quot;Wearing Life&quot; What is a Semi-Life Material? Event Report
+		</h2>
+	</a>
+	
+																									<div class="tag-btn"><a href="http://bioclub.org/en/tags/news">#NEWS</a></div>
+		
+							<div class="thumb">
+				<a href="http://bioclub.org/en/project-report/wet-ware-fab-fabric-1-1" class="ct-block hv-op">
+					<span class="img-wrapper"><img src="http://bioclub.org/assets/images/wwff01.jpg" alt="WET - WARE / FAB - FABRIC The First &quot;Wearing Life&quot; What is a Semi-Life Material? Event Report"></span>
+					
+																<p class="ct-link-lead">Design researcher Kazuya Kawasaki and Bio Club director Chiaki Ishizuka organized the WET - WARE - / FAB - FABRIC working group to study and practice innovation at the intersection of biotechnology and fashion. The commemorative first meeting reconsidered the concept of conventional &quot;anthropocentric&quot; clothing design and featured Mr. Yohsuke Takahashi, curator at the 21st Century Museum of Contemporary Art, Kanazawa who actively plans bio-art exhibitions.</p>
+									</a>
+			</div>
+			</li>													</ul>
+					</div>
+					
+				</aside>
+						
+        </article>
+
+	<div class="single-footer-wrap">
+	
+<nav id="tag-modal">
+    <div class="tag-modal-ttl">tags</div>
+    <ul>
+					<li><a href="http://bioclub.org/en/tags/weekly_meeting">#Weekly_Meeting<span>&nbsp;(29)</span></a></li>
+					<li><a href="http://bioclub.org/en/tags/ワークショップ">#ワークショップ<span>&nbsp;(30)</span></a></li>
+					<li><a href="http://bioclub.org/en/tags/イベント">#イベント<span>&nbsp;(33)</span></a></li>
+					<li><a href="http://bioclub.org/en/tags/ミートアップ">#ミートアップ<span>&nbsp;(7)</span></a></li>
+					<li><a href="http://bioclub.org/en/tags/news">#NEWS<span>&nbsp;(9)</span></a></li>
+					<li><a href="http://bioclub.org/en/tags/report">#REPORT<span>&nbsp;(10)</span></a></li>
+					<li><a href="http://bioclub.org/en/tags/biohack-academy">#BioHack Academy<span>&nbsp;(12)</span></a></li>
+					<li><a href="http://bioclub.org/en/tags/project">#PROJECT<span>&nbsp;(2)</span></a></li>
+		    </ul>
+</nav>
+<div id="tag-modal-close"></div>
+
+<footer id="site-footer">
+    <div class="copyright">&copy; 2024 Open BioClub</div>
+</footer>
+
+<script src="//ajax.googleapis.com/ajax/libs/jquery/1.11.2/jquery.min.js"></script>
+<script>window.jQuery || document.write('<script src="/common/css/js/vendor/jquery-1.11.2.min.js"><\/script>')</script>
+<script src="/common/js/vendor/jquery.easing.1.3.js"></script>
+<script src="/common/js/vendor/jquery.scrollbar.min.js"></script>
+<script src="/common/js/vendor/imagesloaded.pkgd.min.js"></script>
+<script src="/common/js/vendor/masonry.pkgd.min.js"></script>
+<script src="/common/js/vendor/jquery.touchSwipe.min.js"></script>
+<script src="/common/js/vendor/jquery.BlackAndWhite.js"></script>
+<script src="/common/js/vendor/slick.min.js"></script>
+<script src="/common/js/main.js?20180322"></script>
+<script src="/common/js/common.js"></script>
+	</div>
+	
+</body>
+</html>

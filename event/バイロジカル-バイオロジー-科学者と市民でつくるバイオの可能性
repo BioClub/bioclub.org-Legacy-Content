@@ -1,0 +1,789 @@
+<!doctype html>
+	<html class="no-js" lang="ja">
+    <head prefix="og: http://ogp.me/ns# website: http://ogp.me/ns/website#">
+	<meta charset="utf-8">
+	<meta http-equiv="X-UA-Compatible" content="IE=edge">
+	<title>BioClub</title>
+	
+			<meta name="description" content="bioclub">
+		
+			<meta property="og:description" content="">
+		
+		<meta property="og:title" content="">
+		
+	<meta property="og:url" content="http://bioclub.org/event/バイロジカル-バイオロジー-科学者と市民でつくるバイオの可能性">
+			
+		
+					
+	<meta property="og:type" content="website">
+	
+	<meta name="viewport" content="width=device-width">
+	<script src="/common/js/viewport.js"></script>
+	
+	<link rel="stylesheet" href="/common/css/normalize.min.css">
+	<link rel="stylesheet" href="/common/css/main.css?20170322">
+	<script src="/common/js/vendor/modernizr-2.8.3-respond-1.4.2.min.js"></script>
+	<script src="https://use.fontawesome.com/0dfbc630d2.js"></script>
+	<link rel="shortcut icon" href="/favicon.ico">
+	
+	<meta property="og:site_name" content="BioClub">
+	<meta property="article:publisher" content="https://www.facebook.com/bioclubshibuya/">
+	
+	<!-- google map api -->
+	<script type='text/javascript' charset='utf-8' src='//maps.googleapis.com/maps/api/js?&key=AIzaSyDgoNhhsnaOD8gnESPlY5xC1yr6y-R_3WI'></script>
+	
+	<!-- Global site tag (gtag.js) - Google Analytics -->
+	<script async src="https://www.googletagmanager.com/gtag/js?id=UA-121405163-1"></script>
+	<script>
+		window.dataLayer = window.dataLayer || [];
+		function gtag(){dataLayer.push(arguments);}
+		gtag('js', new Date());
+		
+		gtag('config', 'UA-121405163-1');
+	</script>
+<style>
+@media screen and (min-width: 641px) {
+  #single-wrapper .single-eyecatch {
+    height:580px;
+  }
+}</style>
+
+</head>
+
+<body class="single">
+		
+        <header id="site-header">
+            
+						<div class="header-logo-box img-style" id="logo">
+													<a href="/" class="block">
+				         							<h1 class="logo-img-slider-wrap">
+						<a href="/" class=""><img alt="BioClub" src="/common/img/logo.gif"></a>
+					</h1>
+				 
+				
+															 </a>
+												</div>
+			
+            <nav class="subnav">
+                <ul>
+                    <li>
+						<a href="http://bioclub.org/event/">
+								
+								events
+													</a>
+					</li>
+                    <li>
+						<a href="http://bioclub.org/news/">
+								
+								news
+													</a>
+					</li>
+											<li>
+							<a href="http://bioclub.org/project/">
+																	report
+															</a>
+						</li>
+										
+                </ul>
+									<div class="lang">
+						<div class="en"><a href="http://bioclub.org/en/" class="hv-op">en</a></div>
+						<div class="ja"><span>ja</span></div>
+					</div>
+				            </nav>
+			<div id="tag-show">#</div>
+			<div class="open-global-nav-btn" id="open-global-nav-btn"><span class="bar bar01"></span><span class="bar bar02"></span><span class="bar bar03"></span></div>
+			
+        </header>
+		
+		
+		<div class="open-global-nav" id="open-global-nav">
+			<div class="nav-inner" id="nav-inner">
+				<div class="btn-close txt-c" id="open-global-nav-close"><span class="bar bar01"></span><span class="bar bar02"></span></div>
+				<div class="table-style">
+					<div class="table-cell nav-box">
+						<div class="link-inner">
+							
+															<ul class="global-nav-lang-link">
+									<li><a href="http://bioclub.org/en/" class="hv-op">en</a></li>
+									<li><span>ja</span></li>
+								</ul>
+														
+							<ul class="global-nav-link">
+								<li>
+									<a href="http://bioclub.org/event/" class="hv-op">
+											
+											events
+																			</a>
+								</li>
+								<li>
+									<a href="http://bioclub.org/news/" class="hv-op">
+											
+											news
+																			</a>
+								</li>
+																											<li>
+											<a href="http://bioclub.org/project/" class="hv-op">
+																									report
+																							</a>
+										</li>
+																									
+															</ul>
+							
+							<ul class="global-nav-sub-link">
+																	<li><a class="hv-op" href="http://bioclub.org/about/">about</a></li>
+																<li><a href="/contact/" class="hv-op"><i class="fa fa-envelope"></i></a></li>
+								<li><a href="https://github.com/BioClub" target="_blank" class="hv-op"><i class="fa fa-github"></i></a></li>
+								<li><a href="https://www.facebook.com/bioclubtokyo/" target="_blank" class="hv-op"><i class="fa fa-facebook"></i></a></li>
+							</ul>
+						</div>
+					</div>
+				</div>
+			</div>
+		</div>
+			
+        <article id="single-wrapper">
+																		<div class="single-eyecatch" style="background-image:url(http://bioclub.org/assets/images/19201100-MV-100.jpg)"></div>
+				         				
+			
+											
+																
+			<div class="single-head-pager-box">
+				<div class="ct-inner ct-side-space txt-c">
+					<div class="single-pager-text-box">
+																			<div class="single-pager-box prev">
+								<div class="table-style">
+									<a href="http://bioclub.org/event/bio-decoration-workshop" class="table-cell va-mid">
+										<p class="single-pager-text">Prev</p>
+									</a>
+								</div>
+							</div>
+												
+						
+																																														
+																																																																																										
+																									
+														
+											
+						<div class="single-pager-date-box">
+							<div class="table-style">
+								<div class="table-cell va-mid">
+																			<p class="single-pager-date-text">2021.03.06 (土) 04:00 – </p>	
+																	</div>
+							</div>
+						</div>
+					
+																			<div class="single-pager-box next">
+								<div class="table-style">
+									<a href="http://bioclub.org/event/バイオの力に触れてみよう-diy-bio-challenge" class="table-cell va-mid">
+										<p class="single-pager-text">Next</p>
+									</a>
+								</div>
+							</div>
+											</div>
+				</div>
+			</div>
+			
+			
+		    <header class="single-header">
+			
+								<div class="single-post-info-box">
+						<span class="ct-label lg va-top type">events</span>
+
+						
+									
+			
+							  										<span class="ct-label lg va-top mgl0 status">終了</span>
+									  			
+							
+
+
+
+
+				</div>
+				
+                <h1 class="ct-single-ttl h1">バイオリソースは生命の方舟 〜ダイバーシティが拡げるバイオの可能性〜</h1>
+				
+																	<div class="ct-tag-btn-list-wrap">
+													<div class="tag-btn"><a href="http://bioclub.org/tags/イベント">#トークイベント</a></div>
+													<div class="tag-btn"><a href="http://bioclub.org/tags/ミートアップ">#ミートアップ</a></div>
+											</div>
+								
+				
+								<div class="ct-date-box">
+				
+																													
+																																																																																
+																						
+												
+						<dl class="table-style">
+							<dt class="table-cell va-top fw-b ct-date-ttl">Date</dt>
+							<dd class="table-cell va-top ct-date-box-text">
+								<div class="ct-date-box-text-inner">
+									<p>2021.03.06 (土)</p>
+								</div>
+							</dd>
+						</dl>
+										
+					
+																																																	
+								
+																																														
+																							
+							
+															<dl class="table-style">
+									<dt class="table-cell va-top fw-b ct-date-ttl">Time</dt>
+									<dd class="table-cell va-top ct-date-box-text">
+										<div class="ct-date-box-text-inner">
+											<p>16:00 - 18:00</p>
+										</div>
+									</dd>
+								</dl>
+														
+																																		
+								
+																																													
+									
+															
+							
+															<dl class="table-style">
+									<dt class="table-cell va-top fw-b ct-date-ttl">Place</dt>
+									<dd class="table-cell va-top ct-date-box-text">
+										<div class="ct-date-box-text-inner">
+											<p>zoom webiner</p>
+										</div>
+									</dd>
+								</dl>
+														
+																																		
+								
+									
+																																													
+									
+															
+							
+															<dl class="table-style">
+									<dt class="table-cell va-top fw-b ct-date-ttl">Capacity</dt>
+									<dd class="table-cell va-top ct-date-box-text">
+										<div class="ct-date-box-text-inner">
+											<p>free</p>
+										</div>
+									</dd>
+								</dl>
+														
+																																		
+								
+									
+																																													
+									
+															
+							
+															<dl class="table-style">
+									<dt class="table-cell va-top fw-b ct-date-ttl">Fee</dt>
+									<dd class="table-cell va-top ct-date-box-text">
+										<div class="ct-date-box-text-inner">
+											<p>free</p>
+										</div>
+									</dd>
+								</dl>
+														
+																
+				</div>
+            </header>
+			
+            <div class="single-content">
+			
+													<p>理化学研究所バイオリソース研究センター（理研BRC）は今年設立20周年を迎えます。今回のイベントでは、バイオに興味のある一般の皆様へ向けて、バイオ研究の知識や技術の発展を支える「バイオリソース」（生物遺伝資源）を紹介します。さらに、バイオ研究を駆動する最先端技術である、PCRやゲノム編集を題材として、その基礎的な原理を解説します。これらの最先端技術は、私たちの社会にどのような影響を与えるのでしょうか？理研BRCの最先端の専門家が話題提供します。クロストークでは、「バイオが社会で活用されていくために必要なこと」についてヒントを得るべく、細胞培養技術の民主化や科学リテラシーの向上を目指す市民バイオコミュニティ、shojinmeat projectを運営する羽生雄毅氏とともに、バイオが市民に受容されていくプロセスについて議論を深めます。</p>
+								
+				
+											
+				
+																	                                <div class="btn"><span>終了</span></div>
+                        
+					          
+
+            									
+	
+		
+								
+														
+																			<p><img src="http://bioclub.org/assets/images/19201100-MV-100.jpg" alt=""></p>
+																
+					
+													
+											<p><span style="color:rgb(255,255,255);"><span style="background-color:rgb(12,12,12);"></span></span></p>
+<h1><strong></strong></h1>
+<h2>バイオは私たちの生活と結びついている</h2>
+<p>依然として続く、パンデミック。メディアやSNS上では、消毒やマスク、PCR検査、ワクチンといった、生物学や生命科学ーいわゆるバイオサイエンスに関する不確かな情報が入り乱れ、社会に大きな影響を与え続けています。バイオサイエンスは私たちの日常と複雑に結びついており、この結びつきは、バイオサイエンスの発展に従って、ますます複雑に絡みあっていくでしょう。将来、社会を生きる私たち一人一人が、バイオサイエンスに対してどう向き合い、そこにどういった価値判断や意味付けをしていくかが問われています。</p>
+<h2>バイオは薬にも毒にもなる？ファルマコンとしてのバイオ</h2>
+<p>私たち一人一人が価値判断や意味付けを行うプレイヤーだと認識し、その際に確かな科学的知識を用いることは、これまで以上に欠かせない科学リテラシーとなるのではないでしょうか。薬の語源であるギリシャ語ファルマコン（Pharmakon＝φάρμακον, Greek）は、「薬」＝「毒」の両面的意味を併せ持つ概念です。科学技術は文字通り薬にも毒にもなるファルマコンと考えることができます。特に生命科学の分野では、PCRやゲノム編集などの最新技術が今後ますます身近になると予想されるので、私たち一人一人が当事者意識をもち、質の高い知識を得ること、そして議論を行うことが必要になるでしょう。</p>
+<h2>世界中のバイオサイエンスの基盤として</h2>
+<p>2021年、世界的なバイオサイエンスの基盤の1つである理化学研究所バイオリソース研究センター（理研BRC）は設立20周年を迎えます。バイオリソースとは、生命科学の研究開発やバイオ産業で用いられる「材料」を指す言葉で、生物遺伝資源とも呼ばれます。理研BRCは、細胞やマウス、植物、遺伝子、微生物といったバイオリソースを管理・整備し、さらには研究開発・技術開発までを担う、まさにバイオの方舟のような機関です。「誰がやっても同じ結果」を生み出すような、質の高い研究を行うためには、質の高いリソースと、質の高い研究方法が必要です。理研BRCは、多様性そのものである生物を「資源」として、正しい実験や研究ができるような品質管理や、技術の開発と提供を行い、さらには研究者が権利やルールを守って研究ができるような環境づくりにも貢献しています。今回のイベントでは、バイオに興味のある皆様へ向け、確かな知識や技術をもたらす質の高い研究とは何か、そのためにどんな準備や素質が必要なのか、その根本を解説します。</p>
+<h2>ゲノム編集とPCR</h2>
+<p>そして、理研BRCでも技術開発を行うPCRやゲノム編集を題材に、その可能性と社会にもたらす良い影響・悪い影響の両面を紹介します。人間の感染症を媒介するからといって、特定の生物をゲノム編集で絶滅させてもよいのでしょうか？それを「よい」と価値判断するのは、ゲノム編集の専門家だけでしょうか？ゲノム編集は、医療応用への可能性がある反面、人類史そのものを揺るがす恐れがあることなど、今、専門家の間で議論されている倫理的警鐘を解説します。また、COVID-19の検査で一躍民主的な単語となった、PCRについて、基礎の原理から、COVID-19の検査に止まらない、理研BRCならではの最先端の活用事例を紹介します。</p>
+<h2>私たちがバイオ技術と付き合っていくために必要なことは？</h2>
+<p>科学的に確かな知識と基礎を踏まえた上で、バイオと社会、市民の関係をどう構築していくのがよいのでしょうか。それは私たちひとりひとりがファルマコン的なバイオ技術といかに付き合っていくかを意味します。今回のイベントでは、市民が主体となって科学的研究や実験を行う、「市民バイオ」と呼ばれる活動に着目します。渋谷のオープンウェットラボ 「BioLab」を有する市民バイオのプラットフォーム「BioClub」細谷氏と、持続可能な食肉生産を可能にする「細胞農業」を模索している株式会社インテグリカルチャーCEOであり、市民が自宅で細胞を培養し、「純肉（クリーンミート）」を作成する市民バイオ団体、shojinmeat projectの代表、羽生雄毅氏に、バイオと市民に橋をかけるような活動の事例を伺います。バイオの知識や技術を市民の視点から捉え直し、社会の中で正しく用いていくために何が必要か？という観点から議論を深めることで、科学と研究の基盤づくりを行う理研BRCと市民を有機的に繋ぐ「場」（プラットフォーム）をどのように作っていけるのか？という問題についてヒントを探っていきます。</p>
+									
+				
+													
+											<h2>こんな人におすすめです</h2>
+<ul><li>理研BRCの事業内容や、最新の研究成果について知りたい人</li><li>PCRやゲノム編集について、確かな知識を得たい人</li><li>バイオベンチャーやバイオ系企業にお勤めの方で、理研BRCの事業に興味がある人</li><li>BioClubやShojinmeatのような市民科学について興味があり、自分も参画したい人</li><li>科学技術と社会の関係、サイエンスコミュニケーションに興味がある人</li></ul>
+									
+				
+											
+					
+																							
+													<h2>理化学研究所バイオリソース研究センター登壇者</h2>
+											
+													
+																						 <div class="profile-block">
+																																							<div class="profile-pic" style="background-image:url(http://bioclub.org/assets/images/500500-people-100.jpg)"></div>
+																												<div class="profile-info">
+																																	<div class="profile-header">
+																							<div class="profile-name">桝屋 啓志</div>
+												
+																										
+											</div>
+																				
+																					<p class="profile-desc">理化学研究所バイオリソース研究センター
+統合情報開発室　室長
+1996年 総合研究大学院大学生命科学研究科修了 理学博士。1999年 特殊法人 理化学研究所 ゲノム科学総合研究センター 研究員、2008年  独立行政法人 理化学研究所 バイオリソースセンター ユニットリーダー、2019年 国立研究開発法人 理化学研究所 バイオリソース研究センター 室長。マウスの発生遺伝学研究を経て、現在の専門であるバイオインフォマティクス研究に転向。</p>
+																			</div>
+								</div>
+
+																						
+					
+				
+				
+						
+					
+																							
+											
+													
+																						 <div class="profile-block">
+																																							<div class="profile-pic" style="background-image:url(http://bioclub.org/assets/images/500500-people_4-100.jpg)"></div>
+																												<div class="profile-info">
+																																	<div class="profile-header">
+																							<div class="profile-name">天野 孝紀</div>
+												
+																										
+											</div>
+																				
+																					<p class="profile-desc">理化学研究所バイオリソース研究センター
+次世代ヒト疾患モデル研究開発チーム　チームリーダー
+2005年 東北大学大学院生命科学研究科修了、博士(生命科学)、 2005年 情報・システム研究機構国立遺伝学研究所、特別研究員、2013年 同研究所、助教、
+2018年 国立研究開発法人 理化学研究所 バイオリソース研究センター チームリーダー。
+専門は、発生遺伝学・ゲノム科学。マウスを用いた遺伝学的アプローチで疾患モデル作製に従事する。</p>
+																			</div>
+								</div>
+
+																						
+					
+				
+				
+						
+					
+																							
+											
+													
+																						 <div class="profile-block">
+																																							<div class="profile-pic" style="background-image:url(http://bioclub.org/assets/images/500500-people_1-100.jpg)"></div>
+																												<div class="profile-info">
+																																	<div class="profile-header">
+																							<div class="profile-name">市橋 泰範</div>
+												
+																										
+											</div>
+																				
+																					<p class="profile-desc">理化学研究所バイオリソース研究センター
+植物―微生物共生研究開発チーム　チームリーダー
+2010年 東京大学大学院理学系研究科博士課程修了 理学博士。2010年 University of California Davis Postdoctoral fellow。2014年 国立研究開発法人 理化学研究所 基礎科学特別研究員。2016年 国立研究開発法人 科学技術振興機構 さきがけ研究者。2018年 国立研究開発法人 理化学研究所 バイオリソース研究センター チームリーダー。専門は、植物生理、植物微生物相互作用。</p>
+																			</div>
+								</div>
+
+																						
+					
+				
+				
+						
+					
+																							
+													<h2>株式会社インテグリカルチャー</h2>
+											
+													
+																						 <div class="profile-block">
+																																							<div class="profile-pic" style="background-image:url(http://bioclub.org/assets/images/500500-people_3-100.jpg)"></div>
+																												<div class="profile-info">
+																																	<div class="profile-header">
+																							<div class="profile-name">羽生 雄毅</div>
+												
+																										
+											</div>
+																				
+																					<p class="profile-desc">Shojinmeat Project発起人 / インテグリカルチャー(株) 代表取締役2010年、オックスフォード大学博士(化学)、東北大学多元物質科学研究所、東芝研究開発センター、システム技術ラボラトリーを経て、2014年、細胞農業の実現に向けて研究者や学生数名とともに細胞培養肉の研究開発の有志団体”Shojinmeat Project”を立ち上げ、2017年にインテグリカルチャー(株)をスピンオフする。以降、Shojinmeat ProjectではDIY細胞培養技術の開発やアーティスト・クリエイター活動を通じた、大衆化と多様化に取り組み、インテグリカルチャー(株)では汎用大規模細胞培養システム(CulNet System)での細胞農業の標準インフラの構築に取り組む。</p>
+																			</div>
+								</div>
+
+																						
+					
+				
+				
+						
+					
+																							
+													<h2>BioClub / BioLab</h2>
+											
+													
+																						 <div class="profile-block">
+																																							<div class="profile-pic" style="background-image:url(http://bioclub.org/assets/images/スクリーンショット-2020-11-14-11.56.38.png)"></div>
+																												<div class="profile-info">
+																																	<div class="profile-header">
+																							<div class="profile-name">細谷 祥央</div>
+												
+																										
+											</div>
+																				
+																					<p class="profile-desc">BioClub community manager
+BioLab lab manager
+大阪府出身。北海道大学理学院自然史科学専攻多様性生物学修士。イタチ科日本固有種の進化と遺伝的多様性についての基礎研究を行う。科学的専門知と一般市民の接点に課題を感じ、サイエンスに対する知的好奇心をクリエイティブな手法で刺激する活動を企画し実施。活動を通して、多様な専門知が共同でプロジェクトの成功を目指すロフトワークでのワークスタイルに魅力を感じ、2020年に入社。生き物と歴史とおもちゃを好む。</p>
+																			</div>
+								</div>
+
+																						
+					
+				
+				
+								
+											<h2>プログラム</h2>
+<p></p>
+<p>16:00-16:10 <strong>理研20周年記念イベントイントロダクション</strong><br />16:10-16:40 <strong>理研BRCとは〜バイオの方舟〜（</strong>統合情報開発室 室長 桝屋啓志）<br />16:40-16:55 <strong>理研BRCの研究〜ゲノム編集が身近になったら〜<br />（</strong>次世代ヒト疾患モデル研究開発チームリーダー 天野孝紀）<br />16:55-17:10 <strong>理研BRCの研究〜PCRの”正しい”使い方〜<br />（</strong>植物-微生物共生研究開発チームリーダー 市橋泰範）<br />17:10-17:20 <strong>BioClub〜市民バイオとは〜<br />（</strong>BioClub コミュニティマネージャー 細谷祥央）<br />17:20-17:30 <strong>自宅でオープンソース培養肉、市民科学団体「Shojinmeat Project」<br /></strong><strong> 〜細胞農業の社会コミュニケーションが生み出すもの〜<br /></strong><strong> （</strong>Shojinmeat Project 発起人 / インテグリカルチャー株式会社 代表取締役 羽生雄毅）<br />17:30~17:50 <strong>クロストーク：</strong><strong>バイオと社会の関係をどう構築し、市民とバイオが付き合っていくために必要なことは？<br /></strong>17:50~18:00 <strong>Q＆A, </strong><strong>クロージング<br /></strong>----------------------------------------------------<br />18:00~18:20 <strong>アフターセッション（10名限定）</strong><span></span></p>
+<p></p>
+									
+				
+									
+	
+				
+            </div><!-- .single-content -->
+
+            <div id="event-info">
+                <div class="single-content">
+	
+															
+																													
+							<div class="event-data row">
+								
+																																		
+															</div>
+										
+					
+										                    	<div id="gmap"></div>
+										
+					
+					
+																					                              <div class="btn"><span>終了</span></div>
+                        
+            
+										
+					
+                </div><!-- .single-content -->
+            </div><!-- #event-info -->
+			
+			
+			
+											
+																
+			<div class="single-head-pager-box type-white">
+				<div class="ct-inner ct-side-space txt-c">
+					<div class="single-pager-text-box">
+																			<div class="single-pager-box prev">
+								<div class="table-style">
+									<a href="http://bioclub.org/event/bio-decoration-workshop" class="table-cell va-mid">
+										<p class="single-pager-text">Prev</p>
+									</a>
+								</div>
+							</div>
+												
+						<div class="single-pager-date-box">
+							<div class="table-style">
+								<div class="table-cell va-mid">
+									<a href="http://bioclub.org/event/">
+																					一覧ページへ
+																			</a>
+								</div>
+							</div>
+						</div>
+					
+																			<div class="single-pager-box next">
+								<div class="table-style">
+									<a href="http://bioclub.org/event/バイオの力に触れてみよう-diy-bio-challenge" class="table-cell va-mid">
+										<p class="single-pager-text">Next</p>
+									</a>
+								</div>
+							</div>
+											</div>
+				</div>
+			</div>
+			
+										<aside>
+					<div class="ct-inner ct-side-space">
+													<h2 class="h2 ct-bd-ttl">新着記事</h2>
+												<ul class="article-list col3">
+															<li class="article">
+	<a href="http://bioclub.org/event/kat-alb" class="ct-block hv-op">
+	
+		<p class="ct-label-wrap">
+							<span class="ct-label text-small lg type va-top">events</span>
+						
+						
+															
+																		
+													  															  									
+			
+			
+						
+													
+		</p>
+		
+		
+	
+																	
+																											
+								
+						<div class="event-date">2023.12.13 (水) 04:00 – </div>
+				
+		
+		
+										
+		<h2 class="article-ttl">
+			 Ekaterina Kormilitsyna at Art Laboratory Berlin (online)
+		</h2>
+	</a>
+	
+						
+									<p class="ct-link-lead"><a href="http://bioclub.org/event/kat-alb" class="ct-block hv-op">From our friends from Art Laboratory Berlin:<br />
+Art Laboratory Berlin is delighted to invite you to take part in our Colloquium, a discursive format on research in art, science and humanities, curated by Regine Rapp. It takes place in tandem with our Reading Club, curated by Tuçe Erel.<br />
+The colloquium addresses an international interdisciplinary research audience to present and discuss past, present or future projects by artists and scholars, curators or editors from the fields of art, science and the humanities. The topics could refer to an art project, a book, text or chapter, a research or exhibition project, a lab experiment, a lecture series, a conference concept or other.</a></p>
+			</li>															<li class="article">
+	<a href="http://bioclub.org/event/spcs-4-sharing-session" class="ct-block hv-op">
+	
+		<p class="ct-label-wrap">
+							<span class="ct-label text-small lg type va-top">events</span>
+						
+						
+															
+																		
+													  															  									
+			
+			
+						
+													
+		</p>
+		
+		
+	
+																	
+																											
+								
+						<div class="event-date">2023.12.06 (水) 19:00 – </div>
+				
+		
+		
+										
+		<h2 class="article-ttl">
+			SPCS Season 4 | Living Dyes: 共有セッション
+		</h2>
+	</a>
+	
+																									<div class="tag-btn"><a href="http://bioclub.org/tags/イベント">#トークイベント</a></div>
+		
+							<div class="thumb">
+				<a href="http://bioclub.org/event/spcs-4-sharing-session" class="ct-block hv-op">
+					<span class="img-wrapper"><img src="http://bioclub.org/assets/images/SPCS4.jpg" alt="SPCS Season 4 | Living Dyes: 共有セッション"></span>
+					
+																<p class="ct-link-lead">2023年9月、さまざまなバックグラウンドを持つ23人の参加者がFabCafe Kyotoに集まり、DIYによるバクテリアの培養方法を学びました。色素を生成する菌株を植え付けたシャーレを持ち帰り、そのバクテリアでテキスタイルを染めるという6週間のチャレンジに挑みました。このグループ実験の結果は、京都と東京で開催される展覧会に展示されます。東京で開催される展示の最終日に、参加者のうちの4人がこのプロセスについての経験や感想を共有します。<br />
+<br />
+Living Dyes | The Exhibition showcases the process and results of the research and actual dyed works from a 1.5 month workshop on dyeing textiles with bacteria. How do everyday participants adopt this relatively new and undeveloped dyeing technique? Come witness it for yourself. Detailed explanations in a guided tour by the exhibition organiser are also available.</p>
+									</a>
+			</div>
+			</li>															<li class="article">
+	<a href="http://bioclub.org/event/antti-tenetz-getting-lost" class="ct-block hv-op">
+	
+		<p class="ct-label-wrap">
+							<span class="ct-label text-small lg type va-top">events</span>
+						
+						
+															
+																		
+													  															  									
+			
+			
+						
+													
+		</p>
+		
+		
+	
+																	
+																											
+								
+						<div class="event-date">2023.12.05 (火) 20:00 – </div>
+				
+		
+		
+										
+		<h2 class="article-ttl">
+			Artist Talk: Antti Tenetz - スペースの間に迷い込む
+		</h2>
+	</a>
+	
+																									<div class="tag-btn"><a href="http://bioclub.org/tags/イベント">#トークイベント</a></div>
+		
+							<div class="thumb">
+				<a href="http://bioclub.org/event/antti-tenetz-getting-lost" class="ct-block hv-op">
+					<span class="img-wrapper"><img src="http://bioclub.org/assets/images/Antti2.jpg" alt="Artist Talk: Antti Tenetz - スペースの間に迷い込む"></span>
+					
+																<p class="ct-link-lead">​What can other than human life, slime molds, local and AI machine systems based knowledge and cowandering teach us about survival and evolving as whole.<br />
+<br />
+人間の生命、粘菌、ローカルおよびAI機械システムに基づく知識、そして臆病さ以外に、生存と全体としての進化について何を教えてくれるのだろうか。</p>
+									</a>
+			</div>
+			</li>													</ul>
+					</div>
+					
+				</aside>
+			            <div id="single-wrapper-close"></div>
+
+        </article>
+
+		<div class="single-footer-wrap">
+	
+<nav id="tag-modal">
+    <div class="tag-modal-ttl">tags</div>
+    <ul>
+					<li><a href="http://bioclub.org/tags/weekly_meeting">#WeeklyMeeting<span>&nbsp;(29)</span></a></li>
+					<li><a href="http://bioclub.org/tags/ワークショップ">#ワークショップ<span>&nbsp;(32)</span></a></li>
+					<li><a href="http://bioclub.org/tags/イベント">#トークイベント<span>&nbsp;(33)</span></a></li>
+					<li><a href="http://bioclub.org/tags/ミートアップ">#ミートアップ<span>&nbsp;(7)</span></a></li>
+					<li><a href="http://bioclub.org/tags/news">#NEWS<span>&nbsp;(10)</span></a></li>
+					<li><a href="http://bioclub.org/tags/report">#REPORT<span>&nbsp;(11)</span></a></li>
+					<li><a href="http://bioclub.org/tags/biohack-academy">#BioHack Academy<span>&nbsp;(12)</span></a></li>
+					<li><a href="http://bioclub.org/tags/project">#PROJECT<span>&nbsp;(2)</span></a></li>
+		    </ul>
+</nav>
+<div id="tag-modal-close"></div>
+
+<footer id="site-footer">
+    <div class="copyright">&copy; 2024 Open BioClub</div>
+</footer>
+
+<script src="//ajax.googleapis.com/ajax/libs/jquery/1.11.2/jquery.min.js"></script>
+<script>window.jQuery || document.write('<script src="/common/css/js/vendor/jquery-1.11.2.min.js"><\/script>')</script>
+<script src="/common/js/vendor/jquery.easing.1.3.js"></script>
+<script src="/common/js/vendor/jquery.scrollbar.min.js"></script>
+<script src="/common/js/vendor/imagesloaded.pkgd.min.js"></script>
+<script src="/common/js/vendor/masonry.pkgd.min.js"></script>
+<script src="/common/js/vendor/jquery.touchSwipe.min.js"></script>
+<script src="/common/js/vendor/jquery.BlackAndWhite.js"></script>
+<script src="/common/js/vendor/slick.min.js"></script>
+<script src="/common/js/main.js?20180322"></script>
+<script src="/common/js/common.js"></script>
+	</div>
+	
+			<script id="gmap-script">
+			//google map
+			function initializeGmap() {
+				var lelStyle = [
+				  {
+					"featureType": "landscape",
+					"elementType": "geometry",
+					"stylers": [
+					{ "saturation": -100 },
+					{ "lightness": 63 }
+					]
+				  },{
+					"featureType": "road.local",
+					"stylers": [
+					{ "lightness": 50 }
+					]
+				  },{
+					"featureType": "road.local",
+					"elementType": "geometry.fill",
+					"stylers": [
+					{ "saturation": -100 },
+					{ "lightness": 100 }
+					]
+				  },{
+					"featureType": "road.highway",
+					"stylers": [
+					{ "hue": "#ffdd00" }
+					]
+				  },{
+					"featureType": "road.highway.controlled_access",
+					"stylers": [
+					{ "hue": "#e8340c" },
+					{ "lightness": 30 }
+					]
+				  },{
+					"featureType": "road",
+					"elementType": "geometry.stroke",
+					"stylers": [
+					{ "visibility": "off" }
+					]
+				  },{
+					"featureType": "administrative",
+					"elementType": "labels",
+					"stylers": [
+					{ "visibility": "off" }
+					]
+				  },{
+					"elementType": "labels.text.stroke",
+					"stylers": [
+					{ "visibility": "off" }
+					]
+				  },{
+					"elementType": "labels.text.fill",
+					"stylers": [
+					{ "gamma": 1.54 }
+					]
+				  },{
+					"featureType": "water",
+					"elementType": "labels",
+					"stylers": [
+					{ "visibility": "off" }
+					]
+				  },
+				  {
+					"featureType": "water",
+					"stylers": [
+					{ "lightness": 50 },
+					{ "hue": "#0088ff" }
+					]
+				  },
+					{
+						"featureType": "all",
+						"stylers": [
+							{ "saturation": -100 },
+							{"lightness": 10}
+						]
+					}
+				]
+				var mapDiv = document.getElementById("gmap");
+				var mapCanvas = new google.maps.Map(mapDiv, {
+					center:new google.maps.LatLng(0.00000000, 0.00000000),
+					zoom:15,
+					mapTypeId:google.maps.MapTypeId.ROADMAP,
+					styles: lelStyle,
+					scrollwheel: false
+				});
+				createMarker ({
+					position : new google.maps.LatLng(0.00000000, 0.00000000),
+					map : mapCanvas
+				});
+				function createMarker (opts) {
+					var marker = new google.maps.Marker(opts);
+					return marker;
+				}
+			}
+			initializeGmap();
+		</script>
+	</body>
+</html>

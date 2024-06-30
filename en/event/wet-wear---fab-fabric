@@ -1,0 +1,616 @@
+<!doctype html>
+	<html class="no-js" lang="ja">
+    <head prefix="og: http://ogp.me/ns# website: http://ogp.me/ns/website#">
+	<meta charset="utf-8">
+	<meta http-equiv="X-UA-Compatible" content="IE=edge">
+	<title>BioClub</title>
+	
+			<meta name="description" content="descriptionテスト入力">
+		
+			<meta property="og:description" content="">
+		
+		<meta property="og:title" content="WET / WEAR - FAB / FABRIC">
+		
+	<meta property="og:url" content="http://bioclub.org/en/event/wet-wear---fab-fabric">
+			
+		
+									<meta property="og:image" content="http://bioclub.org/common/images/_og_image/wwff.jpg">
+				
+	<meta property="og:type" content="website">
+	
+	<meta name="viewport" content="width=device-width">
+	<script src="/common/js/viewport.js"></script>
+	
+	<link rel="stylesheet" href="/common/css/normalize.min.css">
+	<link rel="stylesheet" href="/common/css/main.css?20170322">
+	<script src="/common/js/vendor/modernizr-2.8.3-respond-1.4.2.min.js"></script>
+	<script src="https://use.fontawesome.com/0dfbc630d2.js"></script>
+	<link rel="shortcut icon" href="/favicon.ico">
+	
+	<meta property="og:site_name" content="BioClub">
+	<meta property="article:publisher" content="https://www.facebook.com/bioclubshibuya/">
+	
+	<!-- google map api -->
+	<script type='text/javascript' charset='utf-8' src='//maps.googleapis.com/maps/api/js?&key=AIzaSyDgoNhhsnaOD8gnESPlY5xC1yr6y-R_3WI'></script>
+	
+	<!-- Global site tag (gtag.js) - Google Analytics -->
+	<script async src="https://www.googletagmanager.com/gtag/js?id=UA-121405163-1"></script>
+	<script>
+		window.dataLayer = window.dataLayer || [];
+		function gtag(){dataLayer.push(arguments);}
+		gtag('js', new Date());
+		
+		gtag('config', 'UA-121405163-1');
+	</script>
+<style>
+@media screen and (min-width: 641px) {
+  #single-wrapper .single-eyecatch {
+    height:580px;
+  }
+}</style>
+
+</head>
+
+<body class="single">
+		
+        <header id="site-header">
+            
+						<div class="header-logo-box img-style" id="logo">
+													<a href="/en" class="block">
+				         							<h1 class="logo-img-slider-wrap">
+						<a href="/" class=""><img alt="BioClub" src="/common/img/logo.gif"></a>
+					</h1>
+				 
+				
+															 </a>
+												</div>
+			
+            <nav class="subnav">
+                <ul>
+                    <li>
+						<a href="http://bioclub.org/en/event/">
+								
+								events
+													</a>
+					</li>
+                    <li>
+						<a href="http://bioclub.org/en/news/">
+								
+								news
+													</a>
+					</li>
+										
+                </ul>
+									<div class="lang">
+						<div class="en"><span>en</span></div>
+						<div class="ja"><a href="/" class="hv-op">ja</a></div>
+					</div>
+				            </nav>
+			<div id="tag-show">#</div>
+			<div class="open-global-nav-btn" id="open-global-nav-btn"><span class="bar bar01"></span><span class="bar bar02"></span><span class="bar bar03"></span></div>
+			
+        </header>
+		
+		
+		<div class="open-global-nav" id="open-global-nav">
+			<div class="nav-inner" id="nav-inner">
+				<div class="btn-close txt-c" id="open-global-nav-close"><span class="bar bar01"></span><span class="bar bar02"></span></div>
+				<div class="table-style">
+					<div class="table-cell nav-box">
+						<div class="link-inner">
+							
+															<ul class="global-nav-lang-link">
+									<li><span>en</span></li>
+									<li><a href="/" class="hv-op">ja</a></li>
+								</ul>
+														
+							<ul class="global-nav-link">
+								<li>
+									<a href="http://bioclub.org/en/event/" class="hv-op">
+											
+											events
+																			</a>
+								</li>
+								<li>
+									<a href="http://bioclub.org/en/news/" class="hv-op">
+											
+											news
+																			</a>
+								</li>
+																
+																	<li>
+										<a href="http://bioclub.org/en/archive/" class="hv-op">
+												
+												archive
+																					</a>
+									</li>
+															</ul>
+							
+							<ul class="global-nav-sub-link">
+																<li><a href="/contact/" class="hv-op"><i class="fa fa-envelope"></i></a></li>
+								<li><a href="https://github.com/BioClub" target="_blank" class="hv-op"><i class="fa fa-github"></i></a></li>
+								<li><a href="https://www.facebook.com/bioclubtokyo/" target="_blank" class="hv-op"><i class="fa fa-facebook"></i></a></li>
+							</ul>
+						</div>
+					</div>
+				</div>
+			</div>
+		</div>
+			
+        <article id="single-wrapper">
+																		<div class="single-eyecatch" style="background-image:url(http://bioclub.org/assets/images/wwff.jpg)"></div>
+				         				
+			
+											
+																
+			<div class="single-head-pager-box">
+				<div class="ct-inner ct-side-space txt-c">
+					<div class="single-pager-text-box">
+																			<div class="single-pager-box prev">
+								<div class="table-style">
+									<a href="http://bioclub.org/en/event/bugseatlisten" class="table-cell va-mid">
+										<p class="single-pager-text">Prev</p>
+									</a>
+								</div>
+							</div>
+												
+						
+																																														
+																																																																																										
+																									
+								
+														
+											
+						<div class="single-pager-date-box">
+							<div class="table-style">
+								<div class="table-cell va-mid">
+																			<p class="single-pager-date-text">Sun., September 30, 18:00 – </p>	
+																	</div>
+							</div>
+						</div>
+					
+																			<div class="single-pager-box next">
+								<div class="table-style">
+									<a href="http://bioclub.org/en/event/weekly-meeting-1" class="table-cell va-mid">
+										<p class="single-pager-text">Next</p>
+									</a>
+								</div>
+							</div>
+											</div>
+				</div>
+			</div>
+			
+			
+		    <header class="single-header">
+			
+								<div class="single-post-info-box">
+						<span class="ct-label lg va-top type">events</span>
+
+						
+									
+			
+							  										  <span class="ct-label lg va-top mgl0 status">End</span>
+									  			
+							
+
+
+
+
+				</div>
+				
+                <h1 class="ct-single-ttl h1">What are Semi-Biological Materials?⁠—The Innovation and Crisis that the Fusion of Biotechnology and Art⁠ will Bring About—Yosuke Takahashi (21st Century Museum of Contemporary Art, Kanazawa) + Kazuya Kawasaki</h1>
+				
+																	<div class="ct-tag-btn-list-wrap">
+													<div class="tag-btn"><a href="http://bioclub.org/en/tags/イベント">#イベント</a></div>
+											</div>
+								
+				
+								<div class="ct-date-box">
+				
+																													
+																																																																																
+																						
+							
+												
+						<dl class="table-style">
+							<dt class="table-cell va-top fw-b ct-date-ttl">Date</dt>
+							<dd class="table-cell va-top ct-date-box-text">
+								<div class="ct-date-box-text-inner">
+									<p>Sun., September 30, </p>
+								</div>
+							</dd>
+						</dl>
+										
+					
+																				
+				</div>
+            </header>
+			
+            <div class="single-content">
+			
+													<p>WET / WEAR - FAB / FABRIC: Discussion Session<br />First Session: "Life and Clothing" What are Semi-Biological Materials?<br />—The Innovation and Crisis that the Fusion of Biotechnology and Art⁠ will Bring About⁠.<br />—Yosuke Takahashi (Curator, 21st Century Museum of Contemporary Art, Kanazawa) + Kazuya Kawasaki</p>
+<p>WET / WEAR - FAB / FABRIC is a working group organized by BioClub director Chiaki Ishizuka and design researcher Kazuya Kawasaki. Its purpose is to consider the relationship between biotechnology and fashion, and to implement these ideas.</p>
+<p>With public awareness of issues concerning Earth's environment and resources growing in recent years, and with the developments in biotechnology and computer science, the fields of biotechnology and fashion design are rapidly converging. Developments include threads made from spiderweb proteins, leather made from a paste of fungal mycelium, and a dying process that utilizes colored bacteria.<br />—As we draw closer to a future where the materials we wear are cultivated in a lab instead of being assembled in a factory, we must ask ourselves, what value will bio-fashion design create for our fashion habits? And how will the perception of our bodies change?<br />In order to recast the complicated relationship between life and clothing, WET / WEAR - FAB / FABRIC offers two programs, Discussion and Practice, that will bring together a variety of artists, designers, researchers, and industry representatives to help implement the philosophy of, "think while you create."<br />For the first installment of the discussion event, we have invited Yosuke Takahashi, curator at 21st Century Museum of Contemporary Art, Kanazawa, who has worked with a number of exhibits related to BioArt, including Frankenstein of 2018—Viewing the Present State of Art, Science, and Society through BioArt; which is presently on display at EYE OF GYRE in Omotesando. We will open discussion with semi-biological materials, which Takahashi is an advocate of, and proceed to discuss the many ethical, societal, and environmental issues related to bio-material. While doing so we will try to find a new model for the world of fashion that will go beyond its current anthropocentric paradigm.</p>
+<p>Event Outline<br />Time: 9/30 (Sun), 6:00 PM-8:00 PM (Opens at 5:30)<br />Location: FabCafe MTRL (Dogenzaka Pia Building 2F, 1-22-7 Dogenzaka, Shibuya, Tokyo)<br />Participation Fee: ¥1,500</p>
+<p>Program:<br />5:30 PM - Doors Open<br />6:00-6:40 (40 min.) - Yosuke Takahashi Lecture<br />6:40-6:50 - 10 minute break<br />6:50-7:30 (40 min.) - Dialogue between Yosuke Takahashi and Kazuya Kawasaki<br />7:30-7:40 (10 min.) - Feedback/Work<br />7:40-8:00 (10 min.) - Audience Q&amp;A Session</p>
+<p>Official site for Frankenstein of 2018—Viewing the Present State of Art, Science, and Society through BioArt (https://gyre-omotesando.com/artandgallery/bioart/)</p>
+								
+				
+																																													
+							
+				
+																	                                                  <div class="btn"><span>End</span></div>
+                                        
+					          
+
+            													
+											
+													
+														
+																					
+																																 <div class="profile-block">
+																														<div class="profile-info">
+																							<div class="profile-header">
+													<div class="profile-name">Yosuke Takahashi</div>
+													
+																												
+												</div>
+																						
+																							<p class="profile-desc">Born in 1985. Assistant Curator at 21st Century Museum of Contemporary Art, Kanazawa. Completed Postgraduate Art Study at Tokyo University of the Arts. Took over present post in 2014 after spending time as an Associate Curator at Aomori Museum of Art.
+Major projects at 21st Century Museum of Contemporary Art, Kanazawa include DeathLAB: Make Death Democratic (2018-2019), The Undying Life (2017-2018), Ghost in the Cell (2015-2016). His latest project, Frankenstein of 2018—Viewing the Present State of Art, Science, and Society through BioArt; is currently being held at EYE OF GYRE in Omotesando.
+Notable lectures include The Renaissance of Transhuman-centric Philosophy  (The University of Tokyo, 2015). Notable discourses include The Various Problems Concerning Semi-Biological Material Usage in Bio-Fashion, published in vanitas 005 (Adachi Press, 2018). Assisted in editing the January 2018 BioArt Special issue of Bijutsu Techo. Fields of expertise are posthuman aesthetics and transhumanist art.</p>
+																					</div>
+									</div>
+
+																									
+											
+													
+														
+																					
+																																 <div class="profile-block">
+																														<div class="profile-info">
+																							<div class="profile-header">
+													<div class="profile-name">Kazuya Kawakami</div>
+													
+																												
+												</div>
+																						
+																							<p class="profile-desc">Born in 1991. Speculative Fashion Designer/Design Researcher. Seeks to implement fashion&#039;s futuristic direction and contemplative creativity, while relying on biotechnology, wearable technology, and digital fabrication. He also works at trying to establish an academic basis for fashion research as a design study. Nominated for the STARTS Prize 2017, received the Wired Creative Hack Award 2017 Special Award, and a YouFab Global Creative Award in 2017. His work was selected as one of the top 20 international designs in 2017 by Dutch Design Week and South Africa&#039;s Design Indaba. Selected as a Tech Skin Innovator by the Ars Electronica Tokyo Initiative. Keio University Graduate School of Media and Governance X Design Doctoral Program. Japan Society for the Promotion of Science Research Fellow (DC1).</p>
+																					</div>
+									</div>
+
+																									
+										
+	
+		
+								
+	
+	
+				
+            </div><!-- .single-content -->
+
+            <div id="event-info">
+                <div class="single-content">
+	
+															
+																											
+					
+										                    	<div id="gmap"></div>
+										
+					
+					
+																					                                                <div class="btn"><span>End</span></div>
+                                        
+            
+										
+					
+                </div><!-- .single-content -->
+            </div><!-- #event-info -->
+			
+			
+			
+											
+																
+			<div class="single-head-pager-box type-white">
+				<div class="ct-inner ct-side-space txt-c">
+					<div class="single-pager-text-box">
+																			<div class="single-pager-box prev">
+								<div class="table-style">
+									<a href="http://bioclub.org/en/event/bugseatlisten" class="table-cell va-mid">
+										<p class="single-pager-text">Prev</p>
+									</a>
+								</div>
+							</div>
+												
+						<div class="single-pager-date-box">
+							<div class="table-style">
+								<div class="table-cell va-mid">
+									<a href="http://bioclub.org/en/event/">
+																					To list page
+																			</a>
+								</div>
+							</div>
+						</div>
+					
+																			<div class="single-pager-box next">
+								<div class="table-style">
+									<a href="http://bioclub.org/en/event/weekly-meeting-1" class="table-cell va-mid">
+										<p class="single-pager-text">Next</p>
+									</a>
+								</div>
+							</div>
+											</div>
+				</div>
+			</div>
+			
+										<aside>
+					<div class="ct-inner ct-side-space">
+													<h2 class="h2 ct-bd-ttl">The Latest</h2>
+												<ul class="article-list col3">
+															<li class="article">
+	<a href="http://bioclub.org/en/event/kat-alb" class="ct-block hv-op">
+	
+		<p class="ct-label-wrap">
+							<span class="ct-label text-small lg type va-top">events</span>
+						
+						
+															
+																		
+													  															  									
+			
+			
+						
+													
+		</p>
+		
+		
+	
+																	
+								
+																							
+								
+				
+						<div class="event-date">Wed., December 13, 04:00 – </div>
+				
+		
+		
+										
+		<h2 class="article-ttl">
+			 Ekaterina Kormilitsyna at Art Laboratory Berlin (online)
+		</h2>
+	</a>
+	
+																									<div class="tag-btn"><a href="http://bioclub.org/en/tags/イベント">#イベント</a></div>
+		
+									<p class="ct-link-lead"><a href="http://bioclub.org/en/event/kat-alb" class="ct-block hv-op">From our friends from Art Laboratory Berlin:<br />
+Art Laboratory Berlin is delighted to invite you to take part in our Colloquium, a discursive format on research in art, science and humanities, curated by Regine Rapp. It takes place in tandem with our Reading Club, curated by Tuçe Erel.<br />
+The colloquium addresses an international interdisciplinary research audience to present and discuss past, present or future projects by artists and scholars, curators or editors from the fields of art, science and the humanities. The topics could refer to an art project, a book, text or chapter, a research or exhibition project, a lab experiment, a lecture series, a conference concept or other.</a></p>
+			</li>															<li class="article">
+	<a href="http://bioclub.org/en/event/spcs-4-sharing-session" class="ct-block hv-op">
+	
+		<p class="ct-label-wrap">
+							<span class="ct-label text-small lg type va-top">events</span>
+						
+						
+															
+																		
+													  															  									
+			
+			
+						
+													
+		</p>
+		
+		
+	
+																	
+								
+																							
+								
+				
+						<div class="event-date">Wed., December 06, 19:00 – </div>
+				
+		
+		
+										
+		<h2 class="article-ttl">
+			SPCS Season 4 | Living Dyes: Sharing Session
+		</h2>
+	</a>
+	
+																									<div class="tag-btn"><a href="http://bioclub.org/en/tags/イベント">#イベント</a></div>
+		
+							<div class="thumb">
+				<a href="http://bioclub.org/en/event/spcs-4-sharing-session" class="ct-block hv-op">
+					<span class="img-wrapper"><img src="http://bioclub.org/assets/images/SPCS4.jpg" alt="SPCS Season 4 | Living Dyes: Sharing Session"></span>
+					
+																<p class="ct-link-lead">2023年9月、さまざまなバックグラウンドを持つ23人の参加者がFabCafe Kyotoに集まり、DIYによるバクテリアの培養方法を学びました。色素を生成する菌株を植え付けたシャーレを持ち帰り、そのバクテリアでテキスタイルを染めるという6週間のチャレンジに挑みました。このグループ実験の結果は、京都と東京で開催される展覧会に展示されます。東京で開催される展示の最終日に、参加者のうちの4人がこのプロセスについての経験や感想を共有します。<br />
+<br />
+Living Dyes | The Exhibition showcases the process and results of the research and actual dyed works from a 1.5 month workshop on dyeing textiles with bacteria. How do everyday participants adopt this relatively new and undeveloped dyeing technique? Come witness it for yourself. Detailed explanations in a guided tour by the exhibition organiser are also available.</p>
+									</a>
+			</div>
+			</li>															<li class="article">
+	<a href="http://bioclub.org/en/event/antti-tenetz-getting-lost" class="ct-block hv-op">
+	
+		<p class="ct-label-wrap">
+							<span class="ct-label text-small lg type va-top">events</span>
+						
+						
+															
+																		
+													  															  									
+			
+			
+						
+													
+		</p>
+		
+		
+	
+																	
+								
+																							
+								
+				
+						<div class="event-date">Tue., December 05, 20:00 – </div>
+				
+		
+		
+										
+		<h2 class="article-ttl">
+			Artist Talk: Antti Tenetz - Getting lost between Spaces
+		</h2>
+	</a>
+	
+																									<div class="tag-btn"><a href="http://bioclub.org/en/tags/イベント">#イベント</a></div>
+		
+							<div class="thumb">
+				<a href="http://bioclub.org/en/event/antti-tenetz-getting-lost" class="ct-block hv-op">
+					<span class="img-wrapper"><img src="http://bioclub.org/assets/images/Antti2.jpg" alt="Artist Talk: Antti Tenetz - Getting lost between Spaces"></span>
+					
+																<p class="ct-link-lead">​What can other than human life, slime molds, local and AI machine systems based knowledge and cowandering teach us about survival and evolving as whole.<br />
+<br />
+人間の生命、粘菌、ローカルおよびAI機械システムに基づく知識、そして臆病さ以外に、生存と全体としての進化について何を教えてくれるのだろうか。</p>
+									</a>
+			</div>
+			</li>													</ul>
+					</div>
+					
+				</aside>
+			            <div id="single-wrapper-close"></div>
+
+        </article>
+
+		<div class="single-footer-wrap">
+	
+<nav id="tag-modal">
+    <div class="tag-modal-ttl">tags</div>
+    <ul>
+					<li><a href="http://bioclub.org/en/tags/weekly_meeting">#Weekly_Meeting<span>&nbsp;(29)</span></a></li>
+					<li><a href="http://bioclub.org/en/tags/ワークショップ">#ワークショップ<span>&nbsp;(30)</span></a></li>
+					<li><a href="http://bioclub.org/en/tags/イベント">#イベント<span>&nbsp;(33)</span></a></li>
+					<li><a href="http://bioclub.org/en/tags/ミートアップ">#ミートアップ<span>&nbsp;(7)</span></a></li>
+					<li><a href="http://bioclub.org/en/tags/news">#NEWS<span>&nbsp;(9)</span></a></li>
+					<li><a href="http://bioclub.org/en/tags/report">#REPORT<span>&nbsp;(10)</span></a></li>
+					<li><a href="http://bioclub.org/en/tags/biohack-academy">#BioHack Academy<span>&nbsp;(12)</span></a></li>
+					<li><a href="http://bioclub.org/en/tags/project">#PROJECT<span>&nbsp;(2)</span></a></li>
+		    </ul>
+</nav>
+<div id="tag-modal-close"></div>
+
+<footer id="site-footer">
+    <div class="copyright">&copy; 2024 Open BioClub</div>
+</footer>
+
+<script src="//ajax.googleapis.com/ajax/libs/jquery/1.11.2/jquery.min.js"></script>
+<script>window.jQuery || document.write('<script src="/common/css/js/vendor/jquery-1.11.2.min.js"><\/script>')</script>
+<script src="/common/js/vendor/jquery.easing.1.3.js"></script>
+<script src="/common/js/vendor/jquery.scrollbar.min.js"></script>
+<script src="/common/js/vendor/imagesloaded.pkgd.min.js"></script>
+<script src="/common/js/vendor/masonry.pkgd.min.js"></script>
+<script src="/common/js/vendor/jquery.touchSwipe.min.js"></script>
+<script src="/common/js/vendor/jquery.BlackAndWhite.js"></script>
+<script src="/common/js/vendor/slick.min.js"></script>
+<script src="/common/js/main.js?20180322"></script>
+<script src="/common/js/common.js"></script>
+	</div>
+	
+			<script id="gmap-script">
+			//google map
+			function initializeGmap() {
+				var lelStyle = [
+				  {
+					"featureType": "landscape",
+					"elementType": "geometry",
+					"stylers": [
+					{ "saturation": -100 },
+					{ "lightness": 63 }
+					]
+				  },{
+					"featureType": "road.local",
+					"stylers": [
+					{ "lightness": 50 }
+					]
+				  },{
+					"featureType": "road.local",
+					"elementType": "geometry.fill",
+					"stylers": [
+					{ "saturation": -100 },
+					{ "lightness": 100 }
+					]
+				  },{
+					"featureType": "road.highway",
+					"stylers": [
+					{ "hue": "#ffdd00" }
+					]
+				  },{
+					"featureType": "road.highway.controlled_access",
+					"stylers": [
+					{ "hue": "#e8340c" },
+					{ "lightness": 30 }
+					]
+				  },{
+					"featureType": "road",
+					"elementType": "geometry.stroke",
+					"stylers": [
+					{ "visibility": "off" }
+					]
+				  },{
+					"featureType": "administrative",
+					"elementType": "labels",
+					"stylers": [
+					{ "visibility": "off" }
+					]
+				  },{
+					"elementType": "labels.text.stroke",
+					"stylers": [
+					{ "visibility": "off" }
+					]
+				  },{
+					"elementType": "labels.text.fill",
+					"stylers": [
+					{ "gamma": 1.54 }
+					]
+				  },{
+					"featureType": "water",
+					"elementType": "labels",
+					"stylers": [
+					{ "visibility": "off" }
+					]
+				  },
+				  {
+					"featureType": "water",
+					"stylers": [
+					{ "lightness": 50 },
+					{ "hue": "#0088ff" }
+					]
+				  },
+					{
+						"featureType": "all",
+						"stylers": [
+							{ "saturation": -100 },
+							{"lightness": 10}
+						]
+					}
+				]
+				var mapDiv = document.getElementById("gmap");
+				var mapCanvas = new google.maps.Map(mapDiv, {
+					center:new google.maps.LatLng(35.65606300, 139.69549100),
+					zoom:15,
+					mapTypeId:google.maps.MapTypeId.ROADMAP,
+					styles: lelStyle,
+					scrollwheel: false
+				});
+				createMarker ({
+					position : new google.maps.LatLng(35.65606300, 139.69549100),
+					map : mapCanvas
+				});
+				function createMarker (opts) {
+					var marker = new google.maps.Marker(opts);
+					return marker;
+				}
+			}
+			initializeGmap();
+		</script>
+	</body>
+</html>

@@ -1,0 +1,649 @@
+<!doctype html>
+	<html class="no-js" lang="ja">
+    <head prefix="og: http://ogp.me/ns# website: http://ogp.me/ns/website#">
+	<meta charset="utf-8">
+	<meta http-equiv="X-UA-Compatible" content="IE=edge">
+	<title>2022 - BioClub</title>
+	
+			<meta name="description" content="descriptionテスト入力">
+		
+			<meta property="og:description" content="descriptionテスト入力">
+		
+		<meta property="og:title" content="2022 - BioClub">
+		
+	<meta property="og:url" content="http://bioclub.org/en/">
+			
+		
+									<meta property="og:image" content="http://bioclub.org/en/cpresources/transforms/1?x=0BrUgKEKD">
+				
+	<meta property="og:type" content="website">
+	
+	<meta name="viewport" content="width=device-width">
+	<script src="/common/js/viewport.js"></script>
+	
+	<link rel="stylesheet" href="/common/css/normalize.min.css">
+	<link rel="stylesheet" href="/common/css/main.css?20170322">
+	<script src="/common/js/vendor/modernizr-2.8.3-respond-1.4.2.min.js"></script>
+	<script src="https://use.fontawesome.com/0dfbc630d2.js"></script>
+	<link rel="shortcut icon" href="/favicon.ico">
+	
+	<meta property="og:site_name" content="BioClub">
+	<meta property="article:publisher" content="https://www.facebook.com/bioclubshibuya/">
+	
+	<!-- google map api -->
+	<script type='text/javascript' charset='utf-8' src='//maps.googleapis.com/maps/api/js?&key=AIzaSyDgoNhhsnaOD8gnESPlY5xC1yr6y-R_3WI'></script>
+	
+	<!-- Global site tag (gtag.js) - Google Analytics -->
+	<script async src="https://www.googletagmanager.com/gtag/js?id=UA-121405163-1"></script>
+	<script>
+		window.dataLayer = window.dataLayer || [];
+		function gtag(){dataLayer.push(arguments);}
+		gtag('js', new Date());
+		
+		gtag('config', 'UA-121405163-1');
+	</script>
+<style>
+@media screen and (min-width: 641px) {
+  #single-wrapper .single-eyecatch {
+    height:580px;
+  }
+}</style>
+
+</head>
+    <body class="archive">
+		
+        <header id="site-header">
+            
+						<div class="header-logo-box img-style" id="logo">
+													<a href="/en" class="block">
+				         							<h1 class="logo-img-slider-wrap">
+						<a href="/" class=""><img alt="BioClub" src="/common/img/logo.gif"></a>
+					</h1>
+				 
+				
+															 </a>
+												</div>
+			
+            <nav class="subnav">
+                <ul>
+                    <li>
+						<a href="http://bioclub.org/en/event/">
+								
+								events
+													</a>
+					</li>
+                    <li>
+						<a href="http://bioclub.org/en/news/">
+								
+								news
+													</a>
+					</li>
+										
+                </ul>
+									<div class="lang">
+						<div class="en"><span>en</span></div>
+						<div class="ja"><a href="/" class="hv-op">ja</a></div>
+					</div>
+				            </nav>
+			<div id="tag-show">#</div>
+			<div class="open-global-nav-btn" id="open-global-nav-btn"><span class="bar bar01"></span><span class="bar bar02"></span><span class="bar bar03"></span></div>
+			
+        </header>
+		
+		
+		<div class="open-global-nav" id="open-global-nav">
+			<div class="nav-inner" id="nav-inner">
+				<div class="btn-close txt-c" id="open-global-nav-close"><span class="bar bar01"></span><span class="bar bar02"></span></div>
+				<div class="table-style">
+					<div class="table-cell nav-box">
+						<div class="link-inner">
+							
+															<ul class="global-nav-lang-link">
+									<li><span>en</span></li>
+									<li><a href="/" class="hv-op">ja</a></li>
+								</ul>
+														
+							<ul class="global-nav-link">
+								<li>
+									<a href="http://bioclub.org/en/event/" class="hv-op">
+											
+											events
+																			</a>
+								</li>
+								<li>
+									<a href="http://bioclub.org/en/news/" class="hv-op">
+											
+											news
+																			</a>
+								</li>
+																
+																	<li>
+										<a href="http://bioclub.org/en/archive/" class="hv-op">
+												
+												archive
+																					</a>
+									</li>
+															</ul>
+							
+							<ul class="global-nav-sub-link">
+																<li><a href="/contact/" class="hv-op"><i class="fa fa-envelope"></i></a></li>
+								<li><a href="https://github.com/BioClub" target="_blank" class="hv-op"><i class="fa fa-github"></i></a></li>
+								<li><a href="https://www.facebook.com/bioclubtokyo/" target="_blank" class="hv-op"><i class="fa fa-facebook"></i></a></li>
+							</ul>
+						</div>
+					</div>
+				</div>
+			</div>
+		</div>
+		
+	
+
+        <article id="archive-wrapper">
+			
+			
+			<h1 class="archive-ttl">2022</h1>
+	
+	
+										
+																										
+									
+	
+			
+            <ul class="article-list article-list-tile">
+									 <li class="article">
+					 
+					 																		 						 
+																		
+																																			
+																
+																	
+																		
+																																																
+																		
+									
+																
+																
+													
+						
+												
+						
+																															<div class="date">events&nbsp;&nbsp;|&nbsp;&nbsp;Tue., December 20, 19:00 – </div>
+						<h2 class="article-ttl"><a href="http://bioclub.org/en/event/bonenkai-biohack-info-event">Bonenkai &amp; BioHack Info Event</a></h2>
+																											<div class="thumb"><a href="http://bioclub.org/en/event/bonenkai-biohack-info-event"><span class="img-wrapper"><img src="http://bioclub.org/assets/images/12.17-Bonenkai.png" alt="Bonenkai &amp; BioHack Info Event"></span></a></div>
+																		</li>
+									 <li class="article">
+					 
+					 																		 						 
+																		
+																																			
+																
+																	
+																		
+																																																
+																		
+									
+																
+																
+													
+						
+												
+						
+																															<div class="date">events&nbsp;&nbsp;|&nbsp;&nbsp;Tue., October 18, 18:00 – </div>
+						<h2 class="article-ttl"><a href="http://bioclub.org/en/event/urban-olfaction-workshop">Urban Olfaction Workshop: Scent Mapping with Aaro Murphy</a></h2>
+																											<div class="thumb"><a href="http://bioclub.org/en/event/urban-olfaction-workshop"><span class="img-wrapper"><img src="http://bioclub.org/assets/images/aaro_murphy.jpeg" alt="Urban Olfaction Workshop: Scent Mapping with Aaro Murphy"></span></a></div>
+																		</li>
+									 <li class="article">
+					 
+					 																		 						 
+																		
+																																			
+																
+																	
+																		
+																																																
+																		
+									
+																
+																
+													
+						
+												
+						
+																															<div class="date">events&nbsp;&nbsp;|&nbsp;&nbsp;Sun., October 16, 14:00 – </div>
+						<h2 class="article-ttl"><a href="http://bioclub.org/en/event/食肉の未来を切り開く-魔女と科学者の培養肉">食肉の未来を切り開く、魔女と科学者の培養肉</a></h2>
+																											<div class="thumb"><a href="http://bioclub.org/en/event/食肉の未来を切り開く-魔女と科学者の培養肉"><span class="img-wrapper"><img src="http://bioclub.org/assets/images/cover-S0TQ4cwuEI6ZRN4tZfFIZsr3hqrhfXRK.jpeg" alt="食肉の未来を切り開く、魔女と科学者の培養肉"></span></a></div>
+																		</li>
+									 <li class="article">
+					 
+					 																		 						 
+																		
+																																			
+																
+																	
+																		
+																																																
+																		
+									
+																
+																
+													
+						
+												
+						
+																															<div class="date">events&nbsp;&nbsp;|&nbsp;&nbsp;Tue., October 11, 19:30 – </div>
+						<h2 class="article-ttl"><a href="http://bioclub.org/en/event/bioclub-weekly-welcome-to-finnish-artist-in-resident-aaro-murphy">BioClub Weekly: Welcome to Finnish Artist-in-Resident - Aaro Murphy</a></h2>
+																											<div class="thumb"><a href="http://bioclub.org/en/event/bioclub-weekly-welcome-to-finnish-artist-in-resident-aaro-murphy"><span class="img-wrapper"><img src="http://bioclub.org/assets/images/aaro_murphy.jpeg" alt="BioClub Weekly: Welcome to Finnish Artist-in-Resident - Aaro Murphy"></span></a></div>
+																		</li>
+									 <li class="article">
+					 
+					 																		 						 
+																		
+																																		
+						
+												
+						
+																															<div class="date">events&nbsp;&nbsp;|&nbsp;&nbsp;2022.09.05</div>
+						<h2 class="article-ttl"><a href="http://bioclub.org/en/event/bioclub-weekly-meeting">BioClub Weekly Meeting, Every Tuesday at 19:00</a></h2>
+																											<div class="thumb"><a href="http://bioclub.org/en/event/bioclub-weekly-meeting"><span class="img-wrapper"><img src="http://bioclub.org/assets/images/BioClub_Lab_Orange_Curtain_220905_123927.jpg" alt="BioClub Weekly Meeting, Every Tuesday at 19:00"></span></a></div>
+																		</li>
+									 <li class="article">
+					 
+					 																		 						 
+																		
+																																		
+						
+												
+						
+																															<div class="date">events&nbsp;&nbsp;|&nbsp;&nbsp;2022.08.30</div>
+						<h2 class="article-ttl"><a href="http://bioclub.org/en/event/misomics-weekly-meeting">BioClub Misomics - Weekly Meeting</a></h2>
+																											<div class="thumb"><a href="http://bioclub.org/en/event/misomics-weekly-meeting"><span class="img-wrapper"><img src="http://bioclub.org/assets/images/miso_ws_1920.jpg" alt="BioClub Misomics - Weekly Meeting"></span></a></div>
+																		</li>
+									 <li class="article">
+					 
+					 																		 						 
+																		
+																																		
+						
+												
+						
+																															<div class="date">events&nbsp;&nbsp;|&nbsp;&nbsp;2022.08.17</div>
+						<h2 class="article-ttl"><a href="http://bioclub.org/en/event/foldscope-workshop">BioMatsuri 2022: Let&#039;s make a Foldscope™ - The Paper Microscope!</a></h2>
+																											<div class="thumb"><a href="http://bioclub.org/en/event/foldscope-workshop"><span class="img-wrapper"><img src="http://bioclub.org/assets/images/foldscope_event2.jpg" alt="BioMatsuri 2022: Let&#039;s make a Foldscope™ - The Paper Microscope!"></span></a></div>
+																		</li>
+									 <li class="article">
+					 
+					 																		 						 
+																		
+																																		
+						
+												
+						
+																															<div class="date">events&nbsp;&nbsp;|&nbsp;&nbsp;2022.08.17</div>
+						<h2 class="article-ttl"><a href="http://bioclub.org/en/event/spcs-スピーシーズ-season1-what-is-life-with-ゲオアグ-トレメル-fabcafe-kyoto">SPCS：スピーシーズ Season1　「WHAT IS LIFE??」with ゲオアグ・トレメル - FabCafe Kyoto</a></h2>
+																											<div class="thumb"><a href="http://bioclub.org/en/event/spcs-スピーシーズ-season1-what-is-life-with-ゲオアグ-トレメル-fabcafe-kyoto"><span class="img-wrapper"><img src="http://bioclub.org/assets/images/SPCS_img-19201100-B.jpg" alt="SPCS：スピーシーズ Season1　「WHAT IS LIFE??」with ゲオアグ・トレメル - FabCafe Kyoto"></span></a></div>
+																		</li>
+									 <li class="article">
+					 
+					 																		 						 
+																		
+																																		
+						
+												
+						
+																															<div class="date">events&nbsp;&nbsp;|&nbsp;&nbsp;2022.08.17</div>
+						<h2 class="article-ttl"><a href="http://bioclub.org/en/event/spcs-species-workshop-series-at-fabcafe-kyoto">SPCS (&quot;Species&quot;) Workshop Series at FabCafe Kyoto</a></h2>
+																											<div class="thumb"><a href="http://bioclub.org/en/event/spcs-species-workshop-series-at-fabcafe-kyoto"><span class="img-wrapper"><img src="http://bioclub.org/assets/images/SPCS_img-19201100-B.jpg" alt="SPCS (&quot;Species&quot;) Workshop Series at FabCafe Kyoto"></span></a></div>
+																		</li>
+									 <li class="article">
+					 
+					 																		 						 
+																		
+																																			
+																
+																	
+																		
+																																																
+																		
+									
+																
+																
+													
+						
+												
+						
+																															<div class="date">events&nbsp;&nbsp;|&nbsp;&nbsp;Tue., August 16, 19:30 – </div>
+						<h2 class="article-ttl"><a href="http://bioclub.org/en/event/misomics-study-meeting">Misomics - Miso x Genomics - Study Meeting</a></h2>
+																											<div class="thumb"><a href="http://bioclub.org/en/event/misomics-study-meeting"><span class="img-wrapper"><img src="http://bioclub.org/assets/images/misomics.JPG" alt="Misomics - Miso x Genomics - Study Meeting"></span></a></div>
+																		</li>
+									 <li class="article">
+					 
+					 																		 						 
+																		
+																																			
+																
+																	
+																		
+																																																
+																		
+									
+																
+																
+													
+						
+												
+						
+																															<div class="date">events&nbsp;&nbsp;|&nbsp;&nbsp;Tue., August 02, 19:30 – </div>
+						<h2 class="article-ttl"><a href="http://bioclub.org/en/event/alien-aliveness">BioClub x metaPhorest: Nathan Thompson - Exhibiting Alien Aliveness</a></h2>
+																											<div class="thumb"><a href="http://bioclub.org/en/event/alien-aliveness"><span class="img-wrapper"><img src="http://bioclub.org/assets/images/nathan.png" alt="BioClub x metaPhorest: Nathan Thompson - Exhibiting Alien Aliveness"></span></a></div>
+																		</li>
+									 <li class="article">
+					 
+					 																		 						 
+																		
+																																			
+																
+																	
+																		
+																																																
+																		
+									
+																
+																
+													
+						
+												
+						
+																															<div class="date">events&nbsp;&nbsp;|&nbsp;&nbsp;Tue., July 05, 19:00 – </div>
+						<h2 class="article-ttl"><a href="http://bioclub.org/en/event/human-microbe-mutual-care">BioClub Talk: Dominique Chen - Design Research of Human-Microbe Mutual Care</a></h2>
+																											<div class="thumb"><a href="http://bioclub.org/en/event/human-microbe-mutual-care"><span class="img-wrapper"><img src="http://bioclub.org/assets/images/Screen-Shot-2022-06-16-at-13.10.54.jpg" alt="BioClub Talk: Dominique Chen - Design Research of Human-Microbe Mutual Care"></span></a></div>
+																		</li>
+									 <li class="article">
+					 
+					 																		 						 
+																		
+																																			
+																
+																	
+																		
+																																																
+																		
+									
+																
+																
+													
+						
+												
+						
+																															<div class="date">events&nbsp;&nbsp;|&nbsp;&nbsp;Sun., June 19, 14:00 – </div>
+						<h2 class="article-ttl"><a href="http://bioclub.org/en/event/misomics-味噌を科学するワークショップ">Misomics - 味噌を科学するワークショップ</a></h2>
+																											<div class="thumb"><a href="http://bioclub.org/en/event/misomics-味噌を科学するワークショップ"><span class="img-wrapper"><img src="http://bioclub.org/assets/images/miso_ws_1920.jpg" alt="Misomics - 味噌を科学するワークショップ"></span></a></div>
+																		</li>
+									 <li class="article">
+					 
+					 																		 						 
+																		
+																																			
+																
+																	
+																		
+																																																
+																		
+									
+																
+																
+													
+						
+												
+						
+																															<div class="date">events&nbsp;&nbsp;|&nbsp;&nbsp;Thu., June 02, 20:00 – </div>
+						<h2 class="article-ttl"><a href="http://bioclub.org/en/event/pcr-night">PCR Night</a></h2>
+																											<div class="thumb"><a href="http://bioclub.org/en/event/pcr-night"><span class="img-wrapper"><img src="http://bioclub.org/assets/images/pcr2.JPG" alt="PCR Night"></span></a></div>
+																		</li>
+									 <li class="article">
+					 
+					 																		 						 
+																		
+																																			
+																
+																	
+																		
+																																																
+																		
+									
+																
+																
+													
+						
+												
+						
+																															<div class="date">events&nbsp;&nbsp;|&nbsp;&nbsp;Sat., June 04, 17:00 – </div>
+						<h2 class="article-ttl"><a href="http://bioclub.org/en/event/bha-2022-exhibition">BioHack Academy 2022: Talks and Exhibition</a></h2>
+																											<div class="thumb"><a href="http://bioclub.org/en/event/bha-2022-exhibition"><span class="img-wrapper"><img src="http://bioclub.org/assets/images/BHA_Event_Image.JPG" alt="BioHack Academy 2022: Talks and Exhibition"></span></a></div>
+																		</li>
+									 <li class="article">
+					 
+					 																		 						 
+																		
+																																			
+																
+																	
+																		
+																																																
+																		
+									
+																
+																
+													
+						
+												
+						
+																															<div class="date">events&nbsp;&nbsp;|&nbsp;&nbsp;Tue., May 31, 19:00 – </div>
+						<h2 class="article-ttl"><a href="http://bioclub.org/en/event/speculative-cooking">BioClub Workshop: Speculative Cooking with Maya Minder</a></h2>
+																											<div class="thumb"><a href="http://bioclub.org/en/event/speculative-cooking"><span class="img-wrapper"><img src="http://bioclub.org/assets/images/maya2.jpg" alt="BioClub Workshop: Speculative Cooking with Maya Minder"></span></a></div>
+																		</li>
+									 <li class="article">
+					 
+					 																		 						 
+																		
+																																			
+																
+																	
+																		
+																																																
+																		
+									
+																
+																
+													
+						
+												
+						
+																															<div class="date">events&nbsp;&nbsp;|&nbsp;&nbsp;Tue., May 31, 18:00 – </div>
+						<h2 class="article-ttl"><a href="http://bioclub.org/en/event/homo-photosyntheticus">BioClub Talk: Homo Photosyntheticus: Art meets Marine biology - Ewen Chardronnet and Maya Minder</a></h2>
+																											<div class="thumb"><a href="http://bioclub.org/en/event/homo-photosyntheticus"><span class="img-wrapper"><img src="http://bioclub.org/assets/images/maya1.jpg" alt="BioClub Talk: Homo Photosyntheticus: Art meets Marine biology - Ewen Chardronnet and Maya Minder"></span></a></div>
+																		</li>
+									 <li class="article">
+					 
+					 																		 						 
+																		
+																																			
+																
+																	
+																		
+																																																																																											
+																												
+									
+																
+																
+													
+						
+												
+						
+																															<div class="date">events&nbsp;&nbsp;|&nbsp;&nbsp;Tue., April 26, 19:00 – </div>
+						<h2 class="article-ttl"><a href="http://bioclub.org/en/event/shiho-hasegawa-microbial-graphics">POSTPONED - BioClub Lecture: Shiho Hasegawa - Microbial Graphics: How we can see and read them?</a></h2>
+																											<div class="thumb"><a href="http://bioclub.org/en/event/shiho-hasegawa-microbial-graphics"><span class="img-wrapper"><img src="http://bioclub.org/assets/images/MG-17.jpg" alt="POSTPONED - BioClub Lecture: Shiho Hasegawa - Microbial Graphics: How we can see and read them?"></span></a></div>
+																		</li>
+									 <li class="article">
+					 
+					 																		 						 
+																		
+																																			
+																
+																	
+																		
+																																																
+																		
+									
+																
+																
+													
+						
+												
+						
+																															<div class="date">events&nbsp;&nbsp;|&nbsp;&nbsp;Thu., March 31, 19:00 – </div>
+						<h2 class="article-ttl"><a href="http://bioclub.org/en/event/mayumi-sakai-dna-music">BioClub Lecture: Mayumi Sakai - DNA Music &amp; Yeast</a></h2>
+																											<div class="thumb"><a href="http://bioclub.org/en/event/mayumi-sakai-dna-music"><span class="img-wrapper"><img src="http://bioclub.org/assets/images/Screen-Shot-2022-03-26-at-22.52.10.jpg" alt="BioClub Lecture: Mayumi Sakai - DNA Music &amp; Yeast"></span></a></div>
+																		</li>
+									 <li class="article">
+					 
+					 																		 						 
+																		
+																																			
+																
+																	
+																		
+																																																
+																		
+									
+																
+																
+													
+						
+												
+						
+																															<div class="date">events&nbsp;&nbsp;|&nbsp;&nbsp;Tue., March 29, 19:00 – </div>
+						<h2 class="article-ttl"><a href="http://bioclub.org/en/event/masuda-jo-who-is-the-biohacker">BioClub Lecture: Nobuhiro Masuda &amp; Kazuhiro Jo - Who is the biohacker? Its Historical position</a></h2>
+																											<div class="thumb"><a href="http://bioclub.org/en/event/masuda-jo-who-is-the-biohacker"><span class="img-wrapper"><img src="http://bioclub.org/assets/images/fFnMkljw.png" alt="BioClub Lecture: Nobuhiro Masuda &amp; Kazuhiro Jo - Who is the biohacker? Its Historical position"></span></a></div>
+																		</li>
+									 <li class="article">
+					 
+					 																		 						 
+																		
+																																			
+																
+																	
+																		
+																																																
+																		
+									
+																
+																
+													
+						
+												
+						
+																															<div class="date">events&nbsp;&nbsp;|&nbsp;&nbsp;Tue., March 22, 19:00 – </div>
+						<h2 class="article-ttl"><a href="http://bioclub.org/en/event/tsuda-ito-ycam">BioClub Lecture: Kazutoshi Tsuda &amp; Takayuki Ito - Personal Biotechnology &amp; YCAM Bio Research</a></h2>
+																											<div class="thumb"><a href="http://bioclub.org/en/event/tsuda-ito-ycam"><span class="img-wrapper"><img src="http://bioclub.org/assets/images/YCAM-Bio-Visit.jpg" alt="BioClub Lecture: Kazutoshi Tsuda &amp; Takayuki Ito - Personal Biotechnology &amp; YCAM Bio Research"></span></a></div>
+																		</li>
+									 <li class="article">
+					 
+					 																		 						 
+																		
+																																			
+																
+																	
+																		
+																																																
+																		
+									
+																
+																
+													
+						
+												
+						
+																															<div class="date">events&nbsp;&nbsp;|&nbsp;&nbsp;Tue., March 15, 19:00 – </div>
+						<h2 class="article-ttl"><a href="http://bioclub.org/en/event/bioclub-lecture-hideo-iwasaki-bioaesthetics-klein-bottle-for-scientific-and-artistic-pursue">BioClub Lecture: Hideo Iwasaki - Bioaesthetics: Klein bottle for scientific and artistic pursue</a></h2>
+																											<div class="thumb"><a href="http://bioclub.org/en/event/bioclub-lecture-hideo-iwasaki-bioaesthetics-klein-bottle-for-scientific-and-artistic-pursue"><span class="img-wrapper"><img src="http://bioclub.org/assets/images/Screen-Shot-2022-03-11-at-0.28.20.jpg" alt="BioClub Lecture: Hideo Iwasaki - Bioaesthetics: Klein bottle for scientific and artistic pursue"></span></a></div>
+																		</li>
+									 <li class="article">
+					 
+					 																		 						 
+																		
+																																			
+																
+																	
+																		
+																																																																																											
+																												
+									
+																
+																
+													
+						
+												
+						
+																															<div class="date">events&nbsp;&nbsp;|&nbsp;&nbsp;Tue., February 22, 15:00 – </div>
+						<h2 class="article-ttl"><a href="http://bioclub.org/en/event/open-lab-lets-pcr">Open Lab - Let&#039;s PCR!</a></h2>
+																											<div class="thumb"><a href="http://bioclub.org/en/event/open-lab-lets-pcr"><span class="img-wrapper"><img src="http://bioclub.org/assets/images/IMG_8655-2.JPG" alt="Open Lab - Let&#039;s PCR!"></span></a></div>
+																		</li>
+									 <li class="article">
+					 
+					 																		 						 
+																		
+																																			
+																
+																	
+																		
+																																																
+																		
+									
+																
+																
+													
+						
+												
+						
+																															<div class="date">events&nbsp;&nbsp;|&nbsp;&nbsp;Tue., February 01, 19:00 – </div>
+						<h2 class="article-ttl"><a href="http://bioclub.org/en/event/biohack-academy-2022-info-event">BioHack Academy 2022 - Info Event</a></h2>
+																											<div class="thumb"><a href="http://bioclub.org/en/event/biohack-academy-2022-info-event"><span class="img-wrapper"><img src="http://bioclub.org/assets/images/bha_session.jpg" alt="BioHack Academy 2022 - Info Event"></span></a></div>
+																		</li>
+				            </ul>
+        </article>
+		
+	
+		
+<nav id="tag-modal">
+    <div class="tag-modal-ttl">tags</div>
+    <ul>
+					<li><a href="http://bioclub.org/en/tags/weekly_meeting">#Weekly_Meeting<span>&nbsp;(29)</span></a></li>
+					<li><a href="http://bioclub.org/en/tags/ワークショップ">#ワークショップ<span>&nbsp;(30)</span></a></li>
+					<li><a href="http://bioclub.org/en/tags/イベント">#イベント<span>&nbsp;(33)</span></a></li>
+					<li><a href="http://bioclub.org/en/tags/ミートアップ">#ミートアップ<span>&nbsp;(7)</span></a></li>
+					<li><a href="http://bioclub.org/en/tags/news">#NEWS<span>&nbsp;(9)</span></a></li>
+					<li><a href="http://bioclub.org/en/tags/report">#REPORT<span>&nbsp;(10)</span></a></li>
+					<li><a href="http://bioclub.org/en/tags/biohack-academy">#BioHack Academy<span>&nbsp;(12)</span></a></li>
+					<li><a href="http://bioclub.org/en/tags/project">#PROJECT<span>&nbsp;(2)</span></a></li>
+		    </ul>
+</nav>
+<div id="tag-modal-close"></div>
+
+<footer id="site-footer">
+    <div class="copyright">&copy; 2024 Open BioClub</div>
+</footer>
+
+<script src="//ajax.googleapis.com/ajax/libs/jquery/1.11.2/jquery.min.js"></script>
+<script>window.jQuery || document.write('<script src="/common/css/js/vendor/jquery-1.11.2.min.js"><\/script>')</script>
+<script src="/common/js/vendor/jquery.easing.1.3.js"></script>
+<script src="/common/js/vendor/jquery.scrollbar.min.js"></script>
+<script src="/common/js/vendor/imagesloaded.pkgd.min.js"></script>
+<script src="/common/js/vendor/masonry.pkgd.min.js"></script>
+<script src="/common/js/vendor/jquery.touchSwipe.min.js"></script>
+<script src="/common/js/vendor/jquery.BlackAndWhite.js"></script>
+<script src="/common/js/vendor/slick.min.js"></script>
+<script src="/common/js/main.js?20180322"></script>
+<script src="/common/js/common.js"></script>
+	
+    </body>
+</html>

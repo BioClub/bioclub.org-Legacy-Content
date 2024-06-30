@@ -1,0 +1,605 @@
+<!doctype html>
+	<html class="no-js" lang="ja">
+    <head prefix="og: http://ogp.me/ns# website: http://ogp.me/ns/website#">
+	<meta charset="utf-8">
+	<meta http-equiv="X-UA-Compatible" content="IE=edge">
+	<title>BioClub</title>
+	
+			<meta name="description" content="bioclub">
+		
+			<meta property="og:description" content="">
+		
+		<meta property="og:title" content="">
+		
+	<meta property="og:url" content="http://bioclub.org/event/ancient-diy-bio">
+			
+		
+					
+	<meta property="og:type" content="website">
+	
+	<meta name="viewport" content="width=device-width">
+	<script src="/common/js/viewport.js"></script>
+	
+	<link rel="stylesheet" href="/common/css/normalize.min.css">
+	<link rel="stylesheet" href="/common/css/main.css?20170322">
+	<script src="/common/js/vendor/modernizr-2.8.3-respond-1.4.2.min.js"></script>
+	<script src="https://use.fontawesome.com/0dfbc630d2.js"></script>
+	<link rel="shortcut icon" href="/favicon.ico">
+	
+	<meta property="og:site_name" content="BioClub">
+	<meta property="article:publisher" content="https://www.facebook.com/bioclubshibuya/">
+	
+	<!-- google map api -->
+	<script type='text/javascript' charset='utf-8' src='//maps.googleapis.com/maps/api/js?&key=AIzaSyDgoNhhsnaOD8gnESPlY5xC1yr6y-R_3WI'></script>
+	
+	<!-- Global site tag (gtag.js) - Google Analytics -->
+	<script async src="https://www.googletagmanager.com/gtag/js?id=UA-121405163-1"></script>
+	<script>
+		window.dataLayer = window.dataLayer || [];
+		function gtag(){dataLayer.push(arguments);}
+		gtag('js', new Date());
+		
+		gtag('config', 'UA-121405163-1');
+	</script>
+<style>
+@media screen and (min-width: 641px) {
+  #single-wrapper .single-eyecatch {
+    height:580px;
+  }
+}</style>
+
+</head>
+
+<body class="single">
+		
+        <header id="site-header">
+            
+						<div class="header-logo-box img-style" id="logo">
+													<a href="/" class="block">
+				         							<h1 class="logo-img-slider-wrap">
+						<a href="/" class=""><img alt="BioClub" src="/common/img/logo.gif"></a>
+					</h1>
+				 
+				
+															 </a>
+												</div>
+			
+            <nav class="subnav">
+                <ul>
+                    <li>
+						<a href="http://bioclub.org/event/">
+								
+								events
+													</a>
+					</li>
+                    <li>
+						<a href="http://bioclub.org/news/">
+								
+								news
+													</a>
+					</li>
+											<li>
+							<a href="http://bioclub.org/project/">
+																	report
+															</a>
+						</li>
+										
+                </ul>
+									<div class="lang">
+						<div class="en"><a href="http://bioclub.org/en/" class="hv-op">en</a></div>
+						<div class="ja"><span>ja</span></div>
+					</div>
+				            </nav>
+			<div id="tag-show">#</div>
+			<div class="open-global-nav-btn" id="open-global-nav-btn"><span class="bar bar01"></span><span class="bar bar02"></span><span class="bar bar03"></span></div>
+			
+        </header>
+		
+		
+		<div class="open-global-nav" id="open-global-nav">
+			<div class="nav-inner" id="nav-inner">
+				<div class="btn-close txt-c" id="open-global-nav-close"><span class="bar bar01"></span><span class="bar bar02"></span></div>
+				<div class="table-style">
+					<div class="table-cell nav-box">
+						<div class="link-inner">
+							
+															<ul class="global-nav-lang-link">
+									<li><a href="http://bioclub.org/en/" class="hv-op">en</a></li>
+									<li><span>ja</span></li>
+								</ul>
+														
+							<ul class="global-nav-link">
+								<li>
+									<a href="http://bioclub.org/event/" class="hv-op">
+											
+											events
+																			</a>
+								</li>
+								<li>
+									<a href="http://bioclub.org/news/" class="hv-op">
+											
+											news
+																			</a>
+								</li>
+																											<li>
+											<a href="http://bioclub.org/project/" class="hv-op">
+																									report
+																							</a>
+										</li>
+																									
+															</ul>
+							
+							<ul class="global-nav-sub-link">
+																	<li><a class="hv-op" href="http://bioclub.org/about/">about</a></li>
+																<li><a href="/contact/" class="hv-op"><i class="fa fa-envelope"></i></a></li>
+								<li><a href="https://github.com/BioClub" target="_blank" class="hv-op"><i class="fa fa-github"></i></a></li>
+								<li><a href="https://www.facebook.com/bioclubtokyo/" target="_blank" class="hv-op"><i class="fa fa-facebook"></i></a></li>
+							</ul>
+						</div>
+					</div>
+				</div>
+			</div>
+		</div>
+			
+        <article id="single-wrapper">
+																		<div class="single-eyecatch" style="background-image:url(http://bioclub.org/assets/images/21586811_882372868605099_1606974060824971679_o_180111_002503_1.jpg)"></div>
+				         				
+			
+											
+																
+			<div class="single-head-pager-box">
+				<div class="ct-inner ct-side-space txt-c">
+					<div class="single-pager-text-box">
+																			<div class="single-pager-box prev">
+								<div class="table-style">
+									<a href="http://bioclub.org/event/checking-chicken-cells" class="table-cell va-mid">
+										<p class="single-pager-text">Prev</p>
+									</a>
+								</div>
+							</div>
+												
+						
+																																														
+																																																																																										
+																									
+														
+											
+						<div class="single-pager-date-box">
+							<div class="table-style">
+								<div class="table-cell va-mid">
+																			<p class="single-pager-date-text">2017.10.12 (木) 19:00 – </p>	
+																	</div>
+							</div>
+						</div>
+					
+																			<div class="single-pager-box next">
+								<div class="table-style">
+									<a href="http://bioclub.org/event/lab-inventory-next-steps" class="table-cell va-mid">
+										<p class="single-pager-text">Next</p>
+									</a>
+								</div>
+							</div>
+											</div>
+				</div>
+			</div>
+			
+			
+		    <header class="single-header">
+			
+								<div class="single-post-info-box">
+						<span class="ct-label lg va-top type">events</span>
+
+						
+									
+			
+							  										<span class="ct-label lg va-top mgl0 status">終了</span>
+									  			
+							
+
+
+
+
+				</div>
+				
+                <h1 class="ct-single-ttl h1">古代のDIYバイオ：アーユルヴェーダワークショップ ~ インド医療の生命観と物質観を学ぶ ~</h1>
+				
+																	<div class="ct-tag-btn-list-wrap">
+													<div class="tag-btn"><a href="http://bioclub.org/tags/ワークショップ">#ワークショップ</a></div>
+											</div>
+								
+				
+								<div class="ct-date-box">
+				
+																													
+																																																																																
+																						
+												
+						<dl class="table-style">
+							<dt class="table-cell va-top fw-b ct-date-ttl">Date</dt>
+							<dd class="table-cell va-top ct-date-box-text">
+								<div class="ct-date-box-text-inner">
+									<p>2017.10.12 (木)</p>
+								</div>
+							</dd>
+						</dl>
+										
+					
+																				
+				</div>
+            </header>
+			
+            <div class="single-content">
+			
+													<p>インド医療であるアーユルヴェーダは直訳で「生命の科学<span class="word_break"></span>」。<br /></p>
+<p>昨今、日本では「美容やエステの一種？」「スピリチュア<span class="word_break"></span>ルな医療？」などのイメー ジで捉えられがちですが、現在では 世界保険機構（WH<span class="word_break"></span>O）も推奨する医療の１つとなっています。毎日の生き方<span class="word_break"></span>自体を医療と考え、自分と環境をハックする太古のバイオ<span class="word_break"></span>ハッキングとも言えます。 自分の体の内部状態を知り、<span class="word_break"></span>自分の体が必要とするものを古代の化学的知識を用いて身<span class="word_break"></span>の回りの物質から作り、他者と関わる事も治療の１つ。そ<span class="word_break"></span>んなインド医療について学んでみませんか？<br /><br />今回のワークショップではアーユルヴェーダが持っている<span class="word_break"></span>物質観や生命観に触れながら、インド医療の文化面につい<span class="word_break"></span>てのレクチャーや薬作り、薬効の感じ方、いかにすべての<span class="word_break"></span>事象が医療になりうるのかを学んでいく三回講座となって<span class="word_break"></span>います。<br />インド医療に興味のある方、アーユルヴェーダを正しく学<span class="word_break"></span>びたい方、DIYバイオに興味のある方におすすめです。<br /><br />概要<br />日時：<br />・第１回：【基礎編】 9 月 28 日 19:00 ~ 21:00 受付終了<br />/<span class="Apple-converted-space"> </span><a href="http://peatix.com/event/301568" target="_blank" rel="noreferrer noopener">http://peatix.com/event/<span class="word_break"></span>301568</a><br />・第２回：【味覚と身体】 10 月 5 日 19:00 ~ 21:00 受付終了<br />/<span class="Apple-converted-space"> </span><a href="https://l.facebook.com/l.php?u=http%3A%2F%2Fpeatix.com%2Fevent%2F301575&amp;h=ATPAgtXPWPlE-CEAWEH1haGGeQ1Y8IzlOz2a6QocZM8IvvKUTBpTr7AAYQZjf-bB-LfIrN4e2a59EprrbumEJ7rqKmWAzZQ4lyz1hX72EjjxKkQ-xsNzYARN6XDIKzLplSGonKXB7ShRbeqUpRKYEoPiYGhTnB6BqJRGKAw6DClHR_YvMxx-cwQ" target="_blank" rel="noreferrer noopener">http://peatix.com/event/<span class="word_break"></span>301575</a><span class="text_exposed_show"><br />・第３回：【行動編】10 月 12 日 19:00 ~ 21:00 受付終了<br />/<span class="Apple-converted-space"> </span><a href="https://l.facebook.com/l.php?u=http%3A%2F%2Fpeatix.com%2Fevent%2F301577%2F&amp;h=ATP9WQgXk2_DGRjVw2qhsXmFHfgwA9b6DybWUUq9oAzFMSW58NO_b-PFfOckqSwsyJretmAg8nlHxbzFyTDul35aYDGuXDY16x0-S3Xhusp6M7d2AZtngLZMr4xR3JImfYIOO3y8P8IN9ssIEMZWfVYZOBPTyBS6uBe_dEjBPUZeh5N9_rW4Aqs" target="_blank" rel="noreferrer noopener">http://peatix.com/event/<span class="word_break"></span>301577/</a></span></p>
+<p>金額：<br />・各回参加 ：2500円<br />・全３回受講： 7000円 受付終了<br />/<span class="Apple-converted-space"> </span><br /><a href="https://l.facebook.com/l.php?u=http%3A%2F%2Fpeatix.com%2Fevent%2F301573%2F&amp;h=ATPSFb32Z-uiKHIiBdXgOd4J68RaLhuXhAxggHsmpfA_UUeKV2oPeCYWW_n_5_7YD7ftGh28vBrAL4Pztu-3Qu3fog1IwsUfiuyN1Wn-ZvHQFGDIlrg5S76rPlYvA7Z45V7Qnz2OuPeZa_xd4l2JiXedK5P4AoL88WRpei0hnXvEYMQh8_pHCA0" target="_blank" rel="noreferrer noopener">http://peatix.com/event/<span class="word_break"></span>301573/</a></p>
+<p>詳細<br />第１回：【基礎編】自分の身体のシステムを知ろう<br />体と環境の関係 ~ アーユルヴェーダのルールをまなぶ</p>
+<p>【日時】9月28日（木）19:00~21:00<br />【場所】FabCafe MTRL<br />【内容】<br />・インド医療アーユルヴェーダのイントロダクション<br />・アーユルヴェーダの生理学<br />・アーユルヴェーダの身体観をもとに自分の体質を体の特<span class="word_break"></span>徴から把握</p>
+<p>第２回：【味覚と身体】自分の身体への良い影響を作る<br />味覚を使い前回に確認した自分の体質にあう「薬」作りの<span class="word_break"></span>考え方と実践</p>
+<p>【日時】10月5日(木) 19:00~21:00<br />【場所】FabCafe MTRL<br />【内容】<br />・アーユルヴェーダの化学と味の関係：味覚がケミカルセ<span class="word_break"></span>ンサー<br />・前回に把握した自分の体質にあった薬作りを通して身の<span class="word_break"></span>回りの食べ物などを使って<br />自分の体だけにあった、「薬」の作り方を学んでみます。</p>
+<p>第３回：【行動編】行為が治療薬<br />アーユルヴェーダにおける行動によって身体や心理状態に<span class="word_break"></span>影響を与えていく行動療法を通し身体と行動の関係を学ぶ</p>
+<p>【日時】10月12日(木) 19:00~21:00<br />【場所】FabCafe MTRL<br />【内容】<br />・医療というのは病院の中だけではない、なぜ、日常の生<span class="word_break"></span>活の中のあらゆるものが医療になりうるかのレクチャー<br />・利他行為という行動療法<br />・皆でどんな事が医療になるのかディスカッションの場を<span class="word_break"></span>もうけてみる</p>
+<p></p>
+								
+				
+											
+				
+																	                                <div class="btn"><span>終了</span></div>
+                        
+					          
+
+            													
+											
+													
+														
+																					
+																																 <div class="profile-block">
+																														<div class="profile-info">
+																							<div class="profile-header">
+													<div class="profile-name">小峰博生 / ハタイクリニック　アーユルヴェーダ医師（BAMS）</div>
+													
+																												
+												</div>
+																						
+																							<p class="profile-desc">インド政府認定アーユルヴェーダ医：日本人男性で最初のアーユルヴェーダ医になる。
+１９８３年より統合医療を行うハタイクリニックにて、２００８年より専属アーユルヴェーダ医として勤務。インドの病院で行う本格的なアーユルヴェーダの治療法の構築をアドバイザーとして同病院で行う。
+ケララ州最優秀医師に送られるヴァーグバッタ賞を受賞したＤｒスシーラ　サジの元で臨床研修、そのほか、ＳＮＡアーユルヴェーダ病院、プラーナダ・アーユルヴェーダ病院、ヴィシュヌ・アーユルヴェーダ大学病院などで研修を重ね、伝統医のもつ臨床アプローチを学ぶ。２０１４年より、オープンで市民参加型のＤo-It-With-Othersな医療の構築、バイオハッキングのシーンとの融合を目指す。時々良くも悪くも壊れる。変。
+
+略歴：
+グジャラート・アーユルヴェーダ大学卒
+ハタイクリニック専属アーユルヴェーダ医
+日本アーユルヴェーダ研究所理事
+日本アーユルヴェーダ学会理事
+日本アーユルヴェーダスクール講師、英国アーユルヴェーダカレッジ講師</p>
+																					</div>
+									</div>
+
+																									
+										
+	
+		
+								
+	
+	
+				
+            </div><!-- .single-content -->
+
+            <div id="event-info">
+                <div class="single-content">
+	
+																<h2>満員御礼：古代のdiyバイオ：アーユルヴェーダワークショップ ~ インド医療の生命観と物質観を学ぶ ~</h2>
+										
+																											
+					
+										                    	<div id="gmap"></div>
+										
+					
+					
+																					                              <div class="btn"><span>終了</span></div>
+                        
+            
+										
+					
+                </div><!-- .single-content -->
+            </div><!-- #event-info -->
+			
+			
+			
+											
+																
+			<div class="single-head-pager-box type-white">
+				<div class="ct-inner ct-side-space txt-c">
+					<div class="single-pager-text-box">
+																			<div class="single-pager-box prev">
+								<div class="table-style">
+									<a href="http://bioclub.org/event/checking-chicken-cells" class="table-cell va-mid">
+										<p class="single-pager-text">Prev</p>
+									</a>
+								</div>
+							</div>
+												
+						<div class="single-pager-date-box">
+							<div class="table-style">
+								<div class="table-cell va-mid">
+									<a href="http://bioclub.org/event/">
+																					一覧ページへ
+																			</a>
+								</div>
+							</div>
+						</div>
+					
+																			<div class="single-pager-box next">
+								<div class="table-style">
+									<a href="http://bioclub.org/event/lab-inventory-next-steps" class="table-cell va-mid">
+										<p class="single-pager-text">Next</p>
+									</a>
+								</div>
+							</div>
+											</div>
+				</div>
+			</div>
+			
+										<aside>
+					<div class="ct-inner ct-side-space">
+													<h2 class="h2 ct-bd-ttl">新着記事</h2>
+												<ul class="article-list col3">
+															<li class="article">
+	<a href="http://bioclub.org/event/kat-alb" class="ct-block hv-op">
+	
+		<p class="ct-label-wrap">
+							<span class="ct-label text-small lg type va-top">events</span>
+						
+						
+															
+																		
+													  															  									
+			
+			
+						
+													
+		</p>
+		
+		
+	
+																	
+																											
+								
+						<div class="event-date">2023.12.13 (水) 04:00 – </div>
+				
+		
+		
+										
+		<h2 class="article-ttl">
+			 Ekaterina Kormilitsyna at Art Laboratory Berlin (online)
+		</h2>
+	</a>
+	
+						
+									<p class="ct-link-lead"><a href="http://bioclub.org/event/kat-alb" class="ct-block hv-op">From our friends from Art Laboratory Berlin:<br />
+Art Laboratory Berlin is delighted to invite you to take part in our Colloquium, a discursive format on research in art, science and humanities, curated by Regine Rapp. It takes place in tandem with our Reading Club, curated by Tuçe Erel.<br />
+The colloquium addresses an international interdisciplinary research audience to present and discuss past, present or future projects by artists and scholars, curators or editors from the fields of art, science and the humanities. The topics could refer to an art project, a book, text or chapter, a research or exhibition project, a lab experiment, a lecture series, a conference concept or other.</a></p>
+			</li>															<li class="article">
+	<a href="http://bioclub.org/event/spcs-4-sharing-session" class="ct-block hv-op">
+	
+		<p class="ct-label-wrap">
+							<span class="ct-label text-small lg type va-top">events</span>
+						
+						
+															
+																		
+													  															  									
+			
+			
+						
+													
+		</p>
+		
+		
+	
+																	
+																											
+								
+						<div class="event-date">2023.12.06 (水) 19:00 – </div>
+				
+		
+		
+										
+		<h2 class="article-ttl">
+			SPCS Season 4 | Living Dyes: 共有セッション
+		</h2>
+	</a>
+	
+																									<div class="tag-btn"><a href="http://bioclub.org/tags/イベント">#トークイベント</a></div>
+		
+							<div class="thumb">
+				<a href="http://bioclub.org/event/spcs-4-sharing-session" class="ct-block hv-op">
+					<span class="img-wrapper"><img src="http://bioclub.org/assets/images/SPCS4.jpg" alt="SPCS Season 4 | Living Dyes: 共有セッション"></span>
+					
+																<p class="ct-link-lead">2023年9月、さまざまなバックグラウンドを持つ23人の参加者がFabCafe Kyotoに集まり、DIYによるバクテリアの培養方法を学びました。色素を生成する菌株を植え付けたシャーレを持ち帰り、そのバクテリアでテキスタイルを染めるという6週間のチャレンジに挑みました。このグループ実験の結果は、京都と東京で開催される展覧会に展示されます。東京で開催される展示の最終日に、参加者のうちの4人がこのプロセスについての経験や感想を共有します。<br />
+<br />
+Living Dyes | The Exhibition showcases the process and results of the research and actual dyed works from a 1.5 month workshop on dyeing textiles with bacteria. How do everyday participants adopt this relatively new and undeveloped dyeing technique? Come witness it for yourself. Detailed explanations in a guided tour by the exhibition organiser are also available.</p>
+									</a>
+			</div>
+			</li>															<li class="article">
+	<a href="http://bioclub.org/event/antti-tenetz-getting-lost" class="ct-block hv-op">
+	
+		<p class="ct-label-wrap">
+							<span class="ct-label text-small lg type va-top">events</span>
+						
+						
+															
+																		
+													  															  									
+			
+			
+						
+													
+		</p>
+		
+		
+	
+																	
+																											
+								
+						<div class="event-date">2023.12.05 (火) 20:00 – </div>
+				
+		
+		
+										
+		<h2 class="article-ttl">
+			Artist Talk: Antti Tenetz - スペースの間に迷い込む
+		</h2>
+	</a>
+	
+																									<div class="tag-btn"><a href="http://bioclub.org/tags/イベント">#トークイベント</a></div>
+		
+							<div class="thumb">
+				<a href="http://bioclub.org/event/antti-tenetz-getting-lost" class="ct-block hv-op">
+					<span class="img-wrapper"><img src="http://bioclub.org/assets/images/Antti2.jpg" alt="Artist Talk: Antti Tenetz - スペースの間に迷い込む"></span>
+					
+																<p class="ct-link-lead">​What can other than human life, slime molds, local and AI machine systems based knowledge and cowandering teach us about survival and evolving as whole.<br />
+<br />
+人間の生命、粘菌、ローカルおよびAI機械システムに基づく知識、そして臆病さ以外に、生存と全体としての進化について何を教えてくれるのだろうか。</p>
+									</a>
+			</div>
+			</li>													</ul>
+					</div>
+					
+				</aside>
+			            <div id="single-wrapper-close"></div>
+
+        </article>
+
+		<div class="single-footer-wrap">
+	
+<nav id="tag-modal">
+    <div class="tag-modal-ttl">tags</div>
+    <ul>
+					<li><a href="http://bioclub.org/tags/weekly_meeting">#WeeklyMeeting<span>&nbsp;(29)</span></a></li>
+					<li><a href="http://bioclub.org/tags/ワークショップ">#ワークショップ<span>&nbsp;(32)</span></a></li>
+					<li><a href="http://bioclub.org/tags/イベント">#トークイベント<span>&nbsp;(33)</span></a></li>
+					<li><a href="http://bioclub.org/tags/ミートアップ">#ミートアップ<span>&nbsp;(7)</span></a></li>
+					<li><a href="http://bioclub.org/tags/news">#NEWS<span>&nbsp;(10)</span></a></li>
+					<li><a href="http://bioclub.org/tags/report">#REPORT<span>&nbsp;(11)</span></a></li>
+					<li><a href="http://bioclub.org/tags/biohack-academy">#BioHack Academy<span>&nbsp;(12)</span></a></li>
+					<li><a href="http://bioclub.org/tags/project">#PROJECT<span>&nbsp;(2)</span></a></li>
+		    </ul>
+</nav>
+<div id="tag-modal-close"></div>
+
+<footer id="site-footer">
+    <div class="copyright">&copy; 2024 Open BioClub</div>
+</footer>
+
+<script src="//ajax.googleapis.com/ajax/libs/jquery/1.11.2/jquery.min.js"></script>
+<script>window.jQuery || document.write('<script src="/common/css/js/vendor/jquery-1.11.2.min.js"><\/script>')</script>
+<script src="/common/js/vendor/jquery.easing.1.3.js"></script>
+<script src="/common/js/vendor/jquery.scrollbar.min.js"></script>
+<script src="/common/js/vendor/imagesloaded.pkgd.min.js"></script>
+<script src="/common/js/vendor/masonry.pkgd.min.js"></script>
+<script src="/common/js/vendor/jquery.touchSwipe.min.js"></script>
+<script src="/common/js/vendor/jquery.BlackAndWhite.js"></script>
+<script src="/common/js/vendor/slick.min.js"></script>
+<script src="/common/js/main.js?20180322"></script>
+<script src="/common/js/common.js"></script>
+	</div>
+	
+			<script id="gmap-script">
+			//google map
+			function initializeGmap() {
+				var lelStyle = [
+				  {
+					"featureType": "landscape",
+					"elementType": "geometry",
+					"stylers": [
+					{ "saturation": -100 },
+					{ "lightness": 63 }
+					]
+				  },{
+					"featureType": "road.local",
+					"stylers": [
+					{ "lightness": 50 }
+					]
+				  },{
+					"featureType": "road.local",
+					"elementType": "geometry.fill",
+					"stylers": [
+					{ "saturation": -100 },
+					{ "lightness": 100 }
+					]
+				  },{
+					"featureType": "road.highway",
+					"stylers": [
+					{ "hue": "#ffdd00" }
+					]
+				  },{
+					"featureType": "road.highway.controlled_access",
+					"stylers": [
+					{ "hue": "#e8340c" },
+					{ "lightness": 30 }
+					]
+				  },{
+					"featureType": "road",
+					"elementType": "geometry.stroke",
+					"stylers": [
+					{ "visibility": "off" }
+					]
+				  },{
+					"featureType": "administrative",
+					"elementType": "labels",
+					"stylers": [
+					{ "visibility": "off" }
+					]
+				  },{
+					"elementType": "labels.text.stroke",
+					"stylers": [
+					{ "visibility": "off" }
+					]
+				  },{
+					"elementType": "labels.text.fill",
+					"stylers": [
+					{ "gamma": 1.54 }
+					]
+				  },{
+					"featureType": "water",
+					"elementType": "labels",
+					"stylers": [
+					{ "visibility": "off" }
+					]
+				  },
+				  {
+					"featureType": "water",
+					"stylers": [
+					{ "lightness": 50 },
+					{ "hue": "#0088ff" }
+					]
+				  },
+					{
+						"featureType": "all",
+						"stylers": [
+							{ "saturation": -100 },
+							{"lightness": 10}
+						]
+					}
+				]
+				var mapDiv = document.getElementById("gmap");
+				var mapCanvas = new google.maps.Map(mapDiv, {
+					center:new google.maps.LatLng(35.65606300, 139.69549100),
+					zoom:15,
+					mapTypeId:google.maps.MapTypeId.ROADMAP,
+					styles: lelStyle,
+					scrollwheel: false
+				});
+				createMarker ({
+					position : new google.maps.LatLng(35.65606300, 139.69549100),
+					map : mapCanvas
+				});
+				function createMarker (opts) {
+					var marker = new google.maps.Marker(opts);
+					return marker;
+				}
+			}
+			initializeGmap();
+		</script>
+	</body>
+</html>

@@ -1,0 +1,751 @@
+<!doctype html>
+	<html class="no-js" lang="ja">
+    <head prefix="og: http://ogp.me/ns# website: http://ogp.me/ns/website#">
+	<meta charset="utf-8">
+	<meta http-equiv="X-UA-Compatible" content="IE=edge">
+	<title>BioClub</title>
+	
+			<meta name="description" content="bioclub">
+		
+			<meta property="og:description" content="">
+		
+		<meta property="og:title" content="">
+		
+	<meta property="og:url" content="http://bioclub.org/event/微生物と自然へバイオダイビング-in-渋谷-ワークショップレポート">
+			
+		
+					
+	<meta property="og:type" content="website">
+	
+	<meta name="viewport" content="width=device-width">
+	<script src="/common/js/viewport.js"></script>
+	
+	<link rel="stylesheet" href="/common/css/normalize.min.css">
+	<link rel="stylesheet" href="/common/css/main.css?20170322">
+	<script src="/common/js/vendor/modernizr-2.8.3-respond-1.4.2.min.js"></script>
+	<script src="https://use.fontawesome.com/0dfbc630d2.js"></script>
+	<link rel="shortcut icon" href="/favicon.ico">
+	
+	<meta property="og:site_name" content="BioClub">
+	<meta property="article:publisher" content="https://www.facebook.com/bioclubshibuya/">
+	
+	<!-- google map api -->
+	<script type='text/javascript' charset='utf-8' src='//maps.googleapis.com/maps/api/js?&key=AIzaSyDgoNhhsnaOD8gnESPlY5xC1yr6y-R_3WI'></script>
+	
+	<!-- Global site tag (gtag.js) - Google Analytics -->
+	<script async src="https://www.googletagmanager.com/gtag/js?id=UA-121405163-1"></script>
+	<script>
+		window.dataLayer = window.dataLayer || [];
+		function gtag(){dataLayer.push(arguments);}
+		gtag('js', new Date());
+		
+		gtag('config', 'UA-121405163-1');
+	</script>
+<style>
+@media screen and (min-width: 641px) {
+  #single-wrapper .single-eyecatch {
+    height:580px;
+  }
+}</style>
+
+</head>
+
+<body class="single">
+		
+        <header id="site-header">
+            
+						<div class="header-logo-box img-style" id="logo">
+													<a href="/" class="block">
+				         							<h1 class="logo-img-slider-wrap">
+						<a href="/" class=""><img alt="BioClub" src="/common/img/logo.gif"></a>
+					</h1>
+				 
+				
+															 </a>
+												</div>
+			
+            <nav class="subnav">
+                <ul>
+                    <li>
+						<a href="http://bioclub.org/event/">
+								
+								events
+													</a>
+					</li>
+                    <li>
+						<a href="http://bioclub.org/news/">
+								
+								news
+													</a>
+					</li>
+											<li>
+							<a href="http://bioclub.org/project/">
+																	report
+															</a>
+						</li>
+										
+                </ul>
+									<div class="lang">
+						<div class="en"><a href="http://bioclub.org/en/" class="hv-op">en</a></div>
+						<div class="ja"><span>ja</span></div>
+					</div>
+				            </nav>
+			<div id="tag-show">#</div>
+			<div class="open-global-nav-btn" id="open-global-nav-btn"><span class="bar bar01"></span><span class="bar bar02"></span><span class="bar bar03"></span></div>
+			
+        </header>
+		
+		
+		<div class="open-global-nav" id="open-global-nav">
+			<div class="nav-inner" id="nav-inner">
+				<div class="btn-close txt-c" id="open-global-nav-close"><span class="bar bar01"></span><span class="bar bar02"></span></div>
+				<div class="table-style">
+					<div class="table-cell nav-box">
+						<div class="link-inner">
+							
+															<ul class="global-nav-lang-link">
+									<li><a href="http://bioclub.org/en/" class="hv-op">en</a></li>
+									<li><span>ja</span></li>
+								</ul>
+														
+							<ul class="global-nav-link">
+								<li>
+									<a href="http://bioclub.org/event/" class="hv-op">
+											
+											events
+																			</a>
+								</li>
+								<li>
+									<a href="http://bioclub.org/news/" class="hv-op">
+											
+											news
+																			</a>
+								</li>
+																											<li>
+											<a href="http://bioclub.org/project/" class="hv-op">
+																									report
+																							</a>
+										</li>
+																									
+															</ul>
+							
+							<ul class="global-nav-sub-link">
+																	<li><a class="hv-op" href="http://bioclub.org/about/">about</a></li>
+																<li><a href="/contact/" class="hv-op"><i class="fa fa-envelope"></i></a></li>
+								<li><a href="https://github.com/BioClub" target="_blank" class="hv-op"><i class="fa fa-github"></i></a></li>
+								<li><a href="https://www.facebook.com/bioclubtokyo/" target="_blank" class="hv-op"><i class="fa fa-facebook"></i></a></li>
+							</ul>
+						</div>
+					</div>
+				</div>
+			</div>
+		</div>
+			
+        <article id="single-wrapper">
+																		<div class="single-eyecatch" style="background-image:url(http://bioclub.org/assets/images/スクリーンショット-2021-04-26-11.04.28.jpg)"></div>
+				         				
+			
+											
+																
+			<div class="single-head-pager-box">
+				<div class="ct-inner ct-side-space txt-c">
+					<div class="single-pager-text-box">
+																			<div class="single-pager-box prev">
+								<div class="table-style">
+									<a href="http://bioclub.org/event/オンライン開催-material-meetup-tokyo-vol-10-バイオミメティクス" class="table-cell va-mid">
+										<p class="single-pager-text">Prev</p>
+									</a>
+								</div>
+							</div>
+												
+						
+																																														
+																																																																																										
+																									
+														
+											
+						<div class="single-pager-date-box">
+							<div class="table-style">
+								<div class="table-cell va-mid">
+																			<p class="single-pager-date-text">2020.11.01 (日) 10:00 – </p>	
+																	</div>
+							</div>
+						</div>
+					
+																			<div class="single-pager-box next">
+								<div class="table-style">
+									<a href="http://bioclub.org/event/bio-decoration-workshop" class="table-cell va-mid">
+										<p class="single-pager-text">Next</p>
+									</a>
+								</div>
+							</div>
+											</div>
+				</div>
+			</div>
+			
+			
+		    <header class="single-header">
+			
+								<div class="single-post-info-box">
+						<span class="ct-label lg va-top type">events</span>
+
+						
+														  											<span class="ct-label lg va-top mgl0 status lt-gray">レポート</span>
+									  				  
+							
+
+
+
+
+				</div>
+				
+                <h1 class="ct-single-ttl h1">「微生物と自然へバイオダイビング in 渋谷 」ワークショップレポート</h1>
+				
+																	<div class="ct-tag-btn-list-wrap">
+													<div class="tag-btn"><a href="http://bioclub.org/tags/ワークショップ">#ワークショップ</a></div>
+													<div class="tag-btn"><a href="http://bioclub.org/tags/report">#REPORT</a></div>
+											</div>
+								
+				
+								<div class="ct-date-box">
+				
+																													
+																																																																																
+																						
+												
+						<dl class="table-style">
+							<dt class="table-cell va-top fw-b ct-date-ttl">Date</dt>
+							<dd class="table-cell va-top ct-date-box-text">
+								<div class="ct-date-box-text-inner">
+									<p>2020.11.01 (日)</p>
+								</div>
+							</dd>
+						</dl>
+										
+					
+																				
+				</div>
+            </header>
+			
+            <div class="single-content">
+			
+													<p>「微生物と自然へバイオダイビング in 渋谷 / バイオダイバーシティ」が、11月1日開催されました。このワークショップは「Living Machine Project - 都市における微生物多様性について考える」というコンセプトのもと、自然環境との触れ合いを通して、都市に棲息する微生物の多様な世に子供たちが触れるきっかけを作ろうと、<a href="https://panasonic.co.jp/design/flf/about/">Panasonic FUTURE LIFE FACTORY</a>のデザイナーであるマイケル・シャドヴィッツさんが主催し、FabCafe, BioClubとの協同で実現したものです。微生物収集の方法や実験に関しては、BioClubコミュニティのネットワークでご縁があった<a href="https://goswab.netlify.app/">GoSWAB代表・伊藤光平さん</a>がアドバイザーを担当してくれました。</p>
+								
+				
+											
+				
+																	                                          <div class="btn"><a href="http://bioclub.org/project-report/%E5%BE%AE%E7%94%9F%E7%89%A9%E5%A4%9A%E6%A7%98%E6%80%A7%E3%81%8B%E3%82%89%E9%83%BD%E5%B8%82%E3%81%AB%E3%81%8A%E3%81%91%E3%82%8B%E3%82%A6%E3%82%A7%E3%83%AB%E3%83%93%E3%83%BC%E3%82%A4%E3%83%B3%E3%82%B0%E3%82%92%E6%8E%A2%E3%82%8B-3%E3%81%8B%E6%9C%88%E3%81%A7%E3%82%A2%E3%82%A6%E3%83%88%E3%83%AA%E3%83%BC%E3%83%81%E6%B4%BB%E5%8B%95%E3%82%92%E5%AE%9F%E8%B7%B5-living-machine-project">レポートを見る</a></div>
+                          					          
+
+            									
+	
+		
+								
+														
+																			<p><img src="http://bioclub.org/assets/images/banner6.jpg" alt=""></p>
+																
+					
+													
+											<p>Living Machine Project - <span></span>イベントについて<br /><a href="http://bioclub.org/event/微生物と自然へバイオダイビング-in-渋谷-バイオダイバーシティ">微生物と自然へバイオダイビング in 渋谷 / バイオダイバーシティ</a></p>
+<p><span></span></p>
+									
+				
+													
+											<p><br /></p>
+<hr /><p></p>
+<p></p>
+<p><br /></p>
+<p><strong><strong>オリエンテーション</strong></strong></p>
+<p>秋晴れの空の下、参加者の子供と保護者たちが代々木公園に集まりました。スタッフの武田さんからまず見せられたのは「スタンプ培地」（製品名：ぺたんちぇっく（栄研化学株式会社））とよばれる微生物培養キット。このスタンプ培地が微生物の「家」であり「ごはん」になるといいます。本来、このスタンプ培地は、食品中の生菌数測定など、食中毒検査や防止の目的で使用され、「手軽に・誰でも・食品の表面から・微生物を採集かつ培養する」ためのものです。一方で、「手軽に、子供でも・面を有するあらゆるところから・微生物を採集かつ培養できる」ものとして捉えれば、ワークショップの最適なツールとして使えてしまうのです！簡単な採集方法のレクチャーを受けた子供たちは、小さな生き物たちを集めに代々木子園へ散らばってゆきました。</p>
+									
+				
+																					
+																			<p><img src="http://bioclub.org/assets/images/1_201124_002955.jpg" alt=""></p>
+																
+					
+													
+											<p></p>
+<p><br /></p>
+<p><strong>スタンプ培地を使って小さい生き物を捕まえる</strong></p>
+<p>散歩やランニングをする人々が行き交うなか、縦横無尽に公園を動き回る子供たち。一人に渡されたスタンプ培地は全部で12個。階段の手すり、樹木の皮、土の表面、水たまり、鳥のフン、コケ、樹の幹から顔を出すキノコなど、そこに潜んでいるかもしれない微生物を想像しながら、気になった対象にスタンプを次々と貼り付けてゆきました。中には木に登ってサンプルを採ったり、散歩中の飼い主に頼み込んで、そのイヌの肉球から採ったりという大胆なやり方で大人たちを驚かせた子もいました。微生物を培養するためだけの採集ではなく、目には見えないものをたくさん探し続けることで、目ではなく身体全体で微生物の存在感に醸されることをねらいとしています。サンプルを採ったあとは、何からどのようなものが育ったかを覚えておくために、スタンプ培地のラベルに採った場所やものの名前をメモしておくという、基本的な生物学的フィールドワークにも挑戦しました。</p>
+									
+				
+											
+					
+																					<div class="slider" data-type="img">
+							<ul>
+																									
+																			
+																															<li>
+																									<img src="http://bioclub.org/assets/images/2.jpeg" alt="">
+												
+																							</li>
+																			
+																		
+																	
+																			
+																															<li>
+																									<img src="http://bioclub.org/assets/images/4_201124_003418.jpg" alt="">
+												
+																							</li>
+																			
+																		
+																	
+																			
+																															<li>
+																									<img src="http://bioclub.org/assets/images/3_201124_003419.jpg" alt="">
+												
+																							</li>
+																			
+																		
+															</ul>
+							<div class="nav-b"></div>
+						</div>
+										
+				
+				
+				
+			
+													
+											<p></p>
+<p><strong>街の自然から小さい生き物を捕まえる</strong></p>
+<p>　代々木公園での散策が終わった私たちは、FabCafe MTRLへ歩いて向かうことになりました。この道中でもまだ生き物探しは終わっていません。小さな生き物が潜んでいそうな場所やものを探し、手元のプラスチックコップに集めながら帰ることになりました。ねらいは、渋谷のような都会の中にも、肉眼では見えないだけで、小さな生き物がたくさん生息しているという視点を子供たちに持ってもらうことです。</p>
+									
+				
+																					
+																			<p><img src="http://bioclub.org/assets/images/6.jpeg" alt=""></p>
+																
+					
+													
+											<p>渋谷の街中に生き物がいそうな場所などあるんでしょうか。しかし、そんな疑いはすぐさま消え去りました。子供たちは注意深く足元に視線を向け、ただ歩いているだけでは見落としてしまうような道の片隅から鋭く自然を見つけ出しました。ふと立ち止まったかと思うと、歩道のタイルの隙間に生えている苔や花壇の土を、手に土が付くのもおかまいなしで掘り出します。一人の女の子は、どこからか拾ってきたのか、小さなダンゴムシを手のひらに乗せ、走り寄って嬉しそうに見せてくれました。そうして様々なものを集めていくうち、渡されたコップの中は一杯になりました。</p>
+									
+				
+																					
+																			<p><img src="http://bioclub.org/assets/images/36.jpg" alt=""></p>
+													<p><img src="http://bioclub.org/assets/images/8.jpg" alt=""></p>
+																
+					
+													
+											<p><strong></strong></p>
+<p><strong><strong>FabCafe MTRLにてプレゼンテーション＆ランチ休憩</strong></strong></p>
+<p>　FabCafeでのランチ休憩では、主催者のマイケルさんが、今回のワークショップを実施するに至った背景を語りました。微生物はただそこにいるだけではなく、消化を手伝う、病気から保護する、免疫系を調整するなど、様々な形で私たちと関係していて、それらの関係性は多様であればあるだけ望ましいそうです。未来の都市では人間と生き物がどのように共に生きているか、この会を通して考えてみましょうとマイケルさんは子供たちに呼びかけました。</p>
+									
+				
+																					
+																			<p><img src="http://bioclub.org/assets/images/マイケルさん写真_桜木撮影.jpg" alt=""></p>
+																
+					
+													
+											<p></p>
+<p><br /></p>
+<p><strong>捕まえた小さい生き物を観察し、育てる</strong></p>
+<p>さて、集めてきた植物や土の中にはどんな微生物がいるのでしょうか。私たちは、スライドガラスにサンプルを載せ、顕微鏡を覗き込んで小さな生き物の姿を探しました。観察する目は真剣そのもの。初めは難航していましたが、辛抱強く観察を続けるうち、しだいに微生物が見つかるようになってきました。現れたのは、アリやダニ、線虫などの微生物たち。脚をもぞもぞと動かしたり、土の粒をかき分けて進んだりする姿が見えます。「いた！ちゃんと動いてる！」「いるいる、なんか白っぽい！」見つけた子が興奮気味に声をあげると、周りの子たちがそれを取り囲んでわいわいと覗いていました。誰もが観察に飽きる様子もなく、予定の時間が終わった後でも、顕微鏡から目を離そうとしないほどのめり込む様子が印象的でした。</p>
+									
+				
+																					
+																			<p><img src="http://bioclub.org/assets/images/55-1.jpg" alt=""></p>
+													<p><img src="http://bioclub.org/assets/images/9.jpg" alt=""></p>
+													<p><img src="http://bioclub.org/assets/images/10.jpeg" alt=""></p>
+																
+					
+													
+											<p>さらに、ラボマネージャーの細谷さんがFabCafe MTRLのBioLabの中へ子供たちを招き、公園で採集したスタンプ培地をどのように育てていくかを子供たちに分かりやすく説明しました。今は何も見えない半透明の培地ですが、一週間ほど経てば中で微生物が育ち、色々な形に見えてくるといいます。子供たちは自分のスタンプ培地を自分の手でインキュベータに入れました。ワークショップで子供たちが採集した微生物はBioLabで培養したのち、マイケルさんの想いとともに、FabCafeで展示という形で発表されました。</p>
+									
+				
+																					
+																			<p><img src="http://bioclub.org/assets/images/11-1.png" alt=""></p>
+																
+					
+											
+					
+																					<div class="slider" data-type="img">
+							<ul>
+																									
+																			
+																															<li>
+																									<img src="http://bioclub.org/assets/images/3-2.jpg.png" alt="">
+												
+																							</li>
+																			
+																		
+																	
+																			
+																															<li>
+																									<img src="http://bioclub.org/assets/images/14-2.jpg.png" alt="">
+												
+																							</li>
+																			
+																		
+																	
+																			
+																															<li>
+																									<img src="http://bioclub.org/assets/images/9-2.jpg.png" alt="">
+												
+																							</li>
+																			
+																		
+																	
+																			
+																															<li>
+																									<img src="http://bioclub.org/assets/images/6.jpg.JPG" alt="">
+												
+																							</li>
+																			
+																		
+																	
+																			
+																													
+																		
+															</ul>
+							<div class="nav-b"></div>
+						</div>
+										
+				
+				
+				
+			
+													
+											<p></p>
+<p><br /></p>
+<p><strong>子供たちの感想</strong></p>
+<p>子供たちは、ワークショップとマイケル氏のプレゼンテーションを通じてどのようなことを感じ取ったのでしょうか。食べ物が豊富なこと、住み心地が良いこと（ゴミがない、天敵がいない）が望ましい街の条件だと認識していることがわかりました。中には、小さな生き物の保育園があることといった、 生物多様性保全のヒントになるようなインサイトを記入した子供もいました。子供たちは未来の渋谷の街と自然をどうしていきたいのか、それは我々大人が未来の都市と自然の関係を考える上でのヒントになるかもしれません。</p>
+									
+				
+																					
+																			<p><img src="http://bioclub.org/assets/images/アンケート.png" alt=""></p>
+																
+					
+																					
+																						
+					
+													
+											<p><strong></strong></p>
+<hr /><p><br /></p>
+<p><strong><strong>まとめ</strong></strong></p>
+<p>渋谷のような都市にも微生物は暮らしています。そんなことは誰だって知っていますし、理解もできます。目に見えている、動物園にいる生き物だけが生き物ではありません。いま自分が住んでいる場所の生物多様性、つまり渋谷の街に住んでいる微生物の多様性ー複雑なそれらへの理解と実感、利用、そして尊重する態度が、人間と、人間以外の生き物との共生には欠かせません。この態度は、一朝一夜で身につくものではなく、たくさんの時間をかけて生き物に向き合うこと、観察すること、勉強することで身につく態度です。そのために、子供のうちから、生き物と向き合う時間を大切にしていくことが肝要です。今回のワークショップは、土や草花や虫をさわる、見る、嗅ぐといった知覚行為を通して、目に見えなくとも実際には至るところに棲んでいる生き物の存在感に触れる機会となりました。未来の渋谷の街と自然、そこに暮らす人間との関係をデザインするLiving Machine Projectは、未来のためにこれからも進んでいきます。</p>
+									
+				
+																					
+																						
+					
+									
+	
+				
+            </div><!-- .single-content -->
+
+            <div id="event-info">
+                <div class="single-content">
+	
+															
+																											
+					
+										                    	<div id="gmap"></div>
+										
+					
+					
+																					                                                <div class="btn"><a href="http://bioclub.org/project-report/%E5%BE%AE%E7%94%9F%E7%89%A9%E5%A4%9A%E6%A7%98%E6%80%A7%E3%81%8B%E3%82%89%E9%83%BD%E5%B8%82%E3%81%AB%E3%81%8A%E3%81%91%E3%82%8B%E3%82%A6%E3%82%A7%E3%83%AB%E3%83%93%E3%83%BC%E3%82%A4%E3%83%B3%E3%82%B0%E3%82%92%E6%8E%A2%E3%82%8B-3%E3%81%8B%E6%9C%88%E3%81%A7%E3%82%A2%E3%82%A6%E3%83%88%E3%83%AA%E3%83%BC%E3%83%81%E6%B4%BB%E5%8B%95%E3%82%92%E5%AE%9F%E8%B7%B5-living-machine-project">レポートを見る</a></div>
+                              										
+					
+                </div><!-- .single-content -->
+            </div><!-- #event-info -->
+			
+			
+			
+											
+																
+			<div class="single-head-pager-box type-white">
+				<div class="ct-inner ct-side-space txt-c">
+					<div class="single-pager-text-box">
+																			<div class="single-pager-box prev">
+								<div class="table-style">
+									<a href="http://bioclub.org/event/オンライン開催-material-meetup-tokyo-vol-10-バイオミメティクス" class="table-cell va-mid">
+										<p class="single-pager-text">Prev</p>
+									</a>
+								</div>
+							</div>
+												
+						<div class="single-pager-date-box">
+							<div class="table-style">
+								<div class="table-cell va-mid">
+									<a href="http://bioclub.org/event/">
+																					一覧ページへ
+																			</a>
+								</div>
+							</div>
+						</div>
+					
+																			<div class="single-pager-box next">
+								<div class="table-style">
+									<a href="http://bioclub.org/event/bio-decoration-workshop" class="table-cell va-mid">
+										<p class="single-pager-text">Next</p>
+									</a>
+								</div>
+							</div>
+											</div>
+				</div>
+			</div>
+			
+										<aside>
+					<div class="ct-inner ct-side-space">
+													<h2 class="h2 ct-bd-ttl">新着記事</h2>
+												<ul class="article-list col3">
+															<li class="article">
+	<a href="http://bioclub.org/event/kat-alb" class="ct-block hv-op">
+	
+		<p class="ct-label-wrap">
+							<span class="ct-label text-small lg type va-top">events</span>
+						
+						
+															
+																		
+													  															  									
+			
+			
+						
+													
+		</p>
+		
+		
+	
+																	
+																											
+								
+						<div class="event-date">2023.12.13 (水) 04:00 – </div>
+				
+		
+		
+										
+		<h2 class="article-ttl">
+			 Ekaterina Kormilitsyna at Art Laboratory Berlin (online)
+		</h2>
+	</a>
+	
+						
+									<p class="ct-link-lead"><a href="http://bioclub.org/event/kat-alb" class="ct-block hv-op">From our friends from Art Laboratory Berlin:<br />
+Art Laboratory Berlin is delighted to invite you to take part in our Colloquium, a discursive format on research in art, science and humanities, curated by Regine Rapp. It takes place in tandem with our Reading Club, curated by Tuçe Erel.<br />
+The colloquium addresses an international interdisciplinary research audience to present and discuss past, present or future projects by artists and scholars, curators or editors from the fields of art, science and the humanities. The topics could refer to an art project, a book, text or chapter, a research or exhibition project, a lab experiment, a lecture series, a conference concept or other.</a></p>
+			</li>															<li class="article">
+	<a href="http://bioclub.org/event/spcs-4-sharing-session" class="ct-block hv-op">
+	
+		<p class="ct-label-wrap">
+							<span class="ct-label text-small lg type va-top">events</span>
+						
+						
+															
+																		
+													  															  									
+			
+			
+						
+													
+		</p>
+		
+		
+	
+																	
+																											
+								
+						<div class="event-date">2023.12.06 (水) 19:00 – </div>
+				
+		
+		
+										
+		<h2 class="article-ttl">
+			SPCS Season 4 | Living Dyes: 共有セッション
+		</h2>
+	</a>
+	
+																									<div class="tag-btn"><a href="http://bioclub.org/tags/イベント">#トークイベント</a></div>
+		
+							<div class="thumb">
+				<a href="http://bioclub.org/event/spcs-4-sharing-session" class="ct-block hv-op">
+					<span class="img-wrapper"><img src="http://bioclub.org/assets/images/SPCS4.jpg" alt="SPCS Season 4 | Living Dyes: 共有セッション"></span>
+					
+																<p class="ct-link-lead">2023年9月、さまざまなバックグラウンドを持つ23人の参加者がFabCafe Kyotoに集まり、DIYによるバクテリアの培養方法を学びました。色素を生成する菌株を植え付けたシャーレを持ち帰り、そのバクテリアでテキスタイルを染めるという6週間のチャレンジに挑みました。このグループ実験の結果は、京都と東京で開催される展覧会に展示されます。東京で開催される展示の最終日に、参加者のうちの4人がこのプロセスについての経験や感想を共有します。<br />
+<br />
+Living Dyes | The Exhibition showcases the process and results of the research and actual dyed works from a 1.5 month workshop on dyeing textiles with bacteria. How do everyday participants adopt this relatively new and undeveloped dyeing technique? Come witness it for yourself. Detailed explanations in a guided tour by the exhibition organiser are also available.</p>
+									</a>
+			</div>
+			</li>															<li class="article">
+	<a href="http://bioclub.org/event/antti-tenetz-getting-lost" class="ct-block hv-op">
+	
+		<p class="ct-label-wrap">
+							<span class="ct-label text-small lg type va-top">events</span>
+						
+						
+															
+																		
+													  															  									
+			
+			
+						
+													
+		</p>
+		
+		
+	
+																	
+																											
+								
+						<div class="event-date">2023.12.05 (火) 20:00 – </div>
+				
+		
+		
+										
+		<h2 class="article-ttl">
+			Artist Talk: Antti Tenetz - スペースの間に迷い込む
+		</h2>
+	</a>
+	
+																									<div class="tag-btn"><a href="http://bioclub.org/tags/イベント">#トークイベント</a></div>
+		
+							<div class="thumb">
+				<a href="http://bioclub.org/event/antti-tenetz-getting-lost" class="ct-block hv-op">
+					<span class="img-wrapper"><img src="http://bioclub.org/assets/images/Antti2.jpg" alt="Artist Talk: Antti Tenetz - スペースの間に迷い込む"></span>
+					
+																<p class="ct-link-lead">​What can other than human life, slime molds, local and AI machine systems based knowledge and cowandering teach us about survival and evolving as whole.<br />
+<br />
+人間の生命、粘菌、ローカルおよびAI機械システムに基づく知識、そして臆病さ以外に、生存と全体としての進化について何を教えてくれるのだろうか。</p>
+									</a>
+			</div>
+			</li>													</ul>
+					</div>
+					
+				</aside>
+			            <div id="single-wrapper-close"></div>
+
+        </article>
+
+		<div class="single-footer-wrap">
+	
+<nav id="tag-modal">
+    <div class="tag-modal-ttl">tags</div>
+    <ul>
+					<li><a href="http://bioclub.org/tags/weekly_meeting">#WeeklyMeeting<span>&nbsp;(29)</span></a></li>
+					<li><a href="http://bioclub.org/tags/ワークショップ">#ワークショップ<span>&nbsp;(32)</span></a></li>
+					<li><a href="http://bioclub.org/tags/イベント">#トークイベント<span>&nbsp;(33)</span></a></li>
+					<li><a href="http://bioclub.org/tags/ミートアップ">#ミートアップ<span>&nbsp;(7)</span></a></li>
+					<li><a href="http://bioclub.org/tags/news">#NEWS<span>&nbsp;(10)</span></a></li>
+					<li><a href="http://bioclub.org/tags/report">#REPORT<span>&nbsp;(11)</span></a></li>
+					<li><a href="http://bioclub.org/tags/biohack-academy">#BioHack Academy<span>&nbsp;(12)</span></a></li>
+					<li><a href="http://bioclub.org/tags/project">#PROJECT<span>&nbsp;(2)</span></a></li>
+		    </ul>
+</nav>
+<div id="tag-modal-close"></div>
+
+<footer id="site-footer">
+    <div class="copyright">&copy; 2024 Open BioClub</div>
+</footer>
+
+<script src="//ajax.googleapis.com/ajax/libs/jquery/1.11.2/jquery.min.js"></script>
+<script>window.jQuery || document.write('<script src="/common/css/js/vendor/jquery-1.11.2.min.js"><\/script>')</script>
+<script src="/common/js/vendor/jquery.easing.1.3.js"></script>
+<script src="/common/js/vendor/jquery.scrollbar.min.js"></script>
+<script src="/common/js/vendor/imagesloaded.pkgd.min.js"></script>
+<script src="/common/js/vendor/masonry.pkgd.min.js"></script>
+<script src="/common/js/vendor/jquery.touchSwipe.min.js"></script>
+<script src="/common/js/vendor/jquery.BlackAndWhite.js"></script>
+<script src="/common/js/vendor/slick.min.js"></script>
+<script src="/common/js/main.js?20180322"></script>
+<script src="/common/js/common.js"></script>
+	</div>
+	
+			<script id="gmap-script">
+			//google map
+			function initializeGmap() {
+				var lelStyle = [
+				  {
+					"featureType": "landscape",
+					"elementType": "geometry",
+					"stylers": [
+					{ "saturation": -100 },
+					{ "lightness": 63 }
+					]
+				  },{
+					"featureType": "road.local",
+					"stylers": [
+					{ "lightness": 50 }
+					]
+				  },{
+					"featureType": "road.local",
+					"elementType": "geometry.fill",
+					"stylers": [
+					{ "saturation": -100 },
+					{ "lightness": 100 }
+					]
+				  },{
+					"featureType": "road.highway",
+					"stylers": [
+					{ "hue": "#ffdd00" }
+					]
+				  },{
+					"featureType": "road.highway.controlled_access",
+					"stylers": [
+					{ "hue": "#e8340c" },
+					{ "lightness": 30 }
+					]
+				  },{
+					"featureType": "road",
+					"elementType": "geometry.stroke",
+					"stylers": [
+					{ "visibility": "off" }
+					]
+				  },{
+					"featureType": "administrative",
+					"elementType": "labels",
+					"stylers": [
+					{ "visibility": "off" }
+					]
+				  },{
+					"elementType": "labels.text.stroke",
+					"stylers": [
+					{ "visibility": "off" }
+					]
+				  },{
+					"elementType": "labels.text.fill",
+					"stylers": [
+					{ "gamma": 1.54 }
+					]
+				  },{
+					"featureType": "water",
+					"elementType": "labels",
+					"stylers": [
+					{ "visibility": "off" }
+					]
+				  },
+				  {
+					"featureType": "water",
+					"stylers": [
+					{ "lightness": 50 },
+					{ "hue": "#0088ff" }
+					]
+				  },
+					{
+						"featureType": "all",
+						"stylers": [
+							{ "saturation": -100 },
+							{"lightness": 10}
+						]
+					}
+				]
+				var mapDiv = document.getElementById("gmap");
+				var mapCanvas = new google.maps.Map(mapDiv, {
+					center:new google.maps.LatLng(0.00000000, 0.00000000),
+					zoom:15,
+					mapTypeId:google.maps.MapTypeId.ROADMAP,
+					styles: lelStyle,
+					scrollwheel: false
+				});
+				createMarker ({
+					position : new google.maps.LatLng(0.00000000, 0.00000000),
+					map : mapCanvas
+				});
+				function createMarker (opts) {
+					var marker = new google.maps.Marker(opts);
+					return marker;
+				}
+			}
+			initializeGmap();
+		</script>
+	</body>
+</html>

@@ -1,0 +1,417 @@
+<!doctype html>
+	<html class="no-js" lang="ja">
+    <head prefix="og: http://ogp.me/ns# website: http://ogp.me/ns/website#">
+	<meta charset="utf-8">
+	<meta http-equiv="X-UA-Compatible" content="IE=edge">
+	<title>BioClub</title>
+	
+			<meta name="description" content="bioclub">
+		
+			<meta property="og:description" content="bioclublogo">
+		
+		<meta property="og:title" content="bioclublogo">
+		
+	<meta property="og:url" content="http://bioclub.org/project-report/logo-bioclub">
+			
+		
+									<meta property="og:image" content="http://bioclub.org/common/images/_og_image/Qosmo.png">
+				
+	<meta property="og:type" content="website">
+	
+	<meta name="viewport" content="width=device-width">
+	<script src="/common/js/viewport.js"></script>
+	
+	<link rel="stylesheet" href="/common/css/normalize.min.css">
+	<link rel="stylesheet" href="/common/css/main.css?20170322">
+	<script src="/common/js/vendor/modernizr-2.8.3-respond-1.4.2.min.js"></script>
+	<script src="https://use.fontawesome.com/0dfbc630d2.js"></script>
+	<link rel="shortcut icon" href="/favicon.ico">
+	
+	<meta property="og:site_name" content="BioClub">
+	<meta property="article:publisher" content="https://www.facebook.com/bioclubshibuya/">
+	
+	<!-- google map api -->
+	<script type='text/javascript' charset='utf-8' src='//maps.googleapis.com/maps/api/js?&key=AIzaSyDgoNhhsnaOD8gnESPlY5xC1yr6y-R_3WI'></script>
+	
+	<!-- Global site tag (gtag.js) - Google Analytics -->
+	<script async src="https://www.googletagmanager.com/gtag/js?id=UA-121405163-1"></script>
+	<script>
+		window.dataLayer = window.dataLayer || [];
+		function gtag(){dataLayer.push(arguments);}
+		gtag('js', new Date());
+		
+		gtag('config', 'UA-121405163-1');
+	</script>
+<style>
+@media screen and (min-width: 641px) {
+  #single-wrapper .single-eyecatch {
+    height:580px;
+  }
+}</style>
+
+</head>
+
+<body class="single">
+		
+        <header id="site-header">
+            
+						<div class="header-logo-box img-style" id="logo">
+													<a href="/" class="block">
+				         							<h1 class="logo-img-slider-wrap">
+						<a href="/" class=""><img alt="BioClub" src="/common/img/logo.gif"></a>
+					</h1>
+				 
+				
+															 </a>
+												</div>
+			
+            <nav class="subnav">
+                <ul>
+                    <li>
+						<a href="http://bioclub.org/event/">
+								
+								events
+													</a>
+					</li>
+                    <li>
+						<a href="http://bioclub.org/news/">
+								
+								news
+													</a>
+					</li>
+											<li>
+							<a href="http://bioclub.org/project/">
+																	report
+															</a>
+						</li>
+										
+                </ul>
+									<div class="lang">
+						<div class="en"><a href="http://bioclub.org/en/" class="hv-op">en</a></div>
+						<div class="ja"><span>ja</span></div>
+					</div>
+				            </nav>
+			<div id="tag-show">#</div>
+			<div class="open-global-nav-btn" id="open-global-nav-btn"><span class="bar bar01"></span><span class="bar bar02"></span><span class="bar bar03"></span></div>
+			
+        </header>
+		
+		
+		<div class="open-global-nav" id="open-global-nav">
+			<div class="nav-inner" id="nav-inner">
+				<div class="btn-close txt-c" id="open-global-nav-close"><span class="bar bar01"></span><span class="bar bar02"></span></div>
+				<div class="table-style">
+					<div class="table-cell nav-box">
+						<div class="link-inner">
+							
+															<ul class="global-nav-lang-link">
+									<li><a href="http://bioclub.org/en/" class="hv-op">en</a></li>
+									<li><span>ja</span></li>
+								</ul>
+														
+							<ul class="global-nav-link">
+								<li>
+									<a href="http://bioclub.org/event/" class="hv-op">
+											
+											events
+																			</a>
+								</li>
+								<li>
+									<a href="http://bioclub.org/news/" class="hv-op">
+											
+											news
+																			</a>
+								</li>
+																											<li>
+											<a href="http://bioclub.org/project/" class="hv-op">
+																									report
+																							</a>
+										</li>
+																									
+															</ul>
+							
+							<ul class="global-nav-sub-link">
+																	<li><a class="hv-op" href="http://bioclub.org/about/">about</a></li>
+																<li><a href="/contact/" class="hv-op"><i class="fa fa-envelope"></i></a></li>
+								<li><a href="https://github.com/BioClub" target="_blank" class="hv-op"><i class="fa fa-github"></i></a></li>
+								<li><a href="https://www.facebook.com/bioclubtokyo/" target="_blank" class="hv-op"><i class="fa fa-facebook"></i></a></li>
+							</ul>
+						</div>
+					</div>
+				</div>
+			</div>
+		</div>
+			
+        <article id="single-wrapper">
+        	                        	                	<div class="single-eyecatch" style="background-image:url(http://bioclub.org/assets/images/Qosmo.png)"></div>
+            	            			
+											
+																
+			<div class="single-head-pager-box">
+				<div class="ct-inner ct-side-space txt-c">
+					<div class="single-pager-text-box">
+																		
+						
+																													
+						<div class="single-pager-date-box">
+							<div class="table-style">
+								<div class="table-cell va-mid">
+																	</div>
+							</div>
+						</div>
+					
+																			<div class="single-pager-box next">
+								<div class="table-style">
+									<a href="http://bioclub.org/project-report/weybot-report" class="table-cell va-mid">
+										<p class="single-pager-text">Next</p>
+									</a>
+								</div>
+							</div>
+											</div>
+				</div>
+			</div>
+			
+            <header class="single-header">
+				
+								<div class="single-post-info-box">
+						<span class="ct-label lg va-top type">project reports</span>
+
+						
+													
+
+
+
+
+				</div>
+				
+				<h1 class="ct-single-ttl h1">BioClubのロゴから考える｜生き物的なるデザイン - 計算とシミュレーションによる創造性</h1>
+			   
+																	<div class="ct-tag-btn-list-wrap">
+													<div class="tag-btn"><a href="http://bioclub.org/tags/news">#NEWS</a></div>
+													<div class="tag-btn"><a href="http://bioclub.org/tags/report">#REPORT</a></div>
+											</div>
+							</header>
+		
+			<div class="single-content">
+								
+						
+											<p>この夏、BioClubのロゴ・Webサイトがリニューアルをきっかけに、「BioClub」を表現するにふさわしい表現とは？そもそもBioってバイオテクノロジーのBio？生命のBio?生きてる感じの表現すればいいのか？でもバイオハザードっぽいのはよくない。バイオバイオバイオ..と、Webサイト制作チームもロゴ制作チームも禅問答のような日々に直面しました。</p>
+<p>そんな中、新しいロゴはバイオクラブのビジョンを「ひとつの画」で伝えるのではなく、ロゴのあり方そのものにビジョンやストーリーを込めようという試みに挑戦しています。そう、まるで命が生まれる発端である細胞分裂のように、人と人が出会い新たなアイデアが生まれるように、何が生まれるか予測不可能だけれど、根底にある思いを表現するロゴ（ビジュアル・アイデンティティ）にしよう！という方針は固まりました。問題は「どうやって」そうしたイメージを生成するか。
+生命的なイメージを人間の恣意性に任せるのではなく、自然の中にもあるようなパターンや計算を利用してデザインするのがコンセプトに合っているのでは？という考えに至り「ジェネラティブデザイン」の観点でBioClubのロゴを思索してみる会を行うことにしました。</p>
+<p><strong><img src="https://lh3.googleusercontent.com/hvNggXBRxTgChV0UhF2oNuUynaKRd3RfG4VXlFoG9kBjsG03mciSnqDurRPEK49vCH0MTIhXPva7657aBrC_GniahTIsfAn_IZ1TtnzA7Qi3YIPF2SgzkE9wonWFT8AyxIECn-wQ" width="680" height="453" alt="hvNggXBRxTgChV0UhF2oNuUynaKRd3RfG4VXlFoG9kBjsG03mciSnqDurRPEK49vCH0MTIhXPva7657aBrC_GniahTIsfAn_IZ1TtnzA7Qi3YIPF2SgzkE9wonWFT8AyxIECn-wQ" title="hvNggXBRxTgChV0UhF2oNuUynaKRd3RfG4VXlFoG9kBjsG03mciSnqDurRPEK49vCH0MTIhXPva7657aBrC_GniahTIsfAn_IZ1TtnzA7Qi3YIPF2SgzkE9wonWFT8AyxIECn-wQ" style="border-style:none;font-style:normal;font-weight:400;font-size:16px;font-family:'Trebuchet MS', 'Helvetica Neue', Helvetica, Tahoma, sans-serif;vertical-align:middle;height:auto;" /></strong></p>
+<p>ジェネラティブデザインなら彼らに聞くしかない！ということで、毎週火曜に開催している「BioClub Weekly Meeting」でアルゴリズムや計算を用いたヴィジュアル表現を数多く手がける株式会社<a href="http://qosmo.jp/">Qosmo</a>から堂園 翔矢さん（写真左）と浦川 通さん（写真右）をゲストに迎え、“計算とシミュレーション”による創造性について、お話を伺いました。</p>
+<p><strong>アイデンティティは、どの情報で伝える？</strong></p>
+<p><img src="https://lh4.googleusercontent.com/5SR86lwwu_xvLilnWY6ncDLdw9v6k_NqhmbHEceSlQ7jQ-80xgh1k18gK1aGvDpUoCH12k64SQW6w9gplF2cfsrShBXvUxE38RFDXy70N9FnoxKXlJTXyUUV_i0s9Ibzqm52AGJl" width="680" height="453" alt="5SR86lwwu_xvLilnWY6ncDLdw9v6k_NqhmbHEceSlQ7jQ-80xgh1k18gK1aGvDpUoCH12k64SQW6w9gplF2cfsrShBXvUxE38RFDXy70N9FnoxKXlJTXyUUV_i0s9Ibzqm52AGJl" style="border-style:none;vertical-align:middle;height:auto;" /></p>
+<p>ジェネラティブ、という言葉は何かを生み出すことを表す言葉。「ジェネラティブデザイン」は、簡単にいうとアルゴリズムで生成する表現を指します。そこで鍵になるのは、イメージを生成する時に何を軸をにするのかということ。むかーし習った一次関数、覚えていますか？　y=ax+bってやつです。x（変数）に何をいれるかでy（アウトプット）の値が変わるわけですが、このxのところに何をいれるか、というのが表現したいもののアイデンティティを示すといっても過言ではないでしょう。バイオ、と聞いてイメージされる、食やエネルギー、医療や生命倫理といったことを、どうシンボルとして表現するか。ロゴと組織のストーリーをどうつなげるか。これまでに、企業ロゴをジェネラティブデザインで企画・制作したことのあるQosmoのおふたりの話を聞きながら、バイオクラブではどの情報を軸にするかを考えました。紹介してもらった事例は、その数なんと約40！ ほんの一部ですが、抜粋して紹介します。
+</p>
+<p>▼<strong>Casa da Música</strong></p>
+<p><img src="https://lh6.googleusercontent.com/k0oSXVunffhFolWAH8XXBlUsaBbpkrm-vsweWHJTZOmzSfKCQkH7Rks51QJVa2uHO_SWMh6wK2BTGHBVcr_OmU6sSgdh6go87VtnCJrUOg_bh_siOsU-rZe3mJMu8p6z9rekkq4I" width="680" height="376" alt="k0oSXVunffhFolWAH8XXBlUsaBbpkrm-vsweWHJTZOmzSfKCQkH7Rks51QJVa2uHO_SWMh6wK2BTGHBVcr_OmU6sSgdh6go87VtnCJrUOg_bh_siOsU-rZe3mJMu8p6z9rekkq4I" style="border-style:none;vertical-align:middle;height:auto;" /></p>
+<p>
+建築家レム・コールハースが手がけたポルトガルの複合文化施設、「Casa da Música」。建物を東西南北・上下のあらゆる角度からシンボライズし、色も変えられるようになっています。文化施設らしく、たとえば作曲家の肖像画を当てがうと同じ色味が反映されるといったあそびのあるジェネレータも。<a href="http://www.casadamusica.com/">http://www.casadamusica.com/</a></p>
+<p><strong>▼テレビ朝日</strong>
+<img src="https://lh4.googleusercontent.com/dvipKFS6jI0x2v9gvm8I0onMhl4ezssqkx14a9NkqY3ItgjQpJ-hbjzrmOl6hxEK-Xp3wNzQF_h54_uEEd2WpOTyG0NqMrHBk5rU4xcdVFZ3dpuW8zlOnlkzA_LRWucoSTM07edB" width="680" height="381" alt="dvipKFS6jI0x2v9gvm8I0onMhl4ezssqkx14a9NkqY3ItgjQpJ-hbjzrmOl6hxEK-Xp3wNzQF_h54_uEEd2WpOTyG0NqMrHBk5rU4xcdVFZ3dpuW8zlOnlkzA_LRWucoSTM07edB" style="border-style:none;font-style:normal;font-weight:400;font-size:16px;font-family:'Trebuchet MS', 'Helvetica Neue', Helvetica, Tahoma, sans-serif;vertical-align:middle;height:auto;" />
+テレビ朝日のモーションロゴ。よく同社の番組が始まった時に上の方で動いていますね。パブリシティによると、全て動きが違うそうです。この動きをつくっている数値は、たとえばテレビ朝日の社員数なのか、過去に放送した番組の数なのか何なのか分かりませんが、ダイナミックな動きとオリジナリティはユニークですね。<a href="http://www.tv-asahi.co.jp/vi/flash_content/">http://www.tv-asahi.co.jp/vi/flash_content/</a>
+</p>
+<p><strong>▼EPFL（スイス連邦工科大学ローザンヌ校）</strong></p>
+<p><img src="https://lh5.googleusercontent.com/VmbGZLeSQSppISN0XdtfmUMuPYyDftQRduXj0mIH_oFel8YWMkSgyAVhERFr2LMFa-KtDStm5UEJf6PbwE4szamNao7j-ngoKmkexrYNx9-xvobxjdxjaFMfp9-jr1XZhgoGWGNO" width="680" height="381" alt="VmbGZLeSQSppISN0XdtfmUMuPYyDftQRduXj0mIH_oFel8YWMkSgyAVhERFr2LMFa-KtDStm5UEJf6PbwE4szamNao7j-ngoKmkexrYNx9-xvobxjdxjaFMfp9-jr1XZhgoGWGNO" style="border-style:none;vertical-align:middle;height:auto;" /></p>
+<p>EPFLでは、学生が卒業する時に、1人ひとりに名前や卒業年で生成するIDロゴを配布するそう。この時参加者から挙がったのは、その全てを並べた時にはどれも同じに見えるのではないか？という意見。こういった表現は、1人ひとりに向けてつくられる時に一層機能するのだろうという議論がありました。
+<a href="https://goo.gl/XV9ruV">https://goo.gl/XV9ruV
+</a><a href="https://www.epflalumni.ch/print-your-individual-logo/">https://www.epflalumni.ch/print-your-individual-logo/</a></p>
+<p><strong>▼Perlin Noise</strong>
+</p>
+<p><img src="https://lh5.googleusercontent.com/3GDedUxvbwjQcYNy1hQQwn7n7oJw8iOSARqsIM--qqRPseaUzQP6n_bhaQGzhsDp-hLo6rtCXUrYKqcBUeMIYlQGzxn8yFdodKoL52EaKeJ7S03tJR4uFCER1-63N6rwoOj4Af5q" width="680" height="193" alt="3GDedUxvbwjQcYNy1hQQwn7n7oJw8iOSARqsIM--qqRPseaUzQP6n_bhaQGzhsDp-hLo6rtCXUrYKqcBUeMIYlQGzxn8yFdodKoL52EaKeJ7S03tJR4uFCER1-63N6rwoOj4Af5q" style="border-style:none;vertical-align:middle;height:auto;" />
+パーリンノイズは、映画『トロン』（82年公開）の際、よりリアリティあるCGをつくってほしいと依頼されたケン・パーリンが開発したテクスチャ生成技法。雲や波、炎など、なめらかな質感を簡単につくることに優れています。まず一定数の座標にある勾配（角度）をランダムにつくり、それをもとに各地点の座標の高さを出していくことを無数に展開することで、微妙な違いのあるニュアンスを表現することができているようです。ちなみに、この技法が浦川さんの一番のお気に入りだそうです。
+</p>
+<p>▼<strong>Reaction Diffusion（反応拡散）</strong></p>
+<p><img src="https://lh5.googleusercontent.com/6t2HimLCOMudrzljpuJ84v8PISTDUyEJm-TeqSgpjFUdYP56xYMz2xq0nFICedo15mPrA31HcI_LbteI_stfgY6PF2_4flC_yvogbJidFOU0JH_sJ-HvWW8IVrUaLN21Tj3Ujcan" width="680" height="452" alt="6t2HimLCOMudrzljpuJ84v8PISTDUyEJm-TeqSgpjFUdYP56xYMz2xq0nFICedo15mPrA31HcI_LbteI_stfgY6PF2_4flC_yvogbJidFOU0JH_sJ-HvWW8IVrUaLN21Tj3Ujcan" style="border-style:none;vertical-align:middle;height:auto;" /></p>
+<p>（引用：<a href="http://blog-imgs-66.fc2.com/n/o/m/nombayeos5d/5D3_14-07-24_1019.jpg">http://blog-imgs-66.fc2.com/n/o/m/nombayeos5d/5D3_14-07-24_1019.jpg</a>）
+語弊を恐れずにいえば、生き物の個性はすべて遺伝で起こる“ノイズ”の繰り返し。ちょっとずつのノイズがどの生き物も唯一無二のものにしています。上の画像のように、縞のある生き物は2種類以上の色素をもっていて、同色の色素細胞が集まったり異色が反発しあったりすることで模様ができています。こうしたノイズの生成は、自然でこそ古来から行われているんですね。ナチュラル・ジェネレイティブと言ってもいいかもしれません。</p>
+<p><strong>人間×コンピュータの協業で生まれる表現</strong></p>
+<p><img src="https://lh3.googleusercontent.com/TiBVJOGMFxZBpk7Lb-f0xvFAhTtB48twl1izgkrFzzWpsP-vnDiLR7Hb6QyFOLrgmH_BgvPRxYmoFykjLZT2Uvgf2reBBq_FU6Aj0N_85NsN5Fq1V2BX57WVk1LYQF26m3-AWzUl" width="680" height="453" alt="TiBVJOGMFxZBpk7Lb-f0xvFAhTtB48twl1izgkrFzzWpsP-vnDiLR7Hb6QyFOLrgmH_BgvPRxYmoFykjLZT2Uvgf2reBBq_FU6Aj0N_85NsN5Fq1V2BX57WVk1LYQF26m3-AWzUl" style="border-style:none;vertical-align:middle;height:auto;" /></p>
+<p>冒頭で述べた通り、ジェネラティブデザインとはアルゴリズムで自動生成する表現のこと。改めて「なぜジェネラティブデザインをやるのか？」と考えた時、それは「人の頭では思いつかないことをやる」ことに動機があるのかもしれません。しかし翻って、その「人知を超えた発想」と、「humanity（人間性）」を掛け合わせると、どんなことができるのだろう。</p>
+<p>矛盾するようだけれど、「人間の最も優れている能力は、“問題を引き起こすこと”」（<a href="http://www.loftwork.jp/column/2017/20170115_companymtg2.aspx">ソニーCSL北野所長談</a>）という言葉の通り、ノイズを起こすことは人間らしさでもある。コンピュータの合理的な表現と、合理的に動きたくてもつい非合理的に動いてしまう人間の性（さが）を混ぜ合わせた時に生まれる表現の先に、新しい景色が広がっている気がするのです。BioClubの話に戻すと、今まで無機物なものを相手にしていたテクノロジーやエンジニアリングの領域を、有機的で生命的なものへ開放するとどうなるか、という試みを行う場でもあります。サイエンティストだけが集う場ではありません。サイエンティストも、デザイナーも、料理人やビジネスパーソンも、高校生や親子で参加される方もいます。こんなビオトープのようなコミュニティのロゴは、一体どんなものになるのか？活動はどう広がっていくのか？ これからのBioClubも、どうぞお楽しみに!</p>
+<p><img src="https://lh6.googleusercontent.com/CaRI54r1bP6u37KLmB6Vyu_LGirbhmyfAzgtXiUSkZgmafa9zwgr3SW8QKnOGlpW5B4NHp8vFwvvz8U8RUR-ezws4ixcqPVL3H9RjVelbsc84BeSV-gh1fITYeyLUUp7fqAOSZnZ" width="680" height="453" alt="CaRI54r1bP6u37KLmB6Vyu_LGirbhmyfAzgtXiUSkZgmafa9zwgr3SW8QKnOGlpW5B4NHp8vFwvvz8U8RUR-ezws4ixcqPVL3H9RjVelbsc84BeSV-gh1fITYeyLUUp7fqAOSZnZ" style="border-style:none;vertical-align:middle;height:auto;" /></p>
+<p></p>
+									
+				
+									
+	
+			</div><!-- .single-content -->
+            
+			
+			
+											
+																
+			<div class="single-head-pager-box type-white">
+				<div class="ct-inner ct-side-space txt-c">
+					<div class="single-pager-text-box">
+																		
+						<div class="single-pager-date-box">
+							<div class="table-style">
+								<div class="table-cell va-mid">
+									<a href="http://bioclub.org/project_report/">
+																					一覧ページへ
+																			</a>
+								</div>
+							</div>
+						</div>
+					
+																			<div class="single-pager-box next">
+								<div class="table-style">
+									<a href="http://bioclub.org/project-report/weybot-report" class="table-cell va-mid">
+										<p class="single-pager-text">Next</p>
+									</a>
+								</div>
+							</div>
+											</div>
+				</div>
+			</div>
+
+										<aside>
+					<div class="ct-inner ct-side-space">
+													<h2 class="h2 ct-bd-ttl">新着記事</h2>
+												<ul class="article-list col3">
+															<li class="article">
+	<a href="http://bioclub.org/project-report/イベントレポート-バイオリソースは生命の方舟-ダイバーシティが拡げるバイオの可能性-科学技術と社会を縁の下で支える-バイオリソース-をどう伝え-活用するか" class="ct-block hv-op">
+	
+		<p class="ct-label-wrap">
+							<span class="ct-label text-small lg type va-top">project reports</span>
+						
+																																						<span class="ct-label text-small lg va-top status">終了</span>
+																
+												
+						
+													
+		</p>
+		
+		
+	
+									
+		
+		
+										
+		<h2 class="article-ttl">
+			科学技術と社会を縁の下で支える「バイオリソース」をどう伝え、活用するか /「バイオリソースは生命の方舟〜ダイバーシティが拡げるバイオの可能性〜」
+		</h2>
+	</a>
+	
+																														<div class="tag-btn"><a href="http://bioclub.org/tags/イベント">#トークイベント</a></div>
+		
+							<div class="thumb">
+				<a href="http://bioclub.org/project-report/イベントレポート-バイオリソースは生命の方舟-ダイバーシティが拡げるバイオの可能性-科学技術と社会を縁の下で支える-バイオリソース-をどう伝え-活用するか" class="ct-block hv-op">
+					<span class="img-wrapper"><img src="http://bioclub.org/assets/images/原稿1番目_改.jpg" alt="科学技術と社会を縁の下で支える「バイオリソース」をどう伝え、活用するか /「バイオリソースは生命の方舟〜ダイバーシティが拡げるバイオの可能性〜」"></span>
+					
+																<p class="ct-link-lead">2021年、理化学研究所バイオリソース研究センターは設立から20周年を迎えます。その節目を迎えるにあたり、アウトリーチ活動を通した社会との連携を目指します。2021年3月6日、そのファーストステップとして、一般向けにBRCの事業の紹介を行いバイオリソースの活用法や市民とのコミュニケーションについて方向性を探ることを目的として「バイオリソースは生命の方舟：ダイバーシティが拡げるバイオの可能性」を実施しました。</p>
+									</a>
+			</div>
+			</li>															<li class="article">
+	<a href="http://bioclub.org/project-report/微生物多様性から都市におけるウェルビーイングを探る-3か月でアウトリーチ活動を実践-living-machine-project" class="ct-block hv-op">
+	
+		<p class="ct-label-wrap">
+							<span class="ct-label text-small lg type va-top">project reports</span>
+						
+																																
+						
+													
+		</p>
+		
+		
+	
+									
+		
+		
+										
+		<h2 class="article-ttl">
+			微生物多様性から都市におけるウェルビーイングを探る。 3か月でアウトリーチ活動を実践「Living Machine Project」
+		</h2>
+	</a>
+	
+																														<div class="tag-btn"><a href="http://bioclub.org/tags/ワークショップ">#ワークショップ</a></div>
+		
+							<div class="thumb">
+				<a href="http://bioclub.org/project-report/微生物多様性から都市におけるウェルビーイングを探る-3か月でアウトリーチ活動を実践-living-machine-project" class="ct-block hv-op">
+					<span class="img-wrapper"><img src="http://bioclub.org/assets/images/panasonic-flf_living_machine-8.jpg" alt="微生物多様性から都市におけるウェルビーイングを探る。 3か月でアウトリーチ活動を実践「Living Machine Project」"></span>
+					
+																<p class="ct-link-lead">パナソニックにおいて先行開発に特化したプロジェクトを推進するデザインチーム「FUTURE LIFE FACTORY」は、都市生活者のウェルビーイングを考えるにあたり、土壌に生息する微生物の多様性に着目。長期展望から微生物多様性の重要性を啓発し、都市生活者の間で対話や議論を喚起することを目的に「Living Machine Project」を立ち上げました。</p>
+									</a>
+			</div>
+			</li>															<li class="article">
+	<a href="http://bioclub.org/project-report/wet-ware-fab-fabric-1-1" class="ct-block hv-op">
+	
+		<p class="ct-label-wrap">
+							<span class="ct-label text-small lg type va-top">project reports</span>
+						
+																																						<span class="ct-label text-small lg va-top status">終了</span>
+																
+												
+						
+													
+		</p>
+		
+		
+	
+									
+		
+		
+																		
+																																																		
+													
+						<div class="event-date">2018.11.24 (土) 18:00 – </div>
+				
+		<h2 class="article-ttl">
+			WET - WARE / FAB - FABRIC 第一回目「生命を身につける」 半生命的素材とはなにか イベントレポート
+		</h2>
+	</a>
+	
+																									<div class="tag-btn"><a href="http://bioclub.org/tags/news">#NEWS</a></div>
+		
+							<div class="thumb">
+				<a href="http://bioclub.org/project-report/wet-ware-fab-fabric-1-1" class="ct-block hv-op">
+					<span class="img-wrapper"><img src="http://bioclub.org/assets/images/wwff01.jpg" alt="WET - WARE / FAB - FABRIC 第一回目「生命を身につける」 半生命的素材とはなにか イベントレポート"></span>
+					
+																<p class="ct-link-lead">Design researcher Kazuya Kawasaki and Bio Club director Chiaki Ishizuka organized the WET - WARE - / FAB - FABRIC working group to study and practice innovation at the intersection of biotechnology and fashion. The commemorative first meeting reconsidered the concept of conventional &quot;anthropocentric&quot; clothing design and featured Mr. Yohsuke Takahashi, curator at the 21st Century Museum of Contemporary Art, Kanazawa who actively plans bio-art exhibitions.</p>
+									</a>
+			</div>
+			</li>													</ul>
+					</div>
+					
+				</aside>
+						
+        </article>
+
+	<div class="single-footer-wrap">
+	
+<nav id="tag-modal">
+    <div class="tag-modal-ttl">tags</div>
+    <ul>
+					<li><a href="http://bioclub.org/tags/weekly_meeting">#WeeklyMeeting<span>&nbsp;(29)</span></a></li>
+					<li><a href="http://bioclub.org/tags/ワークショップ">#ワークショップ<span>&nbsp;(32)</span></a></li>
+					<li><a href="http://bioclub.org/tags/イベント">#トークイベント<span>&nbsp;(33)</span></a></li>
+					<li><a href="http://bioclub.org/tags/ミートアップ">#ミートアップ<span>&nbsp;(7)</span></a></li>
+					<li><a href="http://bioclub.org/tags/news">#NEWS<span>&nbsp;(10)</span></a></li>
+					<li><a href="http://bioclub.org/tags/report">#REPORT<span>&nbsp;(11)</span></a></li>
+					<li><a href="http://bioclub.org/tags/biohack-academy">#BioHack Academy<span>&nbsp;(12)</span></a></li>
+					<li><a href="http://bioclub.org/tags/project">#PROJECT<span>&nbsp;(2)</span></a></li>
+		    </ul>
+</nav>
+<div id="tag-modal-close"></div>
+
+<footer id="site-footer">
+    <div class="copyright">&copy; 2024 Open BioClub</div>
+</footer>
+
+<script src="//ajax.googleapis.com/ajax/libs/jquery/1.11.2/jquery.min.js"></script>
+<script>window.jQuery || document.write('<script src="/common/css/js/vendor/jquery-1.11.2.min.js"><\/script>')</script>
+<script src="/common/js/vendor/jquery.easing.1.3.js"></script>
+<script src="/common/js/vendor/jquery.scrollbar.min.js"></script>
+<script src="/common/js/vendor/imagesloaded.pkgd.min.js"></script>
+<script src="/common/js/vendor/masonry.pkgd.min.js"></script>
+<script src="/common/js/vendor/jquery.touchSwipe.min.js"></script>
+<script src="/common/js/vendor/jquery.BlackAndWhite.js"></script>
+<script src="/common/js/vendor/slick.min.js"></script>
+<script src="/common/js/main.js?20180322"></script>
+<script src="/common/js/common.js"></script>
+	</div>
+	
+</body>
+</html>

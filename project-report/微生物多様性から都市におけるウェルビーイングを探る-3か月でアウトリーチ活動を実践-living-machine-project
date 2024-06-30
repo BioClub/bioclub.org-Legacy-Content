@@ -1,0 +1,485 @@
+<!doctype html>
+	<html class="no-js" lang="ja">
+    <head prefix="og: http://ogp.me/ns# website: http://ogp.me/ns/website#">
+	<meta charset="utf-8">
+	<meta http-equiv="X-UA-Compatible" content="IE=edge">
+	<title>BioClub</title>
+	
+			<meta name="description" content="bioclub">
+		
+			<meta property="og:description" content="">
+		
+		<meta property="og:title" content="">
+		
+	<meta property="og:url" content="http://bioclub.org/project-report/微生物多様性から都市におけるウェルビーイングを探る-3か月でアウトリーチ活動を実践-living-machine-project">
+			
+		
+					
+	<meta property="og:type" content="website">
+	
+	<meta name="viewport" content="width=device-width">
+	<script src="/common/js/viewport.js"></script>
+	
+	<link rel="stylesheet" href="/common/css/normalize.min.css">
+	<link rel="stylesheet" href="/common/css/main.css?20170322">
+	<script src="/common/js/vendor/modernizr-2.8.3-respond-1.4.2.min.js"></script>
+	<script src="https://use.fontawesome.com/0dfbc630d2.js"></script>
+	<link rel="shortcut icon" href="/favicon.ico">
+	
+	<meta property="og:site_name" content="BioClub">
+	<meta property="article:publisher" content="https://www.facebook.com/bioclubshibuya/">
+	
+	<!-- google map api -->
+	<script type='text/javascript' charset='utf-8' src='//maps.googleapis.com/maps/api/js?&key=AIzaSyDgoNhhsnaOD8gnESPlY5xC1yr6y-R_3WI'></script>
+	
+	<!-- Global site tag (gtag.js) - Google Analytics -->
+	<script async src="https://www.googletagmanager.com/gtag/js?id=UA-121405163-1"></script>
+	<script>
+		window.dataLayer = window.dataLayer || [];
+		function gtag(){dataLayer.push(arguments);}
+		gtag('js', new Date());
+		
+		gtag('config', 'UA-121405163-1');
+	</script>
+<style>
+@media screen and (min-width: 641px) {
+  #single-wrapper .single-eyecatch {
+    height:580px;
+  }
+}</style>
+
+</head>
+
+<body class="single">
+		
+        <header id="site-header">
+            
+						<div class="header-logo-box img-style" id="logo">
+													<a href="/" class="block">
+				         							<h1 class="logo-img-slider-wrap">
+						<a href="/" class=""><img alt="BioClub" src="/common/img/logo.gif"></a>
+					</h1>
+				 
+				
+															 </a>
+												</div>
+			
+            <nav class="subnav">
+                <ul>
+                    <li>
+						<a href="http://bioclub.org/event/">
+								
+								events
+													</a>
+					</li>
+                    <li>
+						<a href="http://bioclub.org/news/">
+								
+								news
+													</a>
+					</li>
+											<li>
+							<a href="http://bioclub.org/project/">
+																	report
+															</a>
+						</li>
+										
+                </ul>
+									<div class="lang">
+						<div class="en"><a href="http://bioclub.org/en/" class="hv-op">en</a></div>
+						<div class="ja"><span>ja</span></div>
+					</div>
+				            </nav>
+			<div id="tag-show">#</div>
+			<div class="open-global-nav-btn" id="open-global-nav-btn"><span class="bar bar01"></span><span class="bar bar02"></span><span class="bar bar03"></span></div>
+			
+        </header>
+		
+		
+		<div class="open-global-nav" id="open-global-nav">
+			<div class="nav-inner" id="nav-inner">
+				<div class="btn-close txt-c" id="open-global-nav-close"><span class="bar bar01"></span><span class="bar bar02"></span></div>
+				<div class="table-style">
+					<div class="table-cell nav-box">
+						<div class="link-inner">
+							
+															<ul class="global-nav-lang-link">
+									<li><a href="http://bioclub.org/en/" class="hv-op">en</a></li>
+									<li><span>ja</span></li>
+								</ul>
+														
+							<ul class="global-nav-link">
+								<li>
+									<a href="http://bioclub.org/event/" class="hv-op">
+											
+											events
+																			</a>
+								</li>
+								<li>
+									<a href="http://bioclub.org/news/" class="hv-op">
+											
+											news
+																			</a>
+								</li>
+																											<li>
+											<a href="http://bioclub.org/project/" class="hv-op">
+																									report
+																							</a>
+										</li>
+																									
+															</ul>
+							
+							<ul class="global-nav-sub-link">
+																	<li><a class="hv-op" href="http://bioclub.org/about/">about</a></li>
+																<li><a href="/contact/" class="hv-op"><i class="fa fa-envelope"></i></a></li>
+								<li><a href="https://github.com/BioClub" target="_blank" class="hv-op"><i class="fa fa-github"></i></a></li>
+								<li><a href="https://www.facebook.com/bioclubtokyo/" target="_blank" class="hv-op"><i class="fa fa-facebook"></i></a></li>
+							</ul>
+						</div>
+					</div>
+				</div>
+			</div>
+		</div>
+			
+        <article id="single-wrapper">
+        	                        	                	<div class="single-eyecatch" style="background-image:url(http://bioclub.org/assets/images/panasonic-flf_living_machine-8.jpg)"></div>
+            	            			
+											
+																
+			<div class="single-head-pager-box">
+				<div class="ct-inner ct-side-space txt-c">
+					<div class="single-pager-text-box">
+																			<div class="single-pager-box prev">
+								<div class="table-style">
+									<a href="http://bioclub.org/project-report/wet-ware-fab-fabric-1-1" class="table-cell va-mid">
+										<p class="single-pager-text">Prev</p>
+									</a>
+								</div>
+							</div>
+												
+						
+																													
+						<div class="single-pager-date-box">
+							<div class="table-style">
+								<div class="table-cell va-mid">
+																	</div>
+							</div>
+						</div>
+					
+																			<div class="single-pager-box next">
+								<div class="table-style">
+									<a href="http://bioclub.org/project-report/イベントレポート-バイオリソースは生命の方舟-ダイバーシティが拡げるバイオの可能性-科学技術と社会を縁の下で支える-バイオリソース-をどう伝え-活用するか" class="table-cell va-mid">
+										<p class="single-pager-text">Next</p>
+									</a>
+								</div>
+							</div>
+											</div>
+				</div>
+			</div>
+			
+            <header class="single-header">
+				
+								<div class="single-post-info-box">
+						<span class="ct-label lg va-top type">project reports</span>
+
+						
+													
+
+
+
+
+				</div>
+				
+				<h1 class="ct-single-ttl h1">微生物多様性から都市におけるウェルビーイングを探る。 3か月でアウトリーチ活動を実践「Living Machine Project」</h1>
+			   
+																	<div class="ct-tag-btn-list-wrap">
+													<div class="tag-btn"><a href="http://bioclub.org/tags/ワークショップ">#ワークショップ</a></div>
+													<div class="tag-btn"><a href="http://bioclub.org/tags/report">#REPORT</a></div>
+											</div>
+							</header>
+		
+			<div class="single-content">
+								
+																					<h2>概要</h2>
+																
+				
+													
+											<p>パナソニックにおいて先行開発に特化したプロジェクトを推進するデザインチーム「FUTURE LIFE FACTORY」は、都市生活者のウェルビーイングを考えるにあたり、土壌に生息する微生物の多様性に着目。長期展望から微生物多様性の重要性を啓発し、都市生活者の間で対話や議論を喚起することを目的に「Living Machine Project」を立ち上げました。</p>
+<p><a href="/jp/tokyo/" target="_blank" rel="noreferrer noopener">FabCafe Tokyo</a>は、バイオテクノロジーの新しい可能性を追求するプラットフォーム「<a href="https://fabcafe.com/jp/labs/tokyo/bioclub/">BioClub（バイオクラブ）</a>」、<a href="https://loftwork.com/jp/">株式会社ロフトワーク</a>と共にLiving Machineプロジェクトチームに参画。初期フェーズの取り組みとして、プロジェクトのコンセプト立案から、オープンな共創プロセスを通じたアウトリーチ活動と企画展示「微生物と自然へバイオダイビング〜バイオダイバーシティ〜」までを3か月間というショートタームの中で実現しました。</p>
+<p style="text-align:right;">　　　　　　　執筆：吉澤 瑠美  /  編集：Loftwork, FabCafe</p>
+<p><small>＊ウェルビーイング（well-being）：身体的、精神的、社会的に良好な状態</small></p>
+									
+				
+													
+											<h2>プロジェクト概要</h2>
+<ul><li><strong>プロジェクト名</strong>：Living Machine Project – 都市における微生物多様性について考える</li><li><strong>プロジェクト期間</strong>：2020年9月4日 – 2020年11月30日</li></ul>
+									
+				
+													
+											<h2>体制</h2>
+<ul><li>プロジェクト責任者／デザイナー：シャドヴィッツ・マイケル<br />（株式会社パナソニック Future Life Factory）</li><li>プロデュース：野村 善文（株式会社ロフトワーク／FabCafe Tokyo）</li><li>プロジェクトマネージャー：戴 薪辰（株式会社ロフトワーク）</li><li>ディレクター：細谷 祥央（株式会社ロフトワーク／BioClub）</li><li>スーパーバイザー：武田真梨子（株式会社ロフトワーク）</li><li>アドバイザー：伊藤 光平（GoSWAB）</li></ul>
+									
+				
+													
+											<h2>バイオテクノロジーとデザインの視点を融合し、3か月間でアウトリーチ活動、企画展示を実施</h2>
+<p><br />FUTURE LIFE FACTORYのデザイナーであるマイケル・シャドヴィッツ氏は、土壌に生息する微生物多様性に、抗炎症作用や免疫調節機能、ストレス耐性を高めるなどの性質があるという研究結果から、新しいプロジェクトの着想を得ました。</p>
+<p>2020年以降の世界的な新型コロナウィルス感染拡大の影響により、人々は目に見えない細菌やウィルスに対して強い警戒感を抱かざるをえない状況が続いています。そんな中、マイケル氏は空気清浄機によって多くの微生物を除菌するというやり方ではなく、<strong>街や生活空間の微生物多様性を豊かにすることで、都市生活者のウェルビーイング*を促進できるのではないかと考えました。</strong>そこで、長期展望から都市における微生物多様性の重要性を啓発し、このテーマに関する対話や議論を喚起することを目的に立ち上げたのが「Living Machine Project」です。</p>
+<p>通常、バイオテクノロジーの領域で産学協働プロジェクトを行うには、多くの時間やコミュニケーションが必要となります。しかし先行開発、こと初期フェーズにおいて研究に莫大な時間やコストをかけることは現実的な選択ではありませんでした。</p>
+<p>そこで、今回のプロジェクトでは、ロフトワークとFabCafe Tokyoから、バイオテクノロジーの学術的知見を持つ2人のクリエイティブディレクターがプロジェクトチームに参加。ディレクションを担当したのは、バイオテクノロジーの学びや体験を市民に向けて開くウェットラボ「BioClub」のラボマネージャーで、多様性生物学の修士号を持つ細谷祥央。スーパーバイザーとして加わったのは生物環境科学 修士号、さらに科学館 科学コミュニケーターとしての経歴を持つクリエイティブディレクター 武田真梨子です。</p>
+<p>これにより、FUTURE LIFE FACTORYの持つデザイン的視点、ロフトワークが提供するバイオテクノロジー的知見がチーム内に揃いました。プロジェクトチームは、最初のステップとして都市生活者へのアウトリーチにゴールを定め、プロジェクトの持つ仮説をコンセプト化して短いサイクルで検証しながら都市生活者に訴求するイベントを企画しました。</p>
+<p>本プロジェクトの特色として、デザイン、科学、そしてプロジェクト・マネジメントの専門家が、それぞれフラットな立場でディスカッションを繰り返しながら、全てのプロセスを進行しました。これにより、約3ヶ月という短期間の中で、バイオテクノロジーとデザインの視点を有機的に融合させながら質の高いアウトプットを展開しました。</p>
+<p></p>
+<p><img src="https://d1lbosgzcsxxia.cloudfront.net/wp-content/uploads/sites/3/2021/03/panasonic-flf_living_machine-7.png" alt="panasonic-flf_living_machine-7.png" /><br /></p>
+<p></p>
+									
+				
+																												<h2>親子で身近にある「微生物の世界」を体験するワークショップ</h2>
+																
+				
+													
+											<p>プロジェクトチームは、都市生活者に向けて微生物多様性への関心を喚起することを念頭に、バイオテクノロジーとの接点として親しみやすい「教育」の文脈のもとにアウトリーチ活動を実施しました。</p>
+<p>具体的には、自らの五感を使いながら、身近にある微生物の世界を実感できる親子向けのワークショップ・プログラムを開発。バイオテクノロジーに関する知識を持たない子供たちが楽しみながら、科学的に適切な形で微生物を採取、培養、観察できるというものです。</p>
+<p>イベントは、地域に根ざしたカフェでありつつ、世界に開かれた情報発信拠点としての機能を持つFabCafe Tokyoを会場として行いました。<br /></p>
+<h2>環境生物学の分野で先進的な取り組みを行う『GoSWAB』とのコラボレーション</h2>
+<p>ワークショップの企画に際しては、より専門的な知見を得るため、環境生物学の研究者であり、日本の都市環境における微生物のDNA解析プロジェクト『GoSWAB』を主宰する伊藤光平氏をアドバイザーとして招聘しました。</p>
+<p>参加者の身の回りに生息するさまざまな種類の微生物を知り、微生物の動きを視認することで、微生物の世界を体感してもらう機会として、伊藤氏とプロジェクトチームは衛生検査などで広く使用されている「スタンプ培地」を使ったワークショップを提案。参加者が微生物を採取し、培養、観察を行うプロセスを検討しました。また、プレワークショップの実施によってプロセスを検証すると同時に、参加者に提供できるワークショップ体験の精度を高めました。</p>
+<p>ワークショップはFabCafe TokyoのWebサイトを通じてオープンに告知され、8組・20名の親子が参加。代々木公園や渋谷の街を歩きながら、五感を駆使して自然物を採集、観察することで自然環境と触れ合い、今まで知らなかった微生物の世界に触れる体験を提供しました。</p>
+<p></p>
+<p><img src="https://d1lbosgzcsxxia.cloudfront.net/wp-content/uploads/sites/3/2021/03/panasonic-flf_living_machine-2.jpg" alt="panasonic-flf_living_machine-2.jpg" /><br /></p>
+<p></p>
+<p><img src="https://d1lbosgzcsxxia.cloudfront.net/wp-content/uploads/sites/3/2021/03/panasonic-flf_living_machine-6.jpg" alt="panasonic-flf_living_machine-6.jpg" /><br /></p>
+<p></p>
+									
+				
+																					
+																						
+					
+																				
+				
+													
+											<h2>FabCafeのオープンスペースを生かした体験型展示</h2>
+<p>ワークショップによるアウトリーチ活動を経て、参加者が体験した微生物の世界をより多くの都市生活者に向けて開き、関心を喚起するために、FabCafe Tokyoでは引き続き企画展示「微生物と自然へバイオダイビング〜バイオダイバーシティ〜」を開催。</p>
+<p>ワークショップで採取された渋谷の街に生息する微生物のポスターやワークショップのプロセスを紹介する資料を展示したほか、実際に生きている微生物の映像を覗き見ることができる体験型展示を開発し多くの反響を呼びました。</p>
+<p>プロジェクト参画から展示の開催までにかかった期間は実質約3か月。短期間でのアウトプットながら、プロジェクトの初期フェーズとして、仮説検証を盛り込みながら今後につながるアクションを実践できました。</p>
+<p>ウイルスや微生物といった、肉眼で見えない世界に高い関心が集まる昨今。Living Machine Projectは「彼ら」と共生する社会を目指すわたしたちにとって大きな気づきを与えるプロジェクトになりそうです。</p>
+<h2></h2>
+<p><img src="https://d1lbosgzcsxxia.cloudfront.net/wp-content/uploads/sites/3/2021/03/panasonic-flf_living_machine-3.jpg" alt="panasonic-flf_living_machine-3.jpg" /><br /></p>
+<h2></h2>
+									
+				
+																					
+																			<p><img src="http://bioclub.org/assets/images/panasonic-flf_living_machine-9.jpg" alt=""></p>
+													<p><img src="http://bioclub.org/assets/images/panasonic-flf_living_machine-8.jpg" alt=""></p>
+													<p><img src="http://bioclub.org/assets/images/3-2.jpg.png" alt=""></p>
+																
+					
+													
+											<h2>メンバーズボイス</h2>
+<blockquote>For FUTURE LIFE FACTORY this was an interesting project about a problem, place, and action. The problem being that children were spending less time outdoors and having less contact with the natural biome. During a pandemic, this becoming even more so. We considered different ways to approach this issue, but in the end we chose a hands on activity, located in our neighborhood of Shibuya, where kids can go explore the biodiversity of their surroundings, and consider our connection with our surroundings. Working together with the Bio Lab and Loftwork, forming a team of science experts and designers, we were able to hypothesize, test, and create a memorable activity that also hints at how design and science could work together going forward.
+<strong></strong>
+<strong>Shadovitz Michael（Panasonic Corporation, FUTURE LIFE FACTORY）</strong></blockquote>
+<blockquote>「殺菌をすること」が狂気的に日常に溶け込んだ都市空間の中で「微生物と共に生きることについて考える」ことで私たちがより「豊か」でいられるのではないか、という仮説に立つのは一見時代と逆行しているように見えますが...感染リスクが完全にゼロになることはきっとないであろう今、「どう菌と一緒に生きていけるか」という問いは、これからの私たちにとって、実は考えないといけない大切なことなのではないかと思います。マイケルさんのユニークな着眼点を軸に、チームメンバーのそれぞれの知識や経験、時に外部の協力も得ながら(伊藤 光平さんありがとうございました！)少しずつ肉付けをしてくプロセスはとても実験的で楽しかったです！余談ですが、今回のワークショップで、参加者の子供たちが、1日飽きずに楽しそうに微生物を観察している横で、プロジェクトメンバーも同じくらいクマムシ探しに勤しんでいたのは楽しんでいたのは内緒です笑。
+<strong></strong>
+<strong>野村 善文（FabCafe Tokyo / ロフトワーク プロデューサー）</strong></blockquote>
+<blockquote>BioClubのいいところである、「手っ取り早さ」が発揮されたプロジェクトだったように思います。アウトリーチは、なんらかの物事をただ誰かに「伝える」だけで終わるのではなく、それについて「考えてもらう」ことの方が重要だと思います。無事伝わって、理解してくれたとしても、それについて考えるかどうかは全く別の問題。何かについて「考えてもらう」には、その当事者になってもらうのが手っ取り早いと思っています。BioClubは、バイオ実験のようにデザインされたものから、自然や生き物の観察のようなアンコントローラブルなものもひっくるめて、バイオに関するあらゆる科学技芸について「手っ取り早く」考えるオープンな場所として、今後もこのようなアウトリーチ活動に協力していきたいです。
+<strong>細谷 祥央（ロフトワーク BioClub ラボマネージャー / クリエイティブディレクター）</strong></blockquote>
+<blockquote>とにかく、すごく楽しいプロジェクトでした。FabCafeやロフトワークのメンバーはもちろん、クライアントであるマイケルさんと一つの部活のようにイベントを企画し、そして実現しました。僕は、もともと微生物についての知識がほぼゼロの状態でプロジェクトの途中からチームに参加しましたが、それでもメンバーと一緒に多くのことを学びました。
+未来の都市づくりを決めるのは、都市の住民自身です。自分が住む地域生活のデザインに責任を持ってコミットするのは当たり前のことです（残念ながら、現代では多くの人がそのことを忘れがちのようですが...）。今回のプロジェクトのねらいは、都市生活者が「観察」「認識」「蓄積」を体験することで、「身の回りに使えそうなものは何があるか、どう取り入れるか」といったことを、自分自身の手を動かしながら考えるきっかけを提供することでした。これからも、このような機会を広げていきたいですね。
+<strong></strong>
+<strong>戴 薪辰（ロフトワーク クリエイティブディレクター）</strong></blockquote>
+									
+				
+									
+	
+			</div><!-- .single-content -->
+            
+			
+			
+											
+																
+			<div class="single-head-pager-box type-white">
+				<div class="ct-inner ct-side-space txt-c">
+					<div class="single-pager-text-box">
+																			<div class="single-pager-box prev">
+								<div class="table-style">
+									<a href="http://bioclub.org/project-report/wet-ware-fab-fabric-1-1" class="table-cell va-mid">
+										<p class="single-pager-text">Prev</p>
+									</a>
+								</div>
+							</div>
+												
+						<div class="single-pager-date-box">
+							<div class="table-style">
+								<div class="table-cell va-mid">
+									<a href="http://bioclub.org/project_report/">
+																					一覧ページへ
+																			</a>
+								</div>
+							</div>
+						</div>
+					
+																			<div class="single-pager-box next">
+								<div class="table-style">
+									<a href="http://bioclub.org/project-report/イベントレポート-バイオリソースは生命の方舟-ダイバーシティが拡げるバイオの可能性-科学技術と社会を縁の下で支える-バイオリソース-をどう伝え-活用するか" class="table-cell va-mid">
+										<p class="single-pager-text">Next</p>
+									</a>
+								</div>
+							</div>
+											</div>
+				</div>
+			</div>
+
+										<aside>
+					<div class="ct-inner ct-side-space">
+													<h2 class="h2 ct-bd-ttl">新着記事</h2>
+												<ul class="article-list col3">
+															<li class="article">
+	<a href="http://bioclub.org/project-report/イベントレポート-バイオリソースは生命の方舟-ダイバーシティが拡げるバイオの可能性-科学技術と社会を縁の下で支える-バイオリソース-をどう伝え-活用するか" class="ct-block hv-op">
+	
+		<p class="ct-label-wrap">
+							<span class="ct-label text-small lg type va-top">project reports</span>
+						
+																																						<span class="ct-label text-small lg va-top status">終了</span>
+																
+												
+						
+													
+		</p>
+		
+		
+	
+									
+		
+		
+										
+		<h2 class="article-ttl">
+			科学技術と社会を縁の下で支える「バイオリソース」をどう伝え、活用するか /「バイオリソースは生命の方舟〜ダイバーシティが拡げるバイオの可能性〜」
+		</h2>
+	</a>
+	
+																														<div class="tag-btn"><a href="http://bioclub.org/tags/イベント">#トークイベント</a></div>
+		
+							<div class="thumb">
+				<a href="http://bioclub.org/project-report/イベントレポート-バイオリソースは生命の方舟-ダイバーシティが拡げるバイオの可能性-科学技術と社会を縁の下で支える-バイオリソース-をどう伝え-活用するか" class="ct-block hv-op">
+					<span class="img-wrapper"><img src="http://bioclub.org/assets/images/原稿1番目_改.jpg" alt="科学技術と社会を縁の下で支える「バイオリソース」をどう伝え、活用するか /「バイオリソースは生命の方舟〜ダイバーシティが拡げるバイオの可能性〜」"></span>
+					
+																<p class="ct-link-lead">2021年、理化学研究所バイオリソース研究センターは設立から20周年を迎えます。その節目を迎えるにあたり、アウトリーチ活動を通した社会との連携を目指します。2021年3月6日、そのファーストステップとして、一般向けにBRCの事業の紹介を行いバイオリソースの活用法や市民とのコミュニケーションについて方向性を探ることを目的として「バイオリソースは生命の方舟：ダイバーシティが拡げるバイオの可能性」を実施しました。</p>
+									</a>
+			</div>
+			</li>															<li class="article">
+	<a href="http://bioclub.org/project-report/wet-ware-fab-fabric-1-1" class="ct-block hv-op">
+	
+		<p class="ct-label-wrap">
+							<span class="ct-label text-small lg type va-top">project reports</span>
+						
+																																						<span class="ct-label text-small lg va-top status">終了</span>
+																
+												
+						
+													
+		</p>
+		
+		
+	
+									
+		
+		
+																		
+																																																		
+													
+						<div class="event-date">2018.11.24 (土) 18:00 – </div>
+				
+		<h2 class="article-ttl">
+			WET - WARE / FAB - FABRIC 第一回目「生命を身につける」 半生命的素材とはなにか イベントレポート
+		</h2>
+	</a>
+	
+																									<div class="tag-btn"><a href="http://bioclub.org/tags/news">#NEWS</a></div>
+		
+							<div class="thumb">
+				<a href="http://bioclub.org/project-report/wet-ware-fab-fabric-1-1" class="ct-block hv-op">
+					<span class="img-wrapper"><img src="http://bioclub.org/assets/images/wwff01.jpg" alt="WET - WARE / FAB - FABRIC 第一回目「生命を身につける」 半生命的素材とはなにか イベントレポート"></span>
+					
+																<p class="ct-link-lead">Design researcher Kazuya Kawasaki and Bio Club director Chiaki Ishizuka organized the WET - WARE - / FAB - FABRIC working group to study and practice innovation at the intersection of biotechnology and fashion. The commemorative first meeting reconsidered the concept of conventional &quot;anthropocentric&quot; clothing design and featured Mr. Yohsuke Takahashi, curator at the 21st Century Museum of Contemporary Art, Kanazawa who actively plans bio-art exhibitions.</p>
+									</a>
+			</div>
+			</li>															<li class="article">
+	<a href="http://bioclub.org/project-report/bugsnouryo-sai-report" class="ct-block hv-op">
+	
+		<p class="ct-label-wrap">
+							<span class="ct-label text-small lg type va-top">project reports</span>
+						
+																																						<span class="ct-label text-small lg va-top status">終了</span>
+																
+												
+						
+													
+		</p>
+		
+		
+	
+									
+		
+		
+																		
+																											
+								
+						<div class="event-date">2018.08.11 (土) 18:00 – </div>
+				
+		<h2 class="article-ttl">
+			 虫を聞き虫を食べる「バグズ納涼祭」レポート
+		</h2>
+	</a>
+	
+																														<div class="tag-btn"><a href="http://bioclub.org/tags/news">#NEWS</a></div>
+		
+							<div class="thumb">
+				<a href="http://bioclub.org/project-report/bugsnouryo-sai-report" class="ct-block hv-op">
+					<span class="img-wrapper"><img src="http://bioclub.org/assets/images/bugreport.png" alt=" 虫を聞き虫を食べる「バグズ納涼祭」レポート"></span>
+					
+																<p class="ct-link-lead">Bugs are actors who perform the role of seasons. They affect our emotions in various ways. At the end of the summer, BioClub hosted an event to enjoy the cool summer nights associated with these bugs. The event is called Listen to the bugs, and eat them too - Bugs Summer Night Festival.</p>
+									</a>
+			</div>
+			</li>													</ul>
+					</div>
+					
+				</aside>
+						
+        </article>
+
+	<div class="single-footer-wrap">
+	
+<nav id="tag-modal">
+    <div class="tag-modal-ttl">tags</div>
+    <ul>
+					<li><a href="http://bioclub.org/tags/weekly_meeting">#WeeklyMeeting<span>&nbsp;(29)</span></a></li>
+					<li><a href="http://bioclub.org/tags/ワークショップ">#ワークショップ<span>&nbsp;(32)</span></a></li>
+					<li><a href="http://bioclub.org/tags/イベント">#トークイベント<span>&nbsp;(33)</span></a></li>
+					<li><a href="http://bioclub.org/tags/ミートアップ">#ミートアップ<span>&nbsp;(7)</span></a></li>
+					<li><a href="http://bioclub.org/tags/news">#NEWS<span>&nbsp;(10)</span></a></li>
+					<li><a href="http://bioclub.org/tags/report">#REPORT<span>&nbsp;(11)</span></a></li>
+					<li><a href="http://bioclub.org/tags/biohack-academy">#BioHack Academy<span>&nbsp;(12)</span></a></li>
+					<li><a href="http://bioclub.org/tags/project">#PROJECT<span>&nbsp;(2)</span></a></li>
+		    </ul>
+</nav>
+<div id="tag-modal-close"></div>
+
+<footer id="site-footer">
+    <div class="copyright">&copy; 2024 Open BioClub</div>
+</footer>
+
+<script src="//ajax.googleapis.com/ajax/libs/jquery/1.11.2/jquery.min.js"></script>
+<script>window.jQuery || document.write('<script src="/common/css/js/vendor/jquery-1.11.2.min.js"><\/script>')</script>
+<script src="/common/js/vendor/jquery.easing.1.3.js"></script>
+<script src="/common/js/vendor/jquery.scrollbar.min.js"></script>
+<script src="/common/js/vendor/imagesloaded.pkgd.min.js"></script>
+<script src="/common/js/vendor/masonry.pkgd.min.js"></script>
+<script src="/common/js/vendor/jquery.touchSwipe.min.js"></script>
+<script src="/common/js/vendor/jquery.BlackAndWhite.js"></script>
+<script src="/common/js/vendor/slick.min.js"></script>
+<script src="/common/js/main.js?20180322"></script>
+<script src="/common/js/common.js"></script>
+	</div>
+	
+</body>
+</html>

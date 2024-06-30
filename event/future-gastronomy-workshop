@@ -1,0 +1,593 @@
+<!doctype html>
+	<html class="no-js" lang="ja">
+    <head prefix="og: http://ogp.me/ns# website: http://ogp.me/ns/website#">
+	<meta charset="utf-8">
+	<meta http-equiv="X-UA-Compatible" content="IE=edge">
+	<title>BioClub</title>
+	
+			<meta name="description" content="bioclub">
+		
+			<meta property="og:description" content="">
+		
+		<meta property="og:title" content="">
+		
+	<meta property="og:url" content="http://bioclub.org/event/future-gastronomy-workshop">
+			
+		
+					
+	<meta property="og:type" content="website">
+	
+	<meta name="viewport" content="width=device-width">
+	<script src="/common/js/viewport.js"></script>
+	
+	<link rel="stylesheet" href="/common/css/normalize.min.css">
+	<link rel="stylesheet" href="/common/css/main.css?20170322">
+	<script src="/common/js/vendor/modernizr-2.8.3-respond-1.4.2.min.js"></script>
+	<script src="https://use.fontawesome.com/0dfbc630d2.js"></script>
+	<link rel="shortcut icon" href="/favicon.ico">
+	
+	<meta property="og:site_name" content="BioClub">
+	<meta property="article:publisher" content="https://www.facebook.com/bioclubshibuya/">
+	
+	<!-- google map api -->
+	<script type='text/javascript' charset='utf-8' src='//maps.googleapis.com/maps/api/js?&key=AIzaSyDgoNhhsnaOD8gnESPlY5xC1yr6y-R_3WI'></script>
+	
+	<!-- Global site tag (gtag.js) - Google Analytics -->
+	<script async src="https://www.googletagmanager.com/gtag/js?id=UA-121405163-1"></script>
+	<script>
+		window.dataLayer = window.dataLayer || [];
+		function gtag(){dataLayer.push(arguments);}
+		gtag('js', new Date());
+		
+		gtag('config', 'UA-121405163-1');
+	</script>
+<style>
+@media screen and (min-width: 641px) {
+  #single-wrapper .single-eyecatch {
+    height:580px;
+  }
+}</style>
+
+</head>
+
+<body class="single">
+		
+        <header id="site-header">
+            
+						<div class="header-logo-box img-style" id="logo">
+													<a href="/" class="block">
+				         							<h1 class="logo-img-slider-wrap">
+						<a href="/" class=""><img alt="BioClub" src="/common/img/logo.gif"></a>
+					</h1>
+				 
+				
+															 </a>
+												</div>
+			
+            <nav class="subnav">
+                <ul>
+                    <li>
+						<a href="http://bioclub.org/event/">
+								
+								events
+													</a>
+					</li>
+                    <li>
+						<a href="http://bioclub.org/news/">
+								
+								news
+													</a>
+					</li>
+											<li>
+							<a href="http://bioclub.org/project/">
+																	report
+															</a>
+						</li>
+										
+                </ul>
+									<div class="lang">
+						<div class="en"><a href="http://bioclub.org/en/" class="hv-op">en</a></div>
+						<div class="ja"><span>ja</span></div>
+					</div>
+				            </nav>
+			<div id="tag-show">#</div>
+			<div class="open-global-nav-btn" id="open-global-nav-btn"><span class="bar bar01"></span><span class="bar bar02"></span><span class="bar bar03"></span></div>
+			
+        </header>
+		
+		
+		<div class="open-global-nav" id="open-global-nav">
+			<div class="nav-inner" id="nav-inner">
+				<div class="btn-close txt-c" id="open-global-nav-close"><span class="bar bar01"></span><span class="bar bar02"></span></div>
+				<div class="table-style">
+					<div class="table-cell nav-box">
+						<div class="link-inner">
+							
+															<ul class="global-nav-lang-link">
+									<li><a href="http://bioclub.org/en/" class="hv-op">en</a></li>
+									<li><span>ja</span></li>
+								</ul>
+														
+							<ul class="global-nav-link">
+								<li>
+									<a href="http://bioclub.org/event/" class="hv-op">
+											
+											events
+																			</a>
+								</li>
+								<li>
+									<a href="http://bioclub.org/news/" class="hv-op">
+											
+											news
+																			</a>
+								</li>
+																											<li>
+											<a href="http://bioclub.org/project/" class="hv-op">
+																									report
+																							</a>
+										</li>
+																									
+															</ul>
+							
+							<ul class="global-nav-sub-link">
+																	<li><a class="hv-op" href="http://bioclub.org/about/">about</a></li>
+																<li><a href="/contact/" class="hv-op"><i class="fa fa-envelope"></i></a></li>
+								<li><a href="https://github.com/BioClub" target="_blank" class="hv-op"><i class="fa fa-github"></i></a></li>
+								<li><a href="https://www.facebook.com/bioclubtokyo/" target="_blank" class="hv-op"><i class="fa fa-facebook"></i></a></li>
+							</ul>
+						</div>
+					</div>
+				</div>
+			</div>
+		</div>
+			
+        <article id="single-wrapper">
+																		<div class="single-eyecatch" style="background-image:url(http://bioclub.org/assets/images/24044989447_975ca2fd94_k.jpg)"></div>
+				         				
+			
+											
+																
+			<div class="single-head-pager-box">
+				<div class="ct-inner ct-side-space txt-c">
+					<div class="single-pager-text-box">
+																			<div class="single-pager-box prev">
+								<div class="table-style">
+									<a href="http://bioclub.org/event/mick-lorusso" class="table-cell va-mid">
+										<p class="single-pager-text">Prev</p>
+									</a>
+								</div>
+							</div>
+												
+						
+																																														
+																																																																																										
+																									
+														
+											
+						<div class="single-pager-date-box">
+							<div class="table-style">
+								<div class="table-cell va-mid">
+																			<p class="single-pager-date-text">2017.11.24 (金) 19:00 – </p>	
+																	</div>
+							</div>
+						</div>
+					
+																			<div class="single-pager-box next">
+								<div class="table-style">
+									<a href="http://bioclub.org/event/bioclub-weekly-cellf-neuron-synthesizer" class="table-cell va-mid">
+										<p class="single-pager-text">Next</p>
+									</a>
+								</div>
+							</div>
+											</div>
+				</div>
+			</div>
+			
+			
+		    <header class="single-header">
+			
+								<div class="single-post-info-box">
+						<span class="ct-label lg va-top type">events</span>
+
+						
+									
+			
+							  										<span class="ct-label lg va-top mgl0 status">終了</span>
+									  			
+							
+
+
+
+
+				</div>
+				
+                <h1 class="ct-single-ttl h1">Future Gastronomy Workshop</h1>
+				
+																	<div class="ct-tag-btn-list-wrap">
+													<div class="tag-btn"><a href="http://bioclub.org/tags/ワークショップ">#ワークショップ</a></div>
+											</div>
+								
+				
+								<div class="ct-date-box">
+				
+																													
+																																																																																
+																						
+												
+						<dl class="table-style">
+							<dt class="table-cell va-top fw-b ct-date-ttl">Date</dt>
+							<dd class="table-cell va-top ct-date-box-text">
+								<div class="ct-date-box-text-inner">
+									<p>2017.11.24 (金)</p>
+								</div>
+							</dd>
+						</dl>
+										
+					
+																				
+				</div>
+            </header>
+			
+            <div class="single-content">
+			
+													<p></p>
+<p>未来の食文化ワークショップ<br />「未来への30年、どのようなティータイムを体験したいですか？」<br /><br /> Introduction <br />細胞培養やゲノム編集、バーチャルリアリティなど、昨今<span class="word_break"></span>の食品には様々な最新のテクノロジーが導入され始め始めています。私たちの食卓にも、こうした食材が並ぶ日はそう遠く<span class="word_break"></span>ありません。食を進化させるテクロノーは、未来の食文<span class="word_break"></span>化をどう変えていくのでしょうか。当ワークショップは、<span class="word_break"></span>「未来のおやつ」にテーマを絞り込み、30年後の食の進化形を考えています。講師として、農産物を細胞培養で作<span class="word_break"></span>る細胞農業社会の現実に向けて科学・社会の両面から実装<span class="word_break"></span>を行うBioHacker集団「Shojinmeat Project」メンバーと、「お菓子を、HACKする<span class="word_break"></span>」をコンセプトに最新の食べ物と科学に関する話題を綴る私たち<span class="word_break"></span>bメディア "OPENLAB Review"の編集長を迎え、食に関する最新の科学的<span class="word_break"></span>な知見を共有して、みんなさんで想像を広げていきます<span class="word_break"></span>ます。<br /><br />「30後年」のティータイムをデザインする<br />かつては有閑階級の催しであった「ティータイム」。かつ<span class="word_break"></span>ては、一部限られた階級の人間だけが楽しめる特権的な<span class="word_break"></span>時間でありました。現在で誰もが好きなスワイを楽しみ、自分たちの「ティータイム」を楽しむように<span class="word_break"></span>やりました。また<span class="text_exposed_show">、スイーツ自体</span>に<span class="text_exposed_show">目を向けてみると、味、硬さ、見た目など、今ではバリエーションに富む「グミ」や</span>おやつも、日本で最初の商<span class="word_break"></span>商品が売り切れたのは、1980年代初頭のことでした。今<span class="word_break"></span>ですべての生活になくてはならないデジカルカメラやUSB<span class="word_break"></span>メモリも、製品として世に出始めたのはおよそ30年前。<span class="word_break"></span>当初は高値で、性能に疑問が残るような製品であっても、<span class="word_break"></span>30年という時を経ることで様々な形に姿を変え、生活に</p><p><span class="text_exposed_show">なかなかない存在になることがあります。現在世に出始めたばかりの高値で最先端な商品や技術も、<span class="word_break"></span>30年後には当たり前のものになっている可能性は十分に<span class="word_break"></span>ありません。30年後の未来を描くことは、SFの世界で<span class="word_break"></span>終わらない、私たちの現実的な未来を描くことに繋がることで<span class="word_break"></span>しょう。<br />今回のワークショップでは、現在最先端の食にまわるわ研<span class="word_break"></span>究善プロジェクトを参照して、理論的な「30年後のテ<span class="word_break"></span>アイタイム」の体験を描いています。<span class="word_break"></span>ななテクロロジー、食材、スワイ、楽しむ方があるので<span class="word_break"></span>しょうか。</span></p>
+<p>企画<br />BioClub <br />BioClubとは、バイオテロノジーの未来や新しい<span class="word_break"></span>可能性について、研究者からアーティスト、一般市民まで<span class="word_break"></span>分裂隔てなく学び、議論できるところを目指す東京初のオー<span class="word_break"></span>プン・バイオ・コミューティ。現在、週1回の定例ミーテ<span class="word_break"></span>交際の他、さまざまな領域のプロフェッショナルを招待<span class="word_break"></span>いたワークショップやMeetupイベントなど、活動の場<span class="word_break"></span>を広げています<a href="https://l.facebook.com/l.php?u=http%3A%2F%2Fwww.bioclub.org%2F&amp;h=ATP_lRX56gCpPqVu9RTa08ZDsWVcQzxMRmmefhb9tZKrS5uDFV1ywBRKFqe59dpnBRU6XiJJ24cddp5MCVhlTWU6phZ9g6qozO82gjPx2bdPKFr0EfSEe_LTZqzELmXjmmpWef9vyfvKCEeelAcxQp18JZOI7A0v-tfcSgINE4Bzkc0LbC6_pskrF-6YxpXo0-dQp0U" target="_blank" rel="noreferrer noopener">。http://www.bioclub.org/</a></p>
+<p>Shojinmeat Project <br />Shojinmeatは本物の肉なので、牧草地もいらないし、動物も殺さない純粋に筋肉細胞だけを増やして作る<span class="word_break"></span>食材、「純肉（きれいな肉）」の開発に取り組んでいる有志団体です。<br />純肉が当り前に存在する社会の現実に向けて科学・社会<span class="word_break"></span>両面からの実装を目指して、アート、生命科学、倫理<span class="word_break"></span>学、文化人類学など様々な分野で「クラスター」を作って活気づける<span class="word_break"></span>動いています。<br />まだまだ会員募集中です！<a href="https://l.facebook.com/l.php?u=http%3A%2F%2Fwww.shojinmeat.com%2F&amp;h=ATMIG40IakkheP7b_uB0M3NmjGn2jlgFl7onTChAVs4aEVIv0scZoKWOIVj6UeFt1VtEHYGD4ftIlahuSMAAVlj_zGJIRW5LZ5reCr97_A0i1dQTjDZ1i9HTA2WcmCr3qe2fbvkNnGo7RUh_lvbLyhKmwOsoDtlFButpPQwPzT-MKikootHAUR7HoiMgwOwLOb2TvHA" target="_blank" rel="noreferrer noopener">http://www.shojinmeat.com/ </a><br /><a href="https://www.facebook.com/groups/832078460161621/">https://www.facebook.com/<span class="word_break"></span>グループ/ 832078460161621 /</a></p>
+<p>BAKE OPENAB <br />OPENLAB（オープンラボ）は、「お菓子を、進化させた<span class="word_break"></span>せる」をステートメントとしてして掲げる製菓企業、株式会社<span class="word_break"></span>BAKEの研究開発チーム。2016年2月に発足。お菓子<span class="word_break"></span>子の製造過程を化学現象として捉える他、五感やストーー<span class="word_break"></span>リーがお菓子の「おいしい体験」に与える認知の影響を解明<span class="word_break"></span>剖することで、よりおいしさや喜びを感じることのできるお菓子の<span class="word_break"></span>創造を目指しています。2017年1月より、お菓子と科<span class="word_break"></span>学のウエブメディア「OPENLAB Review（オープンラボ・レビュア）」の運営を開始<span class="word_break"></span>し、食にまつわる研究事例や最新のテクノロジーを幅広くご<span class="word_break"></span>紹介しています<a href="https://l.facebook.com/l.php?u=https%3A%2F%2Fbake-openlab.com%2F&amp;h=ATPGP0KeOVP4oFJFVbdVT2x3k5oXZaKtXp78o4dLQJeyA8dxA2wPlOxpCjkJTN6QAx2fGGSu0aDv2zrZznUnnhP4r9Wi1Vgu44FpJmZGGtLi8D9Jthdi9-qjGIsGpmJUkJAUyU_cWzBHWq3QcbeSQOJNvQoYodJqP36ZXG-qOlXrDH6FV3j7Z1BdGv6NBjAIdLm2TH3ZTmpc-w" target="_blank" rel="noreferrer noopener">。https://bake-openlab.com/</a></p>
+<p><br /></p>
+<p></p>
+								
+				
+																								<h2>Future Gastronomy Workshop</h2>
+																																		
+							<div class="event-data row">
+								
+																																		
+															</div>
+										
+							
+				
+																	                                <div class="btn"><span>終了</span></div>
+                        
+					          
+
+            													
+											
+													
+														
+																					
+																	
+										
+	
+		
+								
+	
+	
+				
+            </div><!-- .single-content -->
+
+            <div id="event-info">
+                <div class="single-content">
+	
+																<h2>Future Gastronomy Workshop</h2>
+										
+																													
+							<div class="event-data row">
+								
+																																		
+															</div>
+										
+					
+										                    	<div id="gmap"></div>
+										
+					
+					
+																					                              <div class="btn"><span>終了</span></div>
+                        
+            
+										
+					
+                </div><!-- .single-content -->
+            </div><!-- #event-info -->
+			
+			
+			
+											
+																
+			<div class="single-head-pager-box type-white">
+				<div class="ct-inner ct-side-space txt-c">
+					<div class="single-pager-text-box">
+																			<div class="single-pager-box prev">
+								<div class="table-style">
+									<a href="http://bioclub.org/event/mick-lorusso" class="table-cell va-mid">
+										<p class="single-pager-text">Prev</p>
+									</a>
+								</div>
+							</div>
+												
+						<div class="single-pager-date-box">
+							<div class="table-style">
+								<div class="table-cell va-mid">
+									<a href="http://bioclub.org/event/">
+																					一覧ページへ
+																			</a>
+								</div>
+							</div>
+						</div>
+					
+																			<div class="single-pager-box next">
+								<div class="table-style">
+									<a href="http://bioclub.org/event/bioclub-weekly-cellf-neuron-synthesizer" class="table-cell va-mid">
+										<p class="single-pager-text">Next</p>
+									</a>
+								</div>
+							</div>
+											</div>
+				</div>
+			</div>
+			
+										<aside>
+					<div class="ct-inner ct-side-space">
+													<h2 class="h2 ct-bd-ttl">新着記事</h2>
+												<ul class="article-list col3">
+															<li class="article">
+	<a href="http://bioclub.org/event/kat-alb" class="ct-block hv-op">
+	
+		<p class="ct-label-wrap">
+							<span class="ct-label text-small lg type va-top">events</span>
+						
+						
+															
+																		
+													  															  									
+			
+			
+						
+													
+		</p>
+		
+		
+	
+																	
+																											
+								
+						<div class="event-date">2023.12.13 (水) 04:00 – </div>
+				
+		
+		
+										
+		<h2 class="article-ttl">
+			 Ekaterina Kormilitsyna at Art Laboratory Berlin (online)
+		</h2>
+	</a>
+	
+						
+									<p class="ct-link-lead"><a href="http://bioclub.org/event/kat-alb" class="ct-block hv-op">From our friends from Art Laboratory Berlin:<br />
+Art Laboratory Berlin is delighted to invite you to take part in our Colloquium, a discursive format on research in art, science and humanities, curated by Regine Rapp. It takes place in tandem with our Reading Club, curated by Tuçe Erel.<br />
+The colloquium addresses an international interdisciplinary research audience to present and discuss past, present or future projects by artists and scholars, curators or editors from the fields of art, science and the humanities. The topics could refer to an art project, a book, text or chapter, a research or exhibition project, a lab experiment, a lecture series, a conference concept or other.</a></p>
+			</li>															<li class="article">
+	<a href="http://bioclub.org/event/spcs-4-sharing-session" class="ct-block hv-op">
+	
+		<p class="ct-label-wrap">
+							<span class="ct-label text-small lg type va-top">events</span>
+						
+						
+															
+																		
+													  															  									
+			
+			
+						
+													
+		</p>
+		
+		
+	
+																	
+																											
+								
+						<div class="event-date">2023.12.06 (水) 19:00 – </div>
+				
+		
+		
+										
+		<h2 class="article-ttl">
+			SPCS Season 4 | Living Dyes: 共有セッション
+		</h2>
+	</a>
+	
+																									<div class="tag-btn"><a href="http://bioclub.org/tags/イベント">#トークイベント</a></div>
+		
+							<div class="thumb">
+				<a href="http://bioclub.org/event/spcs-4-sharing-session" class="ct-block hv-op">
+					<span class="img-wrapper"><img src="http://bioclub.org/assets/images/SPCS4.jpg" alt="SPCS Season 4 | Living Dyes: 共有セッション"></span>
+					
+																<p class="ct-link-lead">2023年9月、さまざまなバックグラウンドを持つ23人の参加者がFabCafe Kyotoに集まり、DIYによるバクテリアの培養方法を学びました。色素を生成する菌株を植え付けたシャーレを持ち帰り、そのバクテリアでテキスタイルを染めるという6週間のチャレンジに挑みました。このグループ実験の結果は、京都と東京で開催される展覧会に展示されます。東京で開催される展示の最終日に、参加者のうちの4人がこのプロセスについての経験や感想を共有します。<br />
+<br />
+Living Dyes | The Exhibition showcases the process and results of the research and actual dyed works from a 1.5 month workshop on dyeing textiles with bacteria. How do everyday participants adopt this relatively new and undeveloped dyeing technique? Come witness it for yourself. Detailed explanations in a guided tour by the exhibition organiser are also available.</p>
+									</a>
+			</div>
+			</li>															<li class="article">
+	<a href="http://bioclub.org/event/antti-tenetz-getting-lost" class="ct-block hv-op">
+	
+		<p class="ct-label-wrap">
+							<span class="ct-label text-small lg type va-top">events</span>
+						
+						
+															
+																		
+													  															  									
+			
+			
+						
+													
+		</p>
+		
+		
+	
+																	
+																											
+								
+						<div class="event-date">2023.12.05 (火) 20:00 – </div>
+				
+		
+		
+										
+		<h2 class="article-ttl">
+			Artist Talk: Antti Tenetz - スペースの間に迷い込む
+		</h2>
+	</a>
+	
+																									<div class="tag-btn"><a href="http://bioclub.org/tags/イベント">#トークイベント</a></div>
+		
+							<div class="thumb">
+				<a href="http://bioclub.org/event/antti-tenetz-getting-lost" class="ct-block hv-op">
+					<span class="img-wrapper"><img src="http://bioclub.org/assets/images/Antti2.jpg" alt="Artist Talk: Antti Tenetz - スペースの間に迷い込む"></span>
+					
+																<p class="ct-link-lead">​What can other than human life, slime molds, local and AI machine systems based knowledge and cowandering teach us about survival and evolving as whole.<br />
+<br />
+人間の生命、粘菌、ローカルおよびAI機械システムに基づく知識、そして臆病さ以外に、生存と全体としての進化について何を教えてくれるのだろうか。</p>
+									</a>
+			</div>
+			</li>													</ul>
+					</div>
+					
+				</aside>
+			            <div id="single-wrapper-close"></div>
+
+        </article>
+
+		<div class="single-footer-wrap">
+	
+<nav id="tag-modal">
+    <div class="tag-modal-ttl">tags</div>
+    <ul>
+					<li><a href="http://bioclub.org/tags/weekly_meeting">#WeeklyMeeting<span>&nbsp;(29)</span></a></li>
+					<li><a href="http://bioclub.org/tags/ワークショップ">#ワークショップ<span>&nbsp;(32)</span></a></li>
+					<li><a href="http://bioclub.org/tags/イベント">#トークイベント<span>&nbsp;(33)</span></a></li>
+					<li><a href="http://bioclub.org/tags/ミートアップ">#ミートアップ<span>&nbsp;(7)</span></a></li>
+					<li><a href="http://bioclub.org/tags/news">#NEWS<span>&nbsp;(10)</span></a></li>
+					<li><a href="http://bioclub.org/tags/report">#REPORT<span>&nbsp;(11)</span></a></li>
+					<li><a href="http://bioclub.org/tags/biohack-academy">#BioHack Academy<span>&nbsp;(12)</span></a></li>
+					<li><a href="http://bioclub.org/tags/project">#PROJECT<span>&nbsp;(2)</span></a></li>
+		    </ul>
+</nav>
+<div id="tag-modal-close"></div>
+
+<footer id="site-footer">
+    <div class="copyright">&copy; 2024 Open BioClub</div>
+</footer>
+
+<script src="//ajax.googleapis.com/ajax/libs/jquery/1.11.2/jquery.min.js"></script>
+<script>window.jQuery || document.write('<script src="/common/css/js/vendor/jquery-1.11.2.min.js"><\/script>')</script>
+<script src="/common/js/vendor/jquery.easing.1.3.js"></script>
+<script src="/common/js/vendor/jquery.scrollbar.min.js"></script>
+<script src="/common/js/vendor/imagesloaded.pkgd.min.js"></script>
+<script src="/common/js/vendor/masonry.pkgd.min.js"></script>
+<script src="/common/js/vendor/jquery.touchSwipe.min.js"></script>
+<script src="/common/js/vendor/jquery.BlackAndWhite.js"></script>
+<script src="/common/js/vendor/slick.min.js"></script>
+<script src="/common/js/main.js?20180322"></script>
+<script src="/common/js/common.js"></script>
+	</div>
+	
+			<script id="gmap-script">
+			//google map
+			function initializeGmap() {
+				var lelStyle = [
+				  {
+					"featureType": "landscape",
+					"elementType": "geometry",
+					"stylers": [
+					{ "saturation": -100 },
+					{ "lightness": 63 }
+					]
+				  },{
+					"featureType": "road.local",
+					"stylers": [
+					{ "lightness": 50 }
+					]
+				  },{
+					"featureType": "road.local",
+					"elementType": "geometry.fill",
+					"stylers": [
+					{ "saturation": -100 },
+					{ "lightness": 100 }
+					]
+				  },{
+					"featureType": "road.highway",
+					"stylers": [
+					{ "hue": "#ffdd00" }
+					]
+				  },{
+					"featureType": "road.highway.controlled_access",
+					"stylers": [
+					{ "hue": "#e8340c" },
+					{ "lightness": 30 }
+					]
+				  },{
+					"featureType": "road",
+					"elementType": "geometry.stroke",
+					"stylers": [
+					{ "visibility": "off" }
+					]
+				  },{
+					"featureType": "administrative",
+					"elementType": "labels",
+					"stylers": [
+					{ "visibility": "off" }
+					]
+				  },{
+					"elementType": "labels.text.stroke",
+					"stylers": [
+					{ "visibility": "off" }
+					]
+				  },{
+					"elementType": "labels.text.fill",
+					"stylers": [
+					{ "gamma": 1.54 }
+					]
+				  },{
+					"featureType": "water",
+					"elementType": "labels",
+					"stylers": [
+					{ "visibility": "off" }
+					]
+				  },
+				  {
+					"featureType": "water",
+					"stylers": [
+					{ "lightness": 50 },
+					{ "hue": "#0088ff" }
+					]
+				  },
+					{
+						"featureType": "all",
+						"stylers": [
+							{ "saturation": -100 },
+							{"lightness": 10}
+						]
+					}
+				]
+				var mapDiv = document.getElementById("gmap");
+				var mapCanvas = new google.maps.Map(mapDiv, {
+					center:new google.maps.LatLng(35.65606300, 139.69549100),
+					zoom:15,
+					mapTypeId:google.maps.MapTypeId.ROADMAP,
+					styles: lelStyle,
+					scrollwheel: false
+				});
+				createMarker ({
+					position : new google.maps.LatLng(35.65606300, 139.69549100),
+					map : mapCanvas
+				});
+				function createMarker (opts) {
+					var marker = new google.maps.Marker(opts);
+					return marker;
+				}
+			}
+			initializeGmap();
+		</script>
+	</body>
+</html>

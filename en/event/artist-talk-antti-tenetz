@@ -1,0 +1,596 @@
+<!doctype html>
+	<html class="no-js" lang="ja">
+    <head prefix="og: http://ogp.me/ns# website: http://ogp.me/ns/website#">
+	<meta charset="utf-8">
+	<meta http-equiv="X-UA-Compatible" content="IE=edge">
+	<title>BioClub</title>
+	
+			<meta name="description" content="descriptionテスト入力">
+		
+			<meta property="og:description" content="">
+		
+		<meta property="og:title" content="">
+		
+	<meta property="og:url" content="http://bioclub.org/en/event/artist-talk-antti-tenetz">
+			
+		
+					
+	<meta property="og:type" content="website">
+	
+	<meta name="viewport" content="width=device-width">
+	<script src="/common/js/viewport.js"></script>
+	
+	<link rel="stylesheet" href="/common/css/normalize.min.css">
+	<link rel="stylesheet" href="/common/css/main.css?20170322">
+	<script src="/common/js/vendor/modernizr-2.8.3-respond-1.4.2.min.js"></script>
+	<script src="https://use.fontawesome.com/0dfbc630d2.js"></script>
+	<link rel="shortcut icon" href="/favicon.ico">
+	
+	<meta property="og:site_name" content="BioClub">
+	<meta property="article:publisher" content="https://www.facebook.com/bioclubshibuya/">
+	
+	<!-- google map api -->
+	<script type='text/javascript' charset='utf-8' src='//maps.googleapis.com/maps/api/js?&key=AIzaSyDgoNhhsnaOD8gnESPlY5xC1yr6y-R_3WI'></script>
+	
+	<!-- Global site tag (gtag.js) - Google Analytics -->
+	<script async src="https://www.googletagmanager.com/gtag/js?id=UA-121405163-1"></script>
+	<script>
+		window.dataLayer = window.dataLayer || [];
+		function gtag(){dataLayer.push(arguments);}
+		gtag('js', new Date());
+		
+		gtag('config', 'UA-121405163-1');
+	</script>
+<style>
+@media screen and (min-width: 641px) {
+  #single-wrapper .single-eyecatch {
+    height:580px;
+  }
+}</style>
+
+</head>
+
+<body class="single">
+		
+        <header id="site-header">
+            
+						<div class="header-logo-box img-style" id="logo">
+													<a href="/en" class="block">
+				         							<h1 class="logo-img-slider-wrap">
+						<a href="/" class=""><img alt="BioClub" src="/common/img/logo.gif"></a>
+					</h1>
+				 
+				
+															 </a>
+												</div>
+			
+            <nav class="subnav">
+                <ul>
+                    <li>
+						<a href="http://bioclub.org/en/event/">
+								
+								events
+													</a>
+					</li>
+                    <li>
+						<a href="http://bioclub.org/en/news/">
+								
+								news
+													</a>
+					</li>
+										
+                </ul>
+									<div class="lang">
+						<div class="en"><span>en</span></div>
+						<div class="ja"><a href="/" class="hv-op">ja</a></div>
+					</div>
+				            </nav>
+			<div id="tag-show">#</div>
+			<div class="open-global-nav-btn" id="open-global-nav-btn"><span class="bar bar01"></span><span class="bar bar02"></span><span class="bar bar03"></span></div>
+			
+        </header>
+		
+		
+		<div class="open-global-nav" id="open-global-nav">
+			<div class="nav-inner" id="nav-inner">
+				<div class="btn-close txt-c" id="open-global-nav-close"><span class="bar bar01"></span><span class="bar bar02"></span></div>
+				<div class="table-style">
+					<div class="table-cell nav-box">
+						<div class="link-inner">
+							
+															<ul class="global-nav-lang-link">
+									<li><span>en</span></li>
+									<li><a href="/" class="hv-op">ja</a></li>
+								</ul>
+														
+							<ul class="global-nav-link">
+								<li>
+									<a href="http://bioclub.org/en/event/" class="hv-op">
+											
+											events
+																			</a>
+								</li>
+								<li>
+									<a href="http://bioclub.org/en/news/" class="hv-op">
+											
+											news
+																			</a>
+								</li>
+																
+																	<li>
+										<a href="http://bioclub.org/en/archive/" class="hv-op">
+												
+												archive
+																					</a>
+									</li>
+															</ul>
+							
+							<ul class="global-nav-sub-link">
+																<li><a href="/contact/" class="hv-op"><i class="fa fa-envelope"></i></a></li>
+								<li><a href="https://github.com/BioClub" target="_blank" class="hv-op"><i class="fa fa-github"></i></a></li>
+								<li><a href="https://www.facebook.com/bioclubtokyo/" target="_blank" class="hv-op"><i class="fa fa-facebook"></i></a></li>
+							</ul>
+						</div>
+					</div>
+				</div>
+			</div>
+		</div>
+			
+        <article id="single-wrapper">
+																		<div class="single-eyecatch" style="background-image:url(http://bioclub.org/assets/images/Antti.jpg)"></div>
+				         				
+			
+											
+																
+			<div class="single-head-pager-box">
+				<div class="ct-inner ct-side-space txt-c">
+					<div class="single-pager-text-box">
+																		
+						
+																																														
+																																																			
+																
+								
+														
+											
+						<div class="single-pager-date-box">
+							<div class="table-style">
+								<div class="table-cell va-mid">
+																			<p class="single-pager-date-text">Tue., November 14, 19:00 – </p>	
+																	</div>
+							</div>
+						</div>
+					
+																	</div>
+				</div>
+			</div>
+			
+			
+		    <header class="single-header">
+			
+								<div class="single-post-info-box">
+						<span class="ct-label lg va-top type">events</span>
+
+						
+									
+			
+							  									  			
+							
+
+
+
+
+				</div>
+				
+                <h1 class="ct-single-ttl h1">Artist Talk: Antti Tenetz - Finnish BioArt Resident 2023</h1>
+				
+																	<div class="ct-tag-btn-list-wrap">
+													<div class="tag-btn"><a href="http://bioclub.org/en/tags/weekly_meeting">#Weekly_Meeting</a></div>
+											</div>
+								
+				
+								<div class="ct-date-box">
+				
+																													
+																																													
+														
+							
+												
+						<dl class="table-style">
+							<dt class="table-cell va-top fw-b ct-date-ttl">Date</dt>
+							<dd class="table-cell va-top ct-date-box-text">
+								<div class="ct-date-box-text-inner">
+									<p>Tue., November 14, </p>
+								</div>
+							</dd>
+						</dl>
+										
+					
+																																																	
+								
+																																														
+																							
+							
+															<dl class="table-style">
+									<dt class="table-cell va-top fw-b ct-date-ttl">Time</dt>
+									<dd class="table-cell va-top ct-date-box-text">
+										<div class="ct-date-box-text-inner">
+											<p>19:00 JST</p>
+										</div>
+									</dd>
+								</dl>
+														
+																																		
+								
+																																													
+									
+															
+							
+															<dl class="table-style">
+									<dt class="table-cell va-top fw-b ct-date-ttl">Place</dt>
+									<dd class="table-cell va-top ct-date-box-text">
+										<div class="ct-date-box-text-inner">
+											<p>BioClub Tokyo</p>
+										</div>
+									</dd>
+								</dl>
+														
+																																		
+								
+																																													
+									
+															
+							
+															<dl class="table-style">
+									<dt class="table-cell va-top fw-b ct-date-ttl">Place</dt>
+									<dd class="table-cell va-top ct-date-box-text">
+										<div class="ct-date-box-text-inner">
+											<p>https://zoom.bioclub.tokyo</p>
+										</div>
+									</dd>
+								</dl>
+														
+																
+				</div>
+            </header>
+			
+            <div class="single-content">
+			
+													<h3>About Antti</h3>
+<p>Antti Tenetz is a visual artist. He’s works are situated at the interface between media arts, biological arts and urban art. His focus is on multi-disciplinary and multi-artistic cooperation between art and science, and he often uses technologies such as drones, satellite tracking, game engines and machine learning. Tenetz’s works and cooperation projects have been exhibited in Finland and internationally, including at the Venice Biennale, Manifesta 12, Istanbul Biennale parallel program, Tate Modern Exhcahenge program, Science Gallery Dublin and Lumipalloefekti exhibitions, X-Border, ISEA Istanbul, Pan-Barentz, and e-mobil art. He has also won national snow-sculpting competition.</p>
+<p><a href="http://www.tenetz.com/">http://www.tenetz.com</a></p>
+<p>This residency is a collaboration of <a href="https://www.bioclub.tokyo">BioClub Tokyo</a>, <a href="https://bioartsociety.fi">SOLU - The Finnish Bioart Society</a> and the <a href="https://finstitute.jp">Finnish Institute in Japan</a>.</p>
+<ul><li>The talk will be in English.</li><li>The talk will also be online at <a href="https://zoom.bioclub.tokyo/">https://zoom.bioclub.tokyo</a></li></ul><h3>Message from Antti</h3>
+<p>Nice to meet you all! I am, sub-arctic based artist, curator and facilitator from Oulu, Finland. Situated near arctic circle and have been doing my work from there to Iceland, Siberia to south Europe and now to here. I currently direct More than Planet creative-eu program for Northern Photographic Centre at Oulu and I was previously working as regional artist of biological arts for Art Promotion Centre of Finland. Fancy title but work consisted support and intiation of new at/sci projects and numerous presentations and talks aimed for decision makers in art and science community as also funders, as also by doing AI and bioart work, Perihelion, on Waag societys Super:organism residency with European ARTificial Intelligence Lab and ESA International Lunar Exploration Working Group (ESA/ESTEC, Noordwijk). I have been active member in Finnish bioartsociety and head of board for some years back and also one of the founders of Subzero Collective and head of curatorial team for Finnish Cultural Foundations Pohjavirta project.</p>
+<p>I come from diverse backround, raised in pulp and paper factory town, spending my youth on lakes, entering art school, working as portman, trawl fisherman and bouncer in North-Atlantic as also artist and VJ before entering academic and contemporary art world. During that time I also won Finnish championship in snowsculpting and some other colored medals. You could say that my background reflects to my current focus and practice between wilderness, other than human life, forests, waterbodies and academic knowledge. In my artistic work I mainly focus to practices of biological arts and emerging technologies, mutispecies co-exisistennce, critical new material approach to technologies in order to explore how humans, non-humans and machines may envision, dream, perceive and relate to concerning changes in a hybrid environment where the biosphere and technosphere merges. I have worked on wide range of media and mediums form A.I to interactive media arts, installations, sculptures, narrative and abstract video works made with varying technologies such as drones, satellite tracking, 3D printing and laser cutting, lidar, photogrammetry, earth observation data, game engines and machine learning. My focus is on multi-disciplinary and multi-artistic collaboration between art and science and local communities. I often wonder what is role of art and artist during these changing times. Do we nurture our species to annihilation or can we find path trough metaphorical ice plateu to possible future, unknown land(sea)scape. What are those ideas and artistical beings that we have to summon and lure from darkness to visibility in order to survive.</p>
+<p>Some of my recent works and collaborative projects to mention have been exhibited in Finland and internationally, including Ars Electronica, work: </p>
+<p>Perihelion, bio/media work, Austria, 2021 <a href="https://ars.electronica.art/newdigitaldeal/en/perihelion/">https://ars.electronica.art/newdigitaldeal/en/perihelion/</a> 17 goals of my mind sculpture park project, work: Fishgod, Sanctuary, Sculpture and seaweed growing environment, Denmark2022 <a href="https://www.17goalsonmymind.com/life-below-water?lang=en">https://www.17goalsonmymind.com/life-below-water?lang=en</a>Constructing Context, work: Perihelion, bio/media work, A.I exhibition Hong Kong 2021 <a href="https://constructingcontexts.scm.cityu.edu.hk/">https://constructingcontexts.scm.cityu.edu.hk/</a> Tate Modern Exchange program, work: Tracing, media artwork and workshop Who are we? exhibition and cross platform event, 2017 <a href="https://www.tate.org.uk/whats-on/tate-modern/who-are-we">https://www.tate.org.uk/whats-on/tate-modern/who-are-we</a>... Science Gallery Dublin, work: Wolfland, Installation, Openl-labs exhibition, 2019 <a href="https://dublin.sciencegallery.com/open-labs.../wolfland">https://dublin.sciencegallery.com/open-labs.../wolfland</a> Venice Biennale in collateral programs Monster of Lagoon 2015 and Body of water with Jaakko 2013 and some other to mention Lumipalloefekti exhibitions, X-Border 2013, ISEA Istanbul 2011, Pan-Barentz 2013, and e-mobil art 2007-2009. Here is my not so often refreshed website : <a href="http://www.tenetz.com">www.tenetz.com</a> Instagram link : <a href="https://www.instagram.com/tenetz/?hl=fi">https://www.instagram.com/tenetz/?hl=fi</a> I´ll aim to update some new materials to them for you to see for next week.</p>
+<h3>Antti's Residency Research Project</h3>
+<p>My Aim at residency to develop new works about slime mold navigation on three different environments and develop 3d printed surfaces and methods of producing those from satellite data, laser scanned and photogrammetry build environments and landscapes. I planned to test three different environments. I also plan to collect other material, mainly sequences of photos of slime mold growth to train machine learning models to build imaginative paths and growth patterns. Possible environments:</p>
+<ol><li>Venice lagoon navigation as part of new work for Singing for Dark Times group exhibition for Venice Biennale 2024</li><li>Navigation on asteroid or stellar object like Mars or Moon between habitable places.</li><li>Navigation inside of cave or mine. This can be also landscape or terrain here in Japan.</li></ol><p>One trajectory is to seek possibilities to break out from lab esthetics by testing and exploring Japanese and Finnish wood cutting and crafting methods like hou sugi ban preservation method by burning the wood. Maybe to connect those practices to more contemporary like 3D printing and laser cutting. In addition I dream to find, research and work with other possible lifeforms that would support and guide us on extreme situations and environments.</p>
+<p>How this codepency emerges and evolves is in core of project. By questioning expected and habitual, my artistic research also explores in open and critical manner our notions of hierarchies and power structures towards other than human life and also looping back to us on question what might prevent changes in our actions and society at large. Kind of systemic approach to whole matter. I am open to find some traditional lifeforms, crafts, relations and approaches that can be found trough collaboration with you and other locals here in Tokyo.</p>
+<p></p>
+								
+				
+																																													
+							
+				
+																	            					          
+
+            									
+	
+		
+								
+	
+	
+				
+            </div><!-- .single-content -->
+
+            <div id="event-info">
+                <div class="single-content">
+	
+															
+																											
+					
+										                    	<div id="gmap"></div>
+										
+					
+					
+																					              										
+					
+                </div><!-- .single-content -->
+            </div><!-- #event-info -->
+			
+			
+			
+											
+																
+			<div class="single-head-pager-box type-white">
+				<div class="ct-inner ct-side-space txt-c">
+					<div class="single-pager-text-box">
+																		
+						<div class="single-pager-date-box">
+							<div class="table-style">
+								<div class="table-cell va-mid">
+									<a href="http://bioclub.org/en/event/">
+																					To list page
+																			</a>
+								</div>
+							</div>
+						</div>
+					
+																	</div>
+				</div>
+			</div>
+			
+										<aside>
+					<div class="ct-inner ct-side-space">
+													<h2 class="h2 ct-bd-ttl">The Latest</h2>
+												<ul class="article-list col3">
+															<li class="article">
+	<a href="http://bioclub.org/en/event/kat-alb" class="ct-block hv-op">
+	
+		<p class="ct-label-wrap">
+							<span class="ct-label text-small lg type va-top">events</span>
+						
+						
+															
+																		
+													  															  									
+			
+			
+						
+													
+		</p>
+		
+		
+	
+																	
+								
+																							
+								
+				
+						<div class="event-date">Wed., December 13, 04:00 – </div>
+				
+		
+		
+										
+		<h2 class="article-ttl">
+			 Ekaterina Kormilitsyna at Art Laboratory Berlin (online)
+		</h2>
+	</a>
+	
+																									<div class="tag-btn"><a href="http://bioclub.org/en/tags/イベント">#イベント</a></div>
+		
+									<p class="ct-link-lead"><a href="http://bioclub.org/en/event/kat-alb" class="ct-block hv-op">From our friends from Art Laboratory Berlin:<br />
+Art Laboratory Berlin is delighted to invite you to take part in our Colloquium, a discursive format on research in art, science and humanities, curated by Regine Rapp. It takes place in tandem with our Reading Club, curated by Tuçe Erel.<br />
+The colloquium addresses an international interdisciplinary research audience to present and discuss past, present or future projects by artists and scholars, curators or editors from the fields of art, science and the humanities. The topics could refer to an art project, a book, text or chapter, a research or exhibition project, a lab experiment, a lecture series, a conference concept or other.</a></p>
+			</li>															<li class="article">
+	<a href="http://bioclub.org/en/event/spcs-4-sharing-session" class="ct-block hv-op">
+	
+		<p class="ct-label-wrap">
+							<span class="ct-label text-small lg type va-top">events</span>
+						
+						
+															
+																		
+													  															  									
+			
+			
+						
+													
+		</p>
+		
+		
+	
+																	
+								
+																							
+								
+				
+						<div class="event-date">Wed., December 06, 19:00 – </div>
+				
+		
+		
+										
+		<h2 class="article-ttl">
+			SPCS Season 4 | Living Dyes: Sharing Session
+		</h2>
+	</a>
+	
+																									<div class="tag-btn"><a href="http://bioclub.org/en/tags/イベント">#イベント</a></div>
+		
+							<div class="thumb">
+				<a href="http://bioclub.org/en/event/spcs-4-sharing-session" class="ct-block hv-op">
+					<span class="img-wrapper"><img src="http://bioclub.org/assets/images/SPCS4.jpg" alt="SPCS Season 4 | Living Dyes: Sharing Session"></span>
+					
+																<p class="ct-link-lead">2023年9月、さまざまなバックグラウンドを持つ23人の参加者がFabCafe Kyotoに集まり、DIYによるバクテリアの培養方法を学びました。色素を生成する菌株を植え付けたシャーレを持ち帰り、そのバクテリアでテキスタイルを染めるという6週間のチャレンジに挑みました。このグループ実験の結果は、京都と東京で開催される展覧会に展示されます。東京で開催される展示の最終日に、参加者のうちの4人がこのプロセスについての経験や感想を共有します。<br />
+<br />
+Living Dyes | The Exhibition showcases the process and results of the research and actual dyed works from a 1.5 month workshop on dyeing textiles with bacteria. How do everyday participants adopt this relatively new and undeveloped dyeing technique? Come witness it for yourself. Detailed explanations in a guided tour by the exhibition organiser are also available.</p>
+									</a>
+			</div>
+			</li>															<li class="article">
+	<a href="http://bioclub.org/en/event/antti-tenetz-getting-lost" class="ct-block hv-op">
+	
+		<p class="ct-label-wrap">
+							<span class="ct-label text-small lg type va-top">events</span>
+						
+						
+															
+																		
+													  															  									
+			
+			
+						
+													
+		</p>
+		
+		
+	
+																	
+								
+																							
+								
+				
+						<div class="event-date">Tue., December 05, 20:00 – </div>
+				
+		
+		
+										
+		<h2 class="article-ttl">
+			Artist Talk: Antti Tenetz - Getting lost between Spaces
+		</h2>
+	</a>
+	
+																									<div class="tag-btn"><a href="http://bioclub.org/en/tags/イベント">#イベント</a></div>
+		
+							<div class="thumb">
+				<a href="http://bioclub.org/en/event/antti-tenetz-getting-lost" class="ct-block hv-op">
+					<span class="img-wrapper"><img src="http://bioclub.org/assets/images/Antti2.jpg" alt="Artist Talk: Antti Tenetz - Getting lost between Spaces"></span>
+					
+																<p class="ct-link-lead">​What can other than human life, slime molds, local and AI machine systems based knowledge and cowandering teach us about survival and evolving as whole.<br />
+<br />
+人間の生命、粘菌、ローカルおよびAI機械システムに基づく知識、そして臆病さ以外に、生存と全体としての進化について何を教えてくれるのだろうか。</p>
+									</a>
+			</div>
+			</li>													</ul>
+					</div>
+					
+				</aside>
+			            <div id="single-wrapper-close"></div>
+
+        </article>
+
+		<div class="single-footer-wrap">
+	
+<nav id="tag-modal">
+    <div class="tag-modal-ttl">tags</div>
+    <ul>
+					<li><a href="http://bioclub.org/en/tags/weekly_meeting">#Weekly_Meeting<span>&nbsp;(29)</span></a></li>
+					<li><a href="http://bioclub.org/en/tags/ワークショップ">#ワークショップ<span>&nbsp;(30)</span></a></li>
+					<li><a href="http://bioclub.org/en/tags/イベント">#イベント<span>&nbsp;(33)</span></a></li>
+					<li><a href="http://bioclub.org/en/tags/ミートアップ">#ミートアップ<span>&nbsp;(7)</span></a></li>
+					<li><a href="http://bioclub.org/en/tags/news">#NEWS<span>&nbsp;(9)</span></a></li>
+					<li><a href="http://bioclub.org/en/tags/report">#REPORT<span>&nbsp;(10)</span></a></li>
+					<li><a href="http://bioclub.org/en/tags/biohack-academy">#BioHack Academy<span>&nbsp;(12)</span></a></li>
+					<li><a href="http://bioclub.org/en/tags/project">#PROJECT<span>&nbsp;(2)</span></a></li>
+		    </ul>
+</nav>
+<div id="tag-modal-close"></div>
+
+<footer id="site-footer">
+    <div class="copyright">&copy; 2024 Open BioClub</div>
+</footer>
+
+<script src="//ajax.googleapis.com/ajax/libs/jquery/1.11.2/jquery.min.js"></script>
+<script>window.jQuery || document.write('<script src="/common/css/js/vendor/jquery-1.11.2.min.js"><\/script>')</script>
+<script src="/common/js/vendor/jquery.easing.1.3.js"></script>
+<script src="/common/js/vendor/jquery.scrollbar.min.js"></script>
+<script src="/common/js/vendor/imagesloaded.pkgd.min.js"></script>
+<script src="/common/js/vendor/masonry.pkgd.min.js"></script>
+<script src="/common/js/vendor/jquery.touchSwipe.min.js"></script>
+<script src="/common/js/vendor/jquery.BlackAndWhite.js"></script>
+<script src="/common/js/vendor/slick.min.js"></script>
+<script src="/common/js/main.js?20180322"></script>
+<script src="/common/js/common.js"></script>
+	</div>
+	
+			<script id="gmap-script">
+			//google map
+			function initializeGmap() {
+				var lelStyle = [
+				  {
+					"featureType": "landscape",
+					"elementType": "geometry",
+					"stylers": [
+					{ "saturation": -100 },
+					{ "lightness": 63 }
+					]
+				  },{
+					"featureType": "road.local",
+					"stylers": [
+					{ "lightness": 50 }
+					]
+				  },{
+					"featureType": "road.local",
+					"elementType": "geometry.fill",
+					"stylers": [
+					{ "saturation": -100 },
+					{ "lightness": 100 }
+					]
+				  },{
+					"featureType": "road.highway",
+					"stylers": [
+					{ "hue": "#ffdd00" }
+					]
+				  },{
+					"featureType": "road.highway.controlled_access",
+					"stylers": [
+					{ "hue": "#e8340c" },
+					{ "lightness": 30 }
+					]
+				  },{
+					"featureType": "road",
+					"elementType": "geometry.stroke",
+					"stylers": [
+					{ "visibility": "off" }
+					]
+				  },{
+					"featureType": "administrative",
+					"elementType": "labels",
+					"stylers": [
+					{ "visibility": "off" }
+					]
+				  },{
+					"elementType": "labels.text.stroke",
+					"stylers": [
+					{ "visibility": "off" }
+					]
+				  },{
+					"elementType": "labels.text.fill",
+					"stylers": [
+					{ "gamma": 1.54 }
+					]
+				  },{
+					"featureType": "water",
+					"elementType": "labels",
+					"stylers": [
+					{ "visibility": "off" }
+					]
+				  },
+				  {
+					"featureType": "water",
+					"stylers": [
+					{ "lightness": 50 },
+					{ "hue": "#0088ff" }
+					]
+				  },
+					{
+						"featureType": "all",
+						"stylers": [
+							{ "saturation": -100 },
+							{"lightness": 10}
+						]
+					}
+				]
+				var mapDiv = document.getElementById("gmap");
+				var mapCanvas = new google.maps.Map(mapDiv, {
+					center:new google.maps.LatLng(35.65603730, 139.69548720),
+					zoom:15,
+					mapTypeId:google.maps.MapTypeId.ROADMAP,
+					styles: lelStyle,
+					scrollwheel: false
+				});
+				createMarker ({
+					position : new google.maps.LatLng(35.65603730, 139.69548720),
+					map : mapCanvas
+				});
+				function createMarker (opts) {
+					var marker = new google.maps.Marker(opts);
+					return marker;
+				}
+			}
+			initializeGmap();
+		</script>
+	</body>
+</html>

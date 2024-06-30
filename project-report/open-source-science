@@ -1,0 +1,516 @@
+<!doctype html>
+	<html class="no-js" lang="ja">
+    <head prefix="og: http://ogp.me/ns# website: http://ogp.me/ns/website#">
+	<meta charset="utf-8">
+	<meta http-equiv="X-UA-Compatible" content="IE=edge">
+	<title>BioClub</title>
+	
+			<meta name="description" content="bioclub">
+		
+			<meta property="og:description" content="">
+		
+		<meta property="og:title" content="bioreactor">
+		
+	<meta property="og:url" content="http://bioclub.org/project-report/open-source-science">
+			
+		
+									<meta property="og:image" content="http://bioclub.org/common/images/_og_image/DSC02170.jpg">
+				
+	<meta property="og:type" content="website">
+	
+	<meta name="viewport" content="width=device-width">
+	<script src="/common/js/viewport.js"></script>
+	
+	<link rel="stylesheet" href="/common/css/normalize.min.css">
+	<link rel="stylesheet" href="/common/css/main.css?20170322">
+	<script src="/common/js/vendor/modernizr-2.8.3-respond-1.4.2.min.js"></script>
+	<script src="https://use.fontawesome.com/0dfbc630d2.js"></script>
+	<link rel="shortcut icon" href="/favicon.ico">
+	
+	<meta property="og:site_name" content="BioClub">
+	<meta property="article:publisher" content="https://www.facebook.com/bioclubshibuya/">
+	
+	<!-- google map api -->
+	<script type='text/javascript' charset='utf-8' src='//maps.googleapis.com/maps/api/js?&key=AIzaSyDgoNhhsnaOD8gnESPlY5xC1yr6y-R_3WI'></script>
+	
+	<!-- Global site tag (gtag.js) - Google Analytics -->
+	<script async src="https://www.googletagmanager.com/gtag/js?id=UA-121405163-1"></script>
+	<script>
+		window.dataLayer = window.dataLayer || [];
+		function gtag(){dataLayer.push(arguments);}
+		gtag('js', new Date());
+		
+		gtag('config', 'UA-121405163-1');
+	</script>
+<style>
+@media screen and (min-width: 641px) {
+  #single-wrapper .single-eyecatch {
+    height:580px;
+  }
+}</style>
+
+</head>
+
+<body class="single">
+		
+        <header id="site-header">
+            
+						<div class="header-logo-box img-style" id="logo">
+													<a href="/" class="block">
+				         							<h1 class="logo-img-slider-wrap">
+						<a href="/" class=""><img alt="BioClub" src="/common/img/logo.gif"></a>
+					</h1>
+				 
+				
+															 </a>
+												</div>
+			
+            <nav class="subnav">
+                <ul>
+                    <li>
+						<a href="http://bioclub.org/event/">
+								
+								events
+													</a>
+					</li>
+                    <li>
+						<a href="http://bioclub.org/news/">
+								
+								news
+													</a>
+					</li>
+											<li>
+							<a href="http://bioclub.org/project/">
+																	report
+															</a>
+						</li>
+										
+                </ul>
+									<div class="lang">
+						<div class="en"><a href="http://bioclub.org/en/" class="hv-op">en</a></div>
+						<div class="ja"><span>ja</span></div>
+					</div>
+				            </nav>
+			<div id="tag-show">#</div>
+			<div class="open-global-nav-btn" id="open-global-nav-btn"><span class="bar bar01"></span><span class="bar bar02"></span><span class="bar bar03"></span></div>
+			
+        </header>
+		
+		
+		<div class="open-global-nav" id="open-global-nav">
+			<div class="nav-inner" id="nav-inner">
+				<div class="btn-close txt-c" id="open-global-nav-close"><span class="bar bar01"></span><span class="bar bar02"></span></div>
+				<div class="table-style">
+					<div class="table-cell nav-box">
+						<div class="link-inner">
+							
+															<ul class="global-nav-lang-link">
+									<li><a href="http://bioclub.org/en/" class="hv-op">en</a></li>
+									<li><span>ja</span></li>
+								</ul>
+														
+							<ul class="global-nav-link">
+								<li>
+									<a href="http://bioclub.org/event/" class="hv-op">
+											
+											events
+																			</a>
+								</li>
+								<li>
+									<a href="http://bioclub.org/news/" class="hv-op">
+											
+											news
+																			</a>
+								</li>
+																											<li>
+											<a href="http://bioclub.org/project/" class="hv-op">
+																									report
+																							</a>
+										</li>
+																									
+															</ul>
+							
+							<ul class="global-nav-sub-link">
+																	<li><a class="hv-op" href="http://bioclub.org/about/">about</a></li>
+																<li><a href="/contact/" class="hv-op"><i class="fa fa-envelope"></i></a></li>
+								<li><a href="https://github.com/BioClub" target="_blank" class="hv-op"><i class="fa fa-github"></i></a></li>
+								<li><a href="https://www.facebook.com/bioclubtokyo/" target="_blank" class="hv-op"><i class="fa fa-facebook"></i></a></li>
+							</ul>
+						</div>
+					</div>
+				</div>
+			</div>
+		</div>
+			
+        <article id="single-wrapper">
+        	                        	                	<div class="single-eyecatch" style="background-image:url(http://bioclub.org/assets/images/DSC02170.jpg)"></div>
+            	            			
+											
+																
+			<div class="single-head-pager-box">
+				<div class="ct-inner ct-side-space txt-c">
+					<div class="single-pager-text-box">
+																			<div class="single-pager-box prev">
+								<div class="table-style">
+									<a href="http://bioclub.org/project-report/weybot-report" class="table-cell va-mid">
+										<p class="single-pager-text">Prev</p>
+									</a>
+								</div>
+							</div>
+												
+						
+																																														
+																																																																																										
+																									
+														
+											
+						<div class="single-pager-date-box">
+							<div class="table-style">
+								<div class="table-cell va-mid">
+																			<p class="single-pager-date-text">2018.06.12 (火) 07:00 – </p>	
+																	</div>
+							</div>
+						</div>
+					
+																			<div class="single-pager-box next">
+								<div class="table-style">
+									<a href="http://bioclub.org/project-report/bugsnouryo-sai-report" class="table-cell va-mid">
+										<p class="single-pager-text">Next</p>
+									</a>
+								</div>
+							</div>
+											</div>
+				</div>
+			</div>
+			
+            <header class="single-header">
+				
+								<div class="single-post-info-box">
+						<span class="ct-label lg va-top type">project reports</span>
+
+						
+																				<span class="ct-label lg va-top mgl0 status">終了</span>
+														
+					
+
+
+
+
+				</div>
+				
+				<h1 class="ct-single-ttl h1">合成生物学で考える未来のエネルギー / イベントレポート</h1>
+			   
+																	<div class="ct-tag-btn-list-wrap">
+													<div class="tag-btn"><a href="http://bioclub.org/tags/news">#NEWS</a></div>
+													<div class="tag-btn"><a href="http://bioclub.org/tags/report">#REPORT</a></div>
+											</div>
+							</header>
+		
+			<div class="single-content">
+								
+														
+																			<p><img src="http://bioclub.org/assets/images/バイオリアクター19.jpg" alt=""></p>
+																
+					
+													
+											<p>（Text by  和田 真文, Chiaki ishizuka）<br />2018年6月12日に行われた、バイオテクノロジーを利用するためのデザインシンキングワークショップ、「Open Source Science for Bioenergy 合成生物学で考える未来のエネルギー 」。今回のワークショップでは、藻から取り出したエネルギーを、未来の環境で活用するアイデアを考えていきました。<br /></p>
+<p><a href="https://www.ucl.ac.uk/basc/people/academic-staff/brenda-parker">Brenda Parker</a>さんは生化学工学が専門の博士。ロンドン大学（UCL）で、来期から建築学科に新設される、バイオをデザインに活用する分野でディレクターを務めています。建築家やデザイナーなどと制作も行っていて、カナダのMetis International Garden Festival（2011-13）というコンテンポラリーなガーデンフェスティバルでは藻の増殖を人間が手助けすることでグリーンのカーテンが出来上がる<a href="http://www.wayward.co.uk/project/algaegarden">Algaegarden</a>という美しいプロダクトも手がけています。</p>
+<p>ファシリテーターを勤めたのは、デザイナーでワークショップコーディネーターの<a href="http://cargocollective.com/lenaasai/ABOUT-LENA">浅井鈴菜</a>さん。9月から同大学に留学予定です。<br /></p>
+<p>参加者は学生から社会人までさまざま。再生医療研究に携わる人、広告業界で働く人、古美術商に携わる人などなど、バックグラウンドの異なる人々が集まりました。</p>
+									
+				
+																					
+																			<p><img src="http://bioclub.org/assets/images/DSC02205.jpg" alt="ブレンダ・パーカーさん"></p>
+																
+					
+																												<h3>誰もが研究者になれる「フォトバイオリアクター」</h3>
+																
+				
+													
+											<p>企業や研究分野では、藻の生育研究結果をクローズにしがちだそう。Brendaさんは、藻の培養実験データをオープンソースとして誰でも見ることができることに重点を置いています。藻の生育状態をネット上でシェアするプラットフォーム、<a href="http://bigalgae.com/">Big Algae Open Experiment</a>の立ち上げ、藻の培養をどんな人でも扱えるように、フォトバイオリアクターキットを制作。藻を入れるペットボトルと水、二酸化炭素を送り出すエアポンプ、藻、日光、肥料があれば手軽に育てられるようにデザインされています。このキットを使って培養した藻を撮影して<a href="http://bigalgae.com/">Big Algae Open Experiment</a>のサイト<span></span>上にアップすると、藻がどこまで育っているかを判定・共有することができます。</p>
+									
+				
+																					
+																			<p><img src="http://bioclub.org/assets/images/バイオリアクター2.jpg" alt=""></p>
+													<p><img src="http://bioclub.org/assets/images/ばいおりあくたー1.jpg" alt=""></p>
+																
+					
+																					
+																			<p><img src="http://bioclub.org/assets/images/DSC02170.jpg" alt=""></p>
+																
+					
+																												<h3>「藻」のエネルギーでバスが動く？</h3>
+																
+				
+													
+											<p>水槽や川にただよう「藻」が、スマホを充電したりバスを動かしたりする燃料になるーーそんな未来が、今、国内外の研究者たちによって考えられています。<br /></p>
+<p>というのも、バイオ燃料を考える上で大事なのは、「いかに簡単に、早く、効率的に、シンプルに」育てられるか。その点、藻は成長が早く（8時間に1回細胞分裂する！）、生きるための条件もとてもシンプルで、燃料にぴったり。水と日光、二酸化炭素、栄養素この4つがあれば、世界中どんな場所でも育てられると言います。実際には藻から燃料を取り出すには、生育後に水から取り出し、油分と糖分を抽出→藻の表面を破壊し、燃料化する作業が必要になりますが、燃料の「原料」となる藻の生産は気候や地理的な環境に左右されることはなさそうです。</p>
+									
+				
+																												<h3>エネルギーはそもそも何に使っているのか？</h3>
+																
+				
+													
+											<p>石油や石炭などの化石燃料と違って、「培養」して増やしつつけることができる点で「藻」がいかにエネルギーの原料として優秀なのかはわかりました。前者は掘り出して消費するだけなのに対し、バイオエネルギーは「育てる」エネルギーであるということで、エネルギーの「作り方」も変わってきそうです。</p>
+<p>そこで次は「そもそも私たちはどんな場面でエネルギーを使っているのか？」という問いに移ります。 <br />人間は生活の様々な場面でエネルギーを使っています。まずはその場面を可視化するため、ポストイットに日常生活でエネルギーを使う場面をどんどん書き出していきます。</p>
+									
+				
+																					
+																			<p><img src="http://bioclub.org/assets/images/postit1.jpg" alt=""></p>
+																
+					
+																					
+																			<p><img src="http://bioclub.org/assets/images/postit2.jpg" alt=""></p>
+																
+					
+													
+											<p>有象無象に出た「人間がエネルギーを使用する行為」を仕分けすると</p>
+<p>・料理をする為に使う熱エネルギー<br />・スマホの充電やエアコン、冷蔵庫など電化製品に使うエネルギー<br />・電車や飛行機など移動に使うエネルギー<br />・人と話す、走るなど身体行為に使うエネルギー</p>
+<p>ざっと4種類に分けることができました。</p>
+									
+				
+																												<h3>燃料を作ってくれる藻を増やすには..？​​</h3>
+																
+				
+													
+											<p>これらをバイオ燃料で補うには、たとえばスマホ2台分の充電(10w）には、バス1台分の表面積が必要です。けっこうな量がいるんですね……。電車や飛行機を動かすにはもっと膨大な場所が必要になる。では、それだけの藻を育てる場所を、どうやって確保するのか？　実現するかどうかはさておき、思いついた場所をどんどん絵に書き出し、参加者同士でアイデアを交換していきました。</p>
+									
+				
+																					
+																			<p><img src="http://bioclub.org/assets/images/e10.jpg" alt=""></p>
+																
+					
+																					
+																			<p><img src="http://bioclub.org/assets/images/e7.jpg" alt=""></p>
+																
+					
+																					
+																			<p><img src="http://bioclub.org/assets/images/e3.jpg" alt=""></p>
+																
+					
+													
+											<p>本当にたくさんのアイディアが出たのですが、その一部をご紹介します！アイディアを出すポイントは、「できるだけ具体的に、現実的に、そして楽しく！」</p>
+<p>・ライブ会場の床を藻入りのプールにして、来場者がダンスをしてかき回すことで酸素を供給する<br /></p>
+<p>・移動可能なコンテナに藻を貼り付ける</p>
+<p>・ジムの自転車を漕ぐ動力で藻を攪拌する（ダイエットもできて一石二鳥!）</p>
+<p>・駅などの公共空間に藻入りのグランドピアノを置いて、弾いてもらうことで藻を攪拌・成長させる</p>
+<p>・動物園のプールに藻を入れて、動物が泳いだり排泄物が栄養となって成長させる</p>
+<p>・ダイビングのタンクに藻を入れる（人が吐きだした二酸化炭素をエアポンプ代わりに）</p>
+<p>・髪の毛につけて日光を浴びて藻を育て、自転車に乗りながら携帯を充電！</p>
+<p>などなど。<br />書いたスケッチを見せ合って、互いのアイデアを聞きながらブラッシュアップさせていったものを発表。この中のどれかはいつか実現する（かも..？）。</p>
+									
+				
+																					
+																			<p><img src="http://bioclub.org/assets/images/e5_180621_201639.jpg" alt=""></p>
+																
+					
+																					
+																			<p><img src="http://bioclub.org/assets/images/DSC02285のコピー.jpg" alt=""></p>
+																
+					
+																					
+																			<p><img src="http://bioclub.org/assets/images/e9.jpg" alt=""></p>
+																
+					
+													
+											<p>これらのアイデアは、研究の一環としてBrendaさんのブログ上でも掲載予定です。<br />ブレンダさんのブログはこちら →　<a href="https://brendaparker.wordpress.com/">https://brendaparker.wordpress...</a><br /></p>
+<p>起きてから眠りにつくまで、どれだけのエネルギーを使って生活しているのか？　そのエネルギーを、もっと手軽に生み出せたら、生活にどんな変化があるのか？　少し先の未来を、議論とスケッチによって具体的に想像し、共有することを楽しむ時間になりました！</p>
+<p>ワークショップを終えて、ブレンダさんが<strong>「バイオラボがファブスペースにある価値をワークショップを通じて痛感しました。ラボがワークショップの会場に隣接してることにより、簡単にバイオリアクターの準備をすることができました。このような環境はＵＣＬにはありません。今回のワークショップを通じてバイオを行う環境が今後より多様化しなければならないことに気がつくことができました。」<em><strong></strong></em></strong><br />とコメントくださったことは、バイオ的な作業ができる特殊空間としての「ラボ」の存在の意義について大きな気づきとなりました。</p>
+									
+				
+																					
+																			<p><img src="http://bioclub.org/assets/images/バイオリアクター11.jpg" alt=""></p>
+																
+					
+													
+											<p>私たちの生活にあって当然の「エネルギー」を改めて考え直す議論のデザインの一例を体験させてくださったブレンダさん、レナさん、ありがとうございました！フォトバイオリアクターのプロジェクトは引き続き<a href="http://bigalgae.com/" target="_blank" rel="noreferrer noopener">Big Algae Open Experiment</a>にアーカイブされていくそうなので、みなさんもぜひチェックしてみてください！</p>
+									
+				
+									
+	
+			</div><!-- .single-content -->
+            
+			
+			
+											
+																
+			<div class="single-head-pager-box type-white">
+				<div class="ct-inner ct-side-space txt-c">
+					<div class="single-pager-text-box">
+																			<div class="single-pager-box prev">
+								<div class="table-style">
+									<a href="http://bioclub.org/project-report/weybot-report" class="table-cell va-mid">
+										<p class="single-pager-text">Prev</p>
+									</a>
+								</div>
+							</div>
+												
+						<div class="single-pager-date-box">
+							<div class="table-style">
+								<div class="table-cell va-mid">
+									<a href="http://bioclub.org/project_report/">
+																					一覧ページへ
+																			</a>
+								</div>
+							</div>
+						</div>
+					
+																			<div class="single-pager-box next">
+								<div class="table-style">
+									<a href="http://bioclub.org/project-report/bugsnouryo-sai-report" class="table-cell va-mid">
+										<p class="single-pager-text">Next</p>
+									</a>
+								</div>
+							</div>
+											</div>
+				</div>
+			</div>
+
+										<aside>
+					<div class="ct-inner ct-side-space">
+													<h2 class="h2 ct-bd-ttl">新着記事</h2>
+												<ul class="article-list col3">
+															<li class="article">
+	<a href="http://bioclub.org/project-report/イベントレポート-バイオリソースは生命の方舟-ダイバーシティが拡げるバイオの可能性-科学技術と社会を縁の下で支える-バイオリソース-をどう伝え-活用するか" class="ct-block hv-op">
+	
+		<p class="ct-label-wrap">
+							<span class="ct-label text-small lg type va-top">project reports</span>
+						
+																																						<span class="ct-label text-small lg va-top status">終了</span>
+																
+												
+						
+													
+		</p>
+		
+		
+	
+									
+		
+		
+										
+		<h2 class="article-ttl">
+			科学技術と社会を縁の下で支える「バイオリソース」をどう伝え、活用するか /「バイオリソースは生命の方舟〜ダイバーシティが拡げるバイオの可能性〜」
+		</h2>
+	</a>
+	
+																														<div class="tag-btn"><a href="http://bioclub.org/tags/イベント">#トークイベント</a></div>
+		
+							<div class="thumb">
+				<a href="http://bioclub.org/project-report/イベントレポート-バイオリソースは生命の方舟-ダイバーシティが拡げるバイオの可能性-科学技術と社会を縁の下で支える-バイオリソース-をどう伝え-活用するか" class="ct-block hv-op">
+					<span class="img-wrapper"><img src="http://bioclub.org/assets/images/原稿1番目_改.jpg" alt="科学技術と社会を縁の下で支える「バイオリソース」をどう伝え、活用するか /「バイオリソースは生命の方舟〜ダイバーシティが拡げるバイオの可能性〜」"></span>
+					
+																<p class="ct-link-lead">2021年、理化学研究所バイオリソース研究センターは設立から20周年を迎えます。その節目を迎えるにあたり、アウトリーチ活動を通した社会との連携を目指します。2021年3月6日、そのファーストステップとして、一般向けにBRCの事業の紹介を行いバイオリソースの活用法や市民とのコミュニケーションについて方向性を探ることを目的として「バイオリソースは生命の方舟：ダイバーシティが拡げるバイオの可能性」を実施しました。</p>
+									</a>
+			</div>
+			</li>															<li class="article">
+	<a href="http://bioclub.org/project-report/微生物多様性から都市におけるウェルビーイングを探る-3か月でアウトリーチ活動を実践-living-machine-project" class="ct-block hv-op">
+	
+		<p class="ct-label-wrap">
+							<span class="ct-label text-small lg type va-top">project reports</span>
+						
+																																
+						
+													
+		</p>
+		
+		
+	
+									
+		
+		
+										
+		<h2 class="article-ttl">
+			微生物多様性から都市におけるウェルビーイングを探る。 3か月でアウトリーチ活動を実践「Living Machine Project」
+		</h2>
+	</a>
+	
+																														<div class="tag-btn"><a href="http://bioclub.org/tags/ワークショップ">#ワークショップ</a></div>
+		
+							<div class="thumb">
+				<a href="http://bioclub.org/project-report/微生物多様性から都市におけるウェルビーイングを探る-3か月でアウトリーチ活動を実践-living-machine-project" class="ct-block hv-op">
+					<span class="img-wrapper"><img src="http://bioclub.org/assets/images/panasonic-flf_living_machine-8.jpg" alt="微生物多様性から都市におけるウェルビーイングを探る。 3か月でアウトリーチ活動を実践「Living Machine Project」"></span>
+					
+																<p class="ct-link-lead">パナソニックにおいて先行開発に特化したプロジェクトを推進するデザインチーム「FUTURE LIFE FACTORY」は、都市生活者のウェルビーイングを考えるにあたり、土壌に生息する微生物の多様性に着目。長期展望から微生物多様性の重要性を啓発し、都市生活者の間で対話や議論を喚起することを目的に「Living Machine Project」を立ち上げました。</p>
+									</a>
+			</div>
+			</li>															<li class="article">
+	<a href="http://bioclub.org/project-report/wet-ware-fab-fabric-1-1" class="ct-block hv-op">
+	
+		<p class="ct-label-wrap">
+							<span class="ct-label text-small lg type va-top">project reports</span>
+						
+																																						<span class="ct-label text-small lg va-top status">終了</span>
+																
+												
+						
+													
+		</p>
+		
+		
+	
+									
+		
+		
+																		
+																																																		
+													
+						<div class="event-date">2018.11.24 (土) 18:00 – </div>
+				
+		<h2 class="article-ttl">
+			WET - WARE / FAB - FABRIC 第一回目「生命を身につける」 半生命的素材とはなにか イベントレポート
+		</h2>
+	</a>
+	
+																									<div class="tag-btn"><a href="http://bioclub.org/tags/news">#NEWS</a></div>
+		
+							<div class="thumb">
+				<a href="http://bioclub.org/project-report/wet-ware-fab-fabric-1-1" class="ct-block hv-op">
+					<span class="img-wrapper"><img src="http://bioclub.org/assets/images/wwff01.jpg" alt="WET - WARE / FAB - FABRIC 第一回目「生命を身につける」 半生命的素材とはなにか イベントレポート"></span>
+					
+																<p class="ct-link-lead">Design researcher Kazuya Kawasaki and Bio Club director Chiaki Ishizuka organized the WET - WARE - / FAB - FABRIC working group to study and practice innovation at the intersection of biotechnology and fashion. The commemorative first meeting reconsidered the concept of conventional &quot;anthropocentric&quot; clothing design and featured Mr. Yohsuke Takahashi, curator at the 21st Century Museum of Contemporary Art, Kanazawa who actively plans bio-art exhibitions.</p>
+									</a>
+			</div>
+			</li>													</ul>
+					</div>
+					
+				</aside>
+						
+        </article>
+
+	<div class="single-footer-wrap">
+	
+<nav id="tag-modal">
+    <div class="tag-modal-ttl">tags</div>
+    <ul>
+					<li><a href="http://bioclub.org/tags/weekly_meeting">#WeeklyMeeting<span>&nbsp;(29)</span></a></li>
+					<li><a href="http://bioclub.org/tags/ワークショップ">#ワークショップ<span>&nbsp;(32)</span></a></li>
+					<li><a href="http://bioclub.org/tags/イベント">#トークイベント<span>&nbsp;(33)</span></a></li>
+					<li><a href="http://bioclub.org/tags/ミートアップ">#ミートアップ<span>&nbsp;(7)</span></a></li>
+					<li><a href="http://bioclub.org/tags/news">#NEWS<span>&nbsp;(10)</span></a></li>
+					<li><a href="http://bioclub.org/tags/report">#REPORT<span>&nbsp;(11)</span></a></li>
+					<li><a href="http://bioclub.org/tags/biohack-academy">#BioHack Academy<span>&nbsp;(12)</span></a></li>
+					<li><a href="http://bioclub.org/tags/project">#PROJECT<span>&nbsp;(2)</span></a></li>
+		    </ul>
+</nav>
+<div id="tag-modal-close"></div>
+
+<footer id="site-footer">
+    <div class="copyright">&copy; 2024 Open BioClub</div>
+</footer>
+
+<script src="//ajax.googleapis.com/ajax/libs/jquery/1.11.2/jquery.min.js"></script>
+<script>window.jQuery || document.write('<script src="/common/css/js/vendor/jquery-1.11.2.min.js"><\/script>')</script>
+<script src="/common/js/vendor/jquery.easing.1.3.js"></script>
+<script src="/common/js/vendor/jquery.scrollbar.min.js"></script>
+<script src="/common/js/vendor/imagesloaded.pkgd.min.js"></script>
+<script src="/common/js/vendor/masonry.pkgd.min.js"></script>
+<script src="/common/js/vendor/jquery.touchSwipe.min.js"></script>
+<script src="/common/js/vendor/jquery.BlackAndWhite.js"></script>
+<script src="/common/js/vendor/slick.min.js"></script>
+<script src="/common/js/main.js?20180322"></script>
+<script src="/common/js/common.js"></script>
+	</div>
+	
+</body>
+</html>
