@@ -19,11 +19,11 @@
 	<meta property="og:type" content="website">
 	
 	<meta name="viewport" content="width=device-width">
-	<script src="/common/js/viewport.js"></script>
+	<script src="/bioclub-org/common/js/viewport.js"></script>
 	
-	<link rel="stylesheet" href="/common/css/normalize.min.css">
-	<link rel="stylesheet" href="/common/css/main.css?20170322">
-	<script src="/common/js/vendor/modernizr-2.8.3-respond-1.4.2.min.js"></script>
+	<link rel="stylesheet" href="/bioclub-org/common/css/normalize.min.css">
+	<link rel="stylesheet" href="/bioclub-org/common/css/main.css?20170322">
+	<script src="/bioclub-org/common/js/vendor/modernizr-2.8.3-respond-1.4.2.min.js"></script>
 	<script src="https://use.fontawesome.com/0dfbc630d2.js"></script>
 	<link rel="shortcut icon" href="/favicon.ico">
 	
@@ -57,7 +57,7 @@
 						<div class="header-logo-box img-style" id="logo">
 													<a href="/en" class="block">
 				         							<h1 class="logo-img-slider-wrap">
-						<a href="/" class=""><img alt="BioClub" src="/common/img/logo.gif"></a>
+						<a href="/" class=""><img alt="BioClub" src="/bioclub-org/common/img/logo.gif"></a>
 					</h1>
 				 
 				
@@ -67,13 +67,13 @@
             <nav class="subnav">
                 <ul>
                     <li>
-						<a href="http://bioclub.org/en/event/">
+						<a href="/bioclub-org/en/event/">
 								
 								events
 													</a>
 					</li>
                     <li>
-						<a href="http://bioclub.org/en/news/">
+						<a href="/bioclub-org/en/news/">
 								
 								news
 													</a>
@@ -105,20 +105,20 @@
 														
 							<ul class="global-nav-link">
 								<li>
-									<a href="http://bioclub.org/en/event/" class="hv-op">
+									<a href="/bioclub-org/en/event/" class="hv-op">
 											
 											events
 																			</a>
 								</li>
 								<li>
-									<a href="http://bioclub.org/en/news/" class="hv-op">
+									<a href="/bioclub-org/en/news/" class="hv-op">
 											
 											news
 																			</a>
 								</li>
 																
 																	<li>
-										<a href="http://bioclub.org/en/archive/" class="hv-op">
+										<a href="/bioclub-org/en/archive/" class="hv-op">
 												
 												archive
 																					</a>
@@ -169,8 +169,8 @@
 												
 						
 																															<div class="date">events&nbsp;&nbsp;|&nbsp;&nbsp;Sat., June 01 – Sun., June 02 </div>
-						<h2 class="article-ttl"><a href="http://bioclub.org/en/event/biotechworkshop01-2-1">Let&#039;s try DNA analysis – BioTechWorkshop vol.5</a></h2>
-																											<div class="thumb"><a href="http://bioclub.org/en/event/biotechworkshop01-2-1"><span class="img-wrapper"><img src="http://bioclub.org/assets/images/DNA鑑定２.jpg" alt="Let&#039;s try DNA analysis – BioTechWorkshop vol.5"></span></a></div>
+						<h2 class="article-ttl"><a href="/bioclub-org/en/event/biotechworkshop01-2-1">Let&#039;s try DNA analysis – BioTechWorkshop vol.5</a></h2>
+																											<div class="thumb"><a href="/bioclub-org/en/event/biotechworkshop01-2-1"><span class="img-wrapper"><img src="http://bioclub.org/assets/images/DNA鑑定２.jpg" alt="Let&#039;s try DNA analysis – BioTechWorkshop vol.5"></span></a></div>
 																		</li>
 									 <li class="article">
 					 
@@ -190,8 +190,8 @@
 												
 						
 																															<div class="date">events&nbsp;&nbsp;|&nbsp;&nbsp;Sun., June 09, 17:00 – </div>
-						<h2 class="article-ttl"><a href="http://bioclub.org/en/event/wwff-vol-2">WWFF vol.2 Fashion between 2D and 3D, the shifting reality after CAD and Instagram</a></h2>
-																											<div class="thumb"><a href="http://bioclub.org/en/event/wwff-vol-2"><span class="img-wrapper"><img src="http://bioclub.org/assets/images/wet2.jpg" alt="WWFF vol.2 Fashion between 2D and 3D, the shifting reality after CAD and Instagram"></span></a></div>
+						<h2 class="article-ttl"><a href="/bioclub-org/en/event/wwff-vol-2">WWFF vol.2 Fashion between 2D and 3D, the shifting reality after CAD and Instagram</a></h2>
+																											<div class="thumb"><a href="/bioclub-org/en/event/wwff-vol-2"><span class="img-wrapper"><img src="http://bioclub.org/assets/images/wet2.jpg" alt="WWFF vol.2 Fashion between 2D and 3D, the shifting reality after CAD and Instagram"></span></a></div>
 																		</li>
 				            </ul>
         </article>
@@ -201,14 +201,14 @@
 <nav id="tag-modal">
     <div class="tag-modal-ttl">tags</div>
     <ul>
-					<li><a href="http://bioclub.org/en/tags/weekly_meeting">#Weekly_Meeting<span>&nbsp;(29)</span></a></li>
-					<li><a href="http://bioclub.org/en/tags/ワークショップ">#ワークショップ<span>&nbsp;(30)</span></a></li>
-					<li><a href="http://bioclub.org/en/tags/イベント">#イベント<span>&nbsp;(33)</span></a></li>
-					<li><a href="http://bioclub.org/en/tags/ミートアップ">#ミートアップ<span>&nbsp;(7)</span></a></li>
-					<li><a href="http://bioclub.org/en/tags/news">#NEWS<span>&nbsp;(9)</span></a></li>
-					<li><a href="http://bioclub.org/en/tags/report">#REPORT<span>&nbsp;(10)</span></a></li>
-					<li><a href="http://bioclub.org/en/tags/biohack-academy">#BioHack Academy<span>&nbsp;(12)</span></a></li>
-					<li><a href="http://bioclub.org/en/tags/project">#PROJECT<span>&nbsp;(2)</span></a></li>
+					<li><a href="/bioclub-org/en/tags/weekly_meeting">#Weekly_Meeting<span>&nbsp;(29)</span></a></li>
+					<li><a href="/bioclub-org/en/tags/ワークショップ">#ワークショップ<span>&nbsp;(30)</span></a></li>
+					<li><a href="/bioclub-org/en/tags/イベント">#イベント<span>&nbsp;(33)</span></a></li>
+					<li><a href="/bioclub-org/en/tags/ミートアップ">#ミートアップ<span>&nbsp;(7)</span></a></li>
+					<li><a href="/bioclub-org/en/tags/news">#NEWS<span>&nbsp;(9)</span></a></li>
+					<li><a href="/bioclub-org/en/tags/report">#REPORT<span>&nbsp;(10)</span></a></li>
+					<li><a href="/bioclub-org/en/tags/biohack-academy">#BioHack Academy<span>&nbsp;(12)</span></a></li>
+					<li><a href="/bioclub-org/en/tags/project">#PROJECT<span>&nbsp;(2)</span></a></li>
 		    </ul>
 </nav>
 <div id="tag-modal-close"></div>
@@ -218,16 +218,16 @@
 </footer>
 
 <script src="//ajax.googleapis.com/ajax/libs/jquery/1.11.2/jquery.min.js"></script>
-<script>window.jQuery || document.write('<script src="/common/css/js/vendor/jquery-1.11.2.min.js"><\/script>')</script>
-<script src="/common/js/vendor/jquery.easing.1.3.js"></script>
-<script src="/common/js/vendor/jquery.scrollbar.min.js"></script>
-<script src="/common/js/vendor/imagesloaded.pkgd.min.js"></script>
-<script src="/common/js/vendor/masonry.pkgd.min.js"></script>
-<script src="/common/js/vendor/jquery.touchSwipe.min.js"></script>
-<script src="/common/js/vendor/jquery.BlackAndWhite.js"></script>
-<script src="/common/js/vendor/slick.min.js"></script>
-<script src="/common/js/main.js?20180322"></script>
-<script src="/common/js/common.js"></script>
+<script>window.jQuery || document.write('<script src="/bioclub-org/common/css/js/vendor/jquery-1.11.2.min.js"><\/script>')</script>
+<script src="/bioclub-org/common/js/vendor/jquery.easing.1.3.js"></script>
+<script src="/bioclub-org/common/js/vendor/jquery.scrollbar.min.js"></script>
+<script src="/bioclub-org/common/js/vendor/imagesloaded.pkgd.min.js"></script>
+<script src="/bioclub-org/common/js/vendor/masonry.pkgd.min.js"></script>
+<script src="/bioclub-org/common/js/vendor/jquery.touchSwipe.min.js"></script>
+<script src="/bioclub-org/common/js/vendor/jquery.BlackAndWhite.js"></script>
+<script src="/bioclub-org/common/js/vendor/slick.min.js"></script>
+<script src="/bioclub-org/common/js/main.js?20180322"></script>
+<script src="/bioclub-org/common/js/common.js"></script>
 	
     </body>
 </html>

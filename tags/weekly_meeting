@@ -19,11 +19,11 @@
 	<meta property="og:type" content="website">
 	
 	<meta name="viewport" content="width=device-width">
-	<script src="/common/js/viewport.js"></script>
+	<script src="/bioclub-org/common/js/viewport.js"></script>
 	
-	<link rel="stylesheet" href="/common/css/normalize.min.css">
-	<link rel="stylesheet" href="/common/css/main.css?20170322">
-	<script src="/common/js/vendor/modernizr-2.8.3-respond-1.4.2.min.js"></script>
+	<link rel="stylesheet" href="/bioclub-org/common/css/normalize.min.css">
+	<link rel="stylesheet" href="/bioclub-org/common/css/main.css?20170322">
+	<script src="/bioclub-org/common/js/vendor/modernizr-2.8.3-respond-1.4.2.min.js"></script>
 	<script src="https://use.fontawesome.com/0dfbc630d2.js"></script>
 	<link rel="shortcut icon" href="/favicon.ico">
 	
@@ -58,7 +58,7 @@
 						<div class="header-logo-box img-style" id="logo">
 													<a href="/" class="block">
 				         							<h1 class="logo-img-slider-wrap">
-						<a href="/" class=""><img alt="BioClub" src="/common/img/logo.gif"></a>
+						<a href="/" class=""><img alt="BioClub" src="/bioclub-org/common/img/logo.gif"></a>
 					</h1>
 				 
 				
@@ -68,26 +68,26 @@
             <nav class="subnav">
                 <ul>
                     <li>
-						<a href="http://bioclub.org/event/">
+						<a href="/bioclub-org/event/">
 								
 								events
 													</a>
 					</li>
                     <li>
-						<a href="http://bioclub.org/news/">
+						<a href="/bioclub-org/news/">
 								
 								news
 													</a>
 					</li>
 											<li>
-							<a href="http://bioclub.org/project/">
+							<a href="/bioclub-org/project/">
 																	report
 															</a>
 						</li>
 										
                 </ul>
 									<div class="lang">
-						<div class="en"><a href="http://bioclub.org/en/" class="hv-op">en</a></div>
+						<div class="en"><a href="/bioclub-org/en/" class="hv-op">en</a></div>
 						<div class="ja"><span>ja</span></div>
 					</div>
 				            </nav>
@@ -105,25 +105,25 @@
 						<div class="link-inner">
 							
 															<ul class="global-nav-lang-link">
-									<li><a href="http://bioclub.org/en/" class="hv-op">en</a></li>
+									<li><a href="/bioclub-org/en/" class="hv-op">en</a></li>
 									<li><span>ja</span></li>
 								</ul>
 														
 							<ul class="global-nav-link">
 								<li>
-									<a href="http://bioclub.org/event/" class="hv-op">
+									<a href="/bioclub-org/event/" class="hv-op">
 											
 											events
 																			</a>
 								</li>
 								<li>
-									<a href="http://bioclub.org/news/" class="hv-op">
+									<a href="/bioclub-org/news/" class="hv-op">
 											
 											news
 																			</a>
 								</li>
 																											<li>
-											<a href="http://bioclub.org/project/" class="hv-op">
+											<a href="/bioclub-org/project/" class="hv-op">
 																									report
 																							</a>
 										</li>
@@ -131,7 +131,7 @@
 															</ul>
 							
 							<ul class="global-nav-sub-link">
-																	<li><a class="hv-op" href="http://bioclub.org/about/">about</a></li>
+																	<li><a class="hv-op" href="/bioclub-org/about/">about</a></li>
 																<li><a href="/contact/" class="hv-op"><i class="fa fa-envelope"></i></a></li>
 								<li><a href="https://github.com/BioClub" target="_blank" class="hv-op"><i class="fa fa-github"></i></a></li>
 								<li><a href="https://www.facebook.com/bioclubtokyo/" target="_blank" class="hv-op"><i class="fa fa-facebook"></i></a></li>
@@ -161,8 +161,8 @@
 							
 														
 																																				<div class="date">events&nbsp;&nbsp;|&nbsp;&nbsp;2023.11.14 (火) 19:00 – </div>
-							<h2 class="article-ttl"><a href="http://bioclub.org/event/artist-talk-antti-tenetz">アーティストトーク: Antti Tenetz - Finnish BioArt Resident 2023</a></h2>
-																															<div class="thumb"><a href="http://bioclub.org/event/artist-talk-antti-tenetz"><span class="img-wrapper"><img src="http://bioclub.org/assets/images/Antti.jpg" alt="アーティストトーク: Antti Tenetz - Finnish BioArt Resident 2023"></span></a></div>
+							<h2 class="article-ttl"><a href="/bioclub-org/event/artist-talk-antti-tenetz">アーティストトーク: Antti Tenetz - Finnish BioArt Resident 2023</a></h2>
+																															<div class="thumb"><a href="/bioclub-org/event/artist-talk-antti-tenetz"><span class="img-wrapper"><img src="http://bioclub.org/assets/images/Antti.jpg" alt="アーティストトーク: Antti Tenetz - Finnish BioArt Resident 2023"></span></a></div>
 																					</li>
 											<li class="article">
 						 
@@ -179,8 +179,8 @@
 							
 														
 																																				<div class="date">events&nbsp;&nbsp;|&nbsp;&nbsp;2023.10.24 (火) 19:00 – </div>
-							<h2 class="article-ttl"><a href="http://bioclub.org/event/bio-fab-2024">BioAcademy &amp; FabAcademy 2024 説明会</a></h2>
-																															<div class="thumb"><a href="http://bioclub.org/event/bio-fab-2024"><span class="img-wrapper"><img src="http://bioclub.org/assets/images/htgaa.jpg" alt="BioAcademy &amp; FabAcademy 2024 説明会"></span></a></div>
+							<h2 class="article-ttl"><a href="/bioclub-org/event/bio-fab-2024">BioAcademy &amp; FabAcademy 2024 説明会</a></h2>
+																															<div class="thumb"><a href="/bioclub-org/event/bio-fab-2024"><span class="img-wrapper"><img src="http://bioclub.org/assets/images/htgaa.jpg" alt="BioAcademy &amp; FabAcademy 2024 説明会"></span></a></div>
 																					</li>
 											<li class="article">
 						 
@@ -197,8 +197,8 @@
 							
 														
 																																				<div class="date">events&nbsp;&nbsp;|&nbsp;&nbsp;2023.09.26 (火) 19:00 – </div>
-							<h2 class="article-ttl"><a href="http://bioclub.org/event/new-foldscopes">Weekly Meeting: Foldscope 2.0 &amp; Foldscope Mini 日本デビュー！</a></h2>
-																															<div class="thumb"><a href="http://bioclub.org/event/new-foldscopes"><span class="img-wrapper"><img src="http://bioclub.org/assets/images/2_7f074e5c-47d6-4acb-aacd-6fdbe528e4f7_800x.png" alt="Weekly Meeting: Foldscope 2.0 &amp; Foldscope Mini 日本デビュー！"></span></a></div>
+							<h2 class="article-ttl"><a href="/bioclub-org/event/new-foldscopes">Weekly Meeting: Foldscope 2.0 &amp; Foldscope Mini 日本デビュー！</a></h2>
+																															<div class="thumb"><a href="/bioclub-org/event/new-foldscopes"><span class="img-wrapper"><img src="http://bioclub.org/assets/images/2_7f074e5c-47d6-4acb-aacd-6fdbe528e4f7_800x.png" alt="Weekly Meeting: Foldscope 2.0 &amp; Foldscope Mini 日本デビュー！"></span></a></div>
 																					</li>
 											<li class="article">
 						 
@@ -215,8 +215,8 @@
 							
 														
 																																				<div class="date">events&nbsp;&nbsp;|&nbsp;&nbsp;2023.05.30 (火) 19:00 – </div>
-							<h2 class="article-ttl"><a href="http://bioclub.org/event/sensing-and-streaming">Naveen Kumar - センシングとストリーミング： セルラーネットワークを利用したDIYインキュベーターのリアルタイム・モニタリング</a></h2>
-																															<div class="thumb"><a href="http://bioclub.org/event/sensing-and-streaming"><span class="img-wrapper"><img src="http://bioclub.org/assets/images/naveen.JPG" alt="Naveen Kumar - センシングとストリーミング： セルラーネットワークを利用したDIYインキュベーターのリアルタイム・モニタリング"></span></a></div>
+							<h2 class="article-ttl"><a href="/bioclub-org/event/sensing-and-streaming">Naveen Kumar - センシングとストリーミング： セルラーネットワークを利用したDIYインキュベーターのリアルタイム・モニタリング</a></h2>
+																															<div class="thumb"><a href="/bioclub-org/event/sensing-and-streaming"><span class="img-wrapper"><img src="http://bioclub.org/assets/images/naveen.JPG" alt="Naveen Kumar - センシングとストリーミング： セルラーネットワークを利用したDIYインキュベーターのリアルタイム・モニタリング"></span></a></div>
 																					</li>
 											<li class="article">
 						 
@@ -233,8 +233,8 @@
 							
 														
 																																				<div class="date">events&nbsp;&nbsp;|&nbsp;&nbsp;2022.10.11 (火) 19:30 – </div>
-							<h2 class="article-ttl"><a href="http://bioclub.org/event/bioclub-weekly-welcome-to-finnish-artist-in-resident-aaro-murphy">BioClub Weekly: Welcome to Finnish Artist-in-Resident - Aaro Murphy</a></h2>
-																															<div class="thumb"><a href="http://bioclub.org/event/bioclub-weekly-welcome-to-finnish-artist-in-resident-aaro-murphy"><span class="img-wrapper"><img src="http://bioclub.org/assets/images/aaro_murphy.jpeg" alt="BioClub Weekly: Welcome to Finnish Artist-in-Resident - Aaro Murphy"></span></a></div>
+							<h2 class="article-ttl"><a href="/bioclub-org/event/bioclub-weekly-welcome-to-finnish-artist-in-resident-aaro-murphy">BioClub Weekly: Welcome to Finnish Artist-in-Resident - Aaro Murphy</a></h2>
+																															<div class="thumb"><a href="/bioclub-org/event/bioclub-weekly-welcome-to-finnish-artist-in-resident-aaro-murphy"><span class="img-wrapper"><img src="http://bioclub.org/assets/images/aaro_murphy.jpeg" alt="BioClub Weekly: Welcome to Finnish Artist-in-Resident - Aaro Murphy"></span></a></div>
 																					</li>
 											<li class="article">
 						 
@@ -243,8 +243,8 @@
 							
 														
 																																				<div class="date">events&nbsp;&nbsp;|&nbsp;&nbsp;2022.09.05</div>
-							<h2 class="article-ttl"><a href="http://bioclub.org/event/bioclub-weekly-meeting">BioClub ウィークリーミーティング、毎週火曜日19:00</a></h2>
-																															<div class="thumb"><a href="http://bioclub.org/event/bioclub-weekly-meeting"><span class="img-wrapper"><img src="http://bioclub.org/assets/images/BioClub_Lab_Orange_Curtain_220905_123927.jpg" alt="BioClub ウィークリーミーティング、毎週火曜日19:00"></span></a></div>
+							<h2 class="article-ttl"><a href="/bioclub-org/event/bioclub-weekly-meeting">BioClub ウィークリーミーティング、毎週火曜日19:00</a></h2>
+																															<div class="thumb"><a href="/bioclub-org/event/bioclub-weekly-meeting"><span class="img-wrapper"><img src="http://bioclub.org/assets/images/BioClub_Lab_Orange_Curtain_220905_123927.jpg" alt="BioClub ウィークリーミーティング、毎週火曜日19:00"></span></a></div>
 																					</li>
 											<li class="article">
 						 
@@ -253,8 +253,8 @@
 							
 														
 																																				<div class="date">events&nbsp;&nbsp;|&nbsp;&nbsp;2022.08.30</div>
-							<h2 class="article-ttl"><a href="http://bioclub.org/event/misomics-weekly-meeting">BioClub Misomics - ウィークリーミーティング</a></h2>
-																															<div class="thumb"><a href="http://bioclub.org/event/misomics-weekly-meeting"><span class="img-wrapper"><img src="http://bioclub.org/assets/images/miso_ws_1920.jpg" alt="BioClub Misomics - ウィークリーミーティング"></span></a></div>
+							<h2 class="article-ttl"><a href="/bioclub-org/event/misomics-weekly-meeting">BioClub Misomics - ウィークリーミーティング</a></h2>
+																															<div class="thumb"><a href="/bioclub-org/event/misomics-weekly-meeting"><span class="img-wrapper"><img src="http://bioclub.org/assets/images/miso_ws_1920.jpg" alt="BioClub Misomics - ウィークリーミーティング"></span></a></div>
 																					</li>
 											<li class="article">
 						 
@@ -272,8 +272,8 @@
 							
 														
 																																				<div class="date">events&nbsp;&nbsp;|&nbsp;&nbsp;2022.02.22 (火) 15:00 – </div>
-							<h2 class="article-ttl"><a href="http://bioclub.org/event/open-lab-lets-pcr">Open Lab - Let&#039;s PCR!</a></h2>
-																															<div class="thumb"><a href="http://bioclub.org/event/open-lab-lets-pcr"><span class="img-wrapper"><img src="http://bioclub.org/assets/images/IMG_8655-2.JPG" alt="Open Lab - Let&#039;s PCR!"></span></a></div>
+							<h2 class="article-ttl"><a href="/bioclub-org/event/open-lab-lets-pcr">Open Lab - Let&#039;s PCR!</a></h2>
+																															<div class="thumb"><a href="/bioclub-org/event/open-lab-lets-pcr"><span class="img-wrapper"><img src="http://bioclub.org/assets/images/IMG_8655-2.JPG" alt="Open Lab - Let&#039;s PCR!"></span></a></div>
 																					</li>
 											<li class="article">
 						 
@@ -291,8 +291,8 @@
 							
 														
 																																				<div class="date">events&nbsp;&nbsp;|&nbsp;&nbsp;2018.11.20 (火) 19:00 – </div>
-							<h2 class="article-ttl"><a href="http://bioclub.org/event/bioclub-weekly-ralo-mayer-strange-ecologies-on-earth-beyond">BioClub Weekly: 奇妙な生態、地球上とその先 - Ralo Mayer</a></h2>
-																															<div class="thumb"><a href="http://bioclub.org/event/bioclub-weekly-ralo-mayer-strange-ecologies-on-earth-beyond"><span class="img-wrapper"><img src="http://bioclub.org/assets/images/45620630_1169508463224870_5551726575654797312_n.jpg" alt="BioClub Weekly: 奇妙な生態、地球上とその先 - Ralo Mayer"></span></a></div>
+							<h2 class="article-ttl"><a href="/bioclub-org/event/bioclub-weekly-ralo-mayer-strange-ecologies-on-earth-beyond">BioClub Weekly: 奇妙な生態、地球上とその先 - Ralo Mayer</a></h2>
+																															<div class="thumb"><a href="/bioclub-org/event/bioclub-weekly-ralo-mayer-strange-ecologies-on-earth-beyond"><span class="img-wrapper"><img src="http://bioclub.org/assets/images/45620630_1169508463224870_5551726575654797312_n.jpg" alt="BioClub Weekly: 奇妙な生態、地球上とその先 - Ralo Mayer"></span></a></div>
 																					</li>
 											<li class="article">
 						 
@@ -310,8 +310,8 @@
 							
 														
 																																				<div class="date">events&nbsp;&nbsp;|&nbsp;&nbsp;2018.11.06 (火) 19:00 – </div>
-							<h2 class="article-ttl"><a href="http://bioclub.org/event/weekly-meeting-1"> BioClub AIR Weekly Meeting: クリスティーナ・スタドルバウアーと金継ぎの変異</a></h2>
-																															<div class="thumb"><a href="http://bioclub.org/event/weekly-meeting-1"><span class="img-wrapper"><img src="http://bioclub.org/assets/images/44940978_1161839883991728_7997982919157088256_n.jpg" alt=" BioClub AIR Weekly Meeting: クリスティーナ・スタドルバウアーと金継ぎの変異"></span></a></div>
+							<h2 class="article-ttl"><a href="/bioclub-org/event/weekly-meeting-1"> BioClub AIR Weekly Meeting: クリスティーナ・スタドルバウアーと金継ぎの変異</a></h2>
+																															<div class="thumb"><a href="/bioclub-org/event/weekly-meeting-1"><span class="img-wrapper"><img src="http://bioclub.org/assets/images/44940978_1161839883991728_7997982919157088256_n.jpg" alt=" BioClub AIR Weekly Meeting: クリスティーナ・スタドルバウアーと金継ぎの変異"></span></a></div>
 																					</li>
 											<li class="article">
 						 
@@ -329,8 +329,8 @@
 							
 														
 																																				<div class="date">events&nbsp;&nbsp;|&nbsp;&nbsp;2018.07.31 (火) 19:00 – </div>
-							<h2 class="article-ttl"><a href="http://bioclub.org/event/olivia">BioClub Weekly: Olivia Guigueさん</a></h2>
-																															<div class="thumb"><a href="http://bioclub.org/event/olivia"><span class="img-wrapper"><img src="http://bioclub.org/assets/images/olivia.jpg" alt="BioClub Weekly: Olivia Guigueさん"></span></a></div>
+							<h2 class="article-ttl"><a href="/bioclub-org/event/olivia">BioClub Weekly: Olivia Guigueさん</a></h2>
+																															<div class="thumb"><a href="/bioclub-org/event/olivia"><span class="img-wrapper"><img src="http://bioclub.org/assets/images/olivia.jpg" alt="BioClub Weekly: Olivia Guigueさん"></span></a></div>
 																					</li>
 											<li class="article">
 						 
@@ -348,8 +348,8 @@
 							
 														
 																																				<div class="date">events&nbsp;&nbsp;|&nbsp;&nbsp;2018.04.17 (火) 00:00 – </div>
-							<h2 class="article-ttl"><a href="http://bioclub.org/event/biolabmaintenanceday">バイオラボメンテナンス・デイ</a></h2>
-																															<div class="thumb"><a href="http://bioclub.org/event/biolabmaintenanceday"><span class="img-wrapper"><img src="http://bioclub.org/assets/images/22338797_898531363655916_1703649443857039054_o_1.jpg" alt="バイオラボメンテナンス・デイ"></span></a></div>
+							<h2 class="article-ttl"><a href="/bioclub-org/event/biolabmaintenanceday">バイオラボメンテナンス・デイ</a></h2>
+																															<div class="thumb"><a href="/bioclub-org/event/biolabmaintenanceday"><span class="img-wrapper"><img src="http://bioclub.org/assets/images/22338797_898531363655916_1703649443857039054_o_1.jpg" alt="バイオラボメンテナンス・デイ"></span></a></div>
 																					</li>
 											<li class="article">
 						 
@@ -366,8 +366,8 @@
 							
 														
 																																				<div class="date">events&nbsp;&nbsp;|&nbsp;&nbsp;2018.07.24 (火) 19:00 – </div>
-							<h2 class="article-ttl"><a href="http://bioclub.org/event/bioclub-open-meeting-community-running">Weekly meetingについて</a></h2>
-																															<div class="thumb"><a href="http://bioclub.org/event/bioclub-open-meeting-community-running"><span class="img-wrapper"><img src="http://bioclub.org/assets/images/about2.jpg" alt="Weekly meetingについて"></span></a></div>
+							<h2 class="article-ttl"><a href="/bioclub-org/event/bioclub-open-meeting-community-running">Weekly meetingについて</a></h2>
+																															<div class="thumb"><a href="/bioclub-org/event/bioclub-open-meeting-community-running"><span class="img-wrapper"><img src="http://bioclub.org/assets/images/about2.jpg" alt="Weekly meetingについて"></span></a></div>
 																					</li>
 											<li class="article">
 						 
@@ -385,8 +385,8 @@
 							
 														
 																																				<div class="date">events&nbsp;&nbsp;|&nbsp;&nbsp;2018.01.23 (火) 19:00 – </div>
-							<h2 class="article-ttl"><a href="http://bioclub.org/event/biohackacademy5-bha5-の説明会">BioHackAcademy5（BHA5）説明会</a></h2>
-																															<div class="thumb"><a href="http://bioclub.org/event/biohackacademy5-bha5-の説明会"><span class="img-wrapper"><img src="http://bioclub.org/assets/images/26239263_950410688467983_8017455833881019007_n_1.jpg" alt="BioHackAcademy5（BHA5）説明会"></span></a></div>
+							<h2 class="article-ttl"><a href="/bioclub-org/event/biohackacademy5-bha5-の説明会">BioHackAcademy5（BHA5）説明会</a></h2>
+																															<div class="thumb"><a href="/bioclub-org/event/biohackacademy5-bha5-の説明会"><span class="img-wrapper"><img src="http://bioclub.org/assets/images/26239263_950410688467983_8017455833881019007_n_1.jpg" alt="BioHackAcademy5（BHA5）説明会"></span></a></div>
 																					</li>
 											<li class="article">
 						 
@@ -404,8 +404,8 @@
 							
 														
 																																				<div class="date">events&nbsp;&nbsp;|&nbsp;&nbsp;2018.05.08 (火) 19:00 – </div>
-							<h2 class="article-ttl"><a href="http://bioclub.org/event/weekly-meeting-1-1">BioClub Weekly：Eswar PR Iyer</a></h2>
-																															<div class="thumb"><a href="http://bioclub.org/event/weekly-meeting-1-1"><span class="img-wrapper"><img src="http://bioclub.org/assets/images/20180506.jpg" alt="BioClub Weekly：Eswar PR Iyer"></span></a></div>
+							<h2 class="article-ttl"><a href="/bioclub-org/event/weekly-meeting-1-1">BioClub Weekly：Eswar PR Iyer</a></h2>
+																															<div class="thumb"><a href="/bioclub-org/event/weekly-meeting-1-1"><span class="img-wrapper"><img src="http://bioclub.org/assets/images/20180506.jpg" alt="BioClub Weekly：Eswar PR Iyer"></span></a></div>
 																					</li>
 											<li class="article">
 						 
@@ -423,8 +423,8 @@
 							
 														
 																																				<div class="date">events&nbsp;&nbsp;|&nbsp;&nbsp;2017.12.19 (火) 19:00 – </div>
-							<h2 class="article-ttl"><a href="http://bioclub.org/event/bioclub-weekly-cellf-neuron-synthesizer">BioClub Weekly : cellF / Neuron synthesizer</a></h2>
-																															<div class="thumb"><a href="http://bioclub.org/event/bioclub-weekly-cellf-neuron-synthesizer"><span class="img-wrapper"><img src="http://bioclub.org/assets/images/24301135_929307487244970_3406040887716840135_n_1.jpg" alt="BioClub Weekly : cellF / Neuron synthesizer"></span></a></div>
+							<h2 class="article-ttl"><a href="/bioclub-org/event/bioclub-weekly-cellf-neuron-synthesizer">BioClub Weekly : cellF / Neuron synthesizer</a></h2>
+																															<div class="thumb"><a href="/bioclub-org/event/bioclub-weekly-cellf-neuron-synthesizer"><span class="img-wrapper"><img src="http://bioclub.org/assets/images/24301135_929307487244970_3406040887716840135_n_1.jpg" alt="BioClub Weekly : cellF / Neuron synthesizer"></span></a></div>
 																					</li>
 											<li class="article">
 						 
@@ -442,8 +442,8 @@
 							
 														
 																																				<div class="date">events&nbsp;&nbsp;|&nbsp;&nbsp;2017.11.21 (火) 19:00 – </div>
-							<h2 class="article-ttl"><a href="http://bioclub.org/event/mick-lorusso">BioClub Weekly: ミック・ロルソ -マクロ-マイクロ-ナノについての熟考</a></h2>
-																															<div class="thumb"><a href="http://bioclub.org/event/mick-lorusso"><span class="img-wrapper"><img src="http://bioclub.org/assets/images/23593650_918923231616729_813154349898233854_o_1.jpg" alt="BioClub Weekly: ミック・ロルソ -マクロ-マイクロ-ナノについての熟考"></span></a></div>
+							<h2 class="article-ttl"><a href="/bioclub-org/event/mick-lorusso">BioClub Weekly: ミック・ロルソ -マクロ-マイクロ-ナノについての熟考</a></h2>
+																															<div class="thumb"><a href="/bioclub-org/event/mick-lorusso"><span class="img-wrapper"><img src="http://bioclub.org/assets/images/23593650_918923231616729_813154349898233854_o_1.jpg" alt="BioClub Weekly: ミック・ロルソ -マクロ-マイクロ-ナノについての熟考"></span></a></div>
 																					</li>
 											<li class="article">
 						 
@@ -461,8 +461,8 @@
 							
 														
 																																				<div class="date">events&nbsp;&nbsp;|&nbsp;&nbsp;2017.11.14 (火) 19:00 – </div>
-							<h2 class="article-ttl"><a href="http://bioclub.org/event/humans-v2-0">BioClub Weekly: Humans V2.0: the Biotech Revolution</a></h2>
-																															<div class="thumb"><a href="http://bioclub.org/event/humans-v2-0"><span class="img-wrapper"><img src="http://bioclub.org/assets/images/22904834_658798951174689_4583874296884480349_o_1.jpg" alt="BioClub Weekly: Humans V2.0: the Biotech Revolution"></span></a></div>
+							<h2 class="article-ttl"><a href="/bioclub-org/event/humans-v2-0">BioClub Weekly: Humans V2.0: the Biotech Revolution</a></h2>
+																															<div class="thumb"><a href="/bioclub-org/event/humans-v2-0"><span class="img-wrapper"><img src="http://bioclub.org/assets/images/22904834_658798951174689_4583874296884480349_o_1.jpg" alt="BioClub Weekly: Humans V2.0: the Biotech Revolution"></span></a></div>
 																					</li>
 											<li class="article">
 						 
@@ -480,8 +480,8 @@
 							
 														
 																																				<div class="date">events&nbsp;&nbsp;|&nbsp;&nbsp;2017.11.07 (火) 19:00 – </div>
-							<h2 class="article-ttl"><a href="http://bioclub.org/event/benjamin-skepper">BioClub Weekly: Benjamin Skepper</a></h2>
-																															<div class="thumb"><a href="http://bioclub.org/event/benjamin-skepper"><span class="img-wrapper"><img src="http://bioclub.org/assets/images/23000413_538339926516593_2825369478021315234_o_1.jpg" alt="BioClub Weekly: Benjamin Skepper"></span></a></div>
+							<h2 class="article-ttl"><a href="/bioclub-org/event/benjamin-skepper">BioClub Weekly: Benjamin Skepper</a></h2>
+																															<div class="thumb"><a href="/bioclub-org/event/benjamin-skepper"><span class="img-wrapper"><img src="http://bioclub.org/assets/images/23000413_538339926516593_2825369478021315234_o_1.jpg" alt="BioClub Weekly: Benjamin Skepper"></span></a></div>
 																					</li>
 											<li class="article">
 						 
@@ -499,8 +499,8 @@
 							
 														
 																																				<div class="date">events&nbsp;&nbsp;|&nbsp;&nbsp;2017.10.31 (火) 19:00 – </div>
-							<h2 class="article-ttl"><a href="http://bioclub.org/event/minion-sales-call">BioClub Weekly: MinION Sales Call</a></h2>
-																															<div class="thumb"><a href="http://bioclub.org/event/minion-sales-call"><span class="img-wrapper"><img src="http://bioclub.org/assets/images/22338797_898531363655916_1703649443857039054_o_1.jpg" alt="BioClub Weekly: MinION Sales Call"></span></a></div>
+							<h2 class="article-ttl"><a href="/bioclub-org/event/minion-sales-call">BioClub Weekly: MinION Sales Call</a></h2>
+																															<div class="thumb"><a href="/bioclub-org/event/minion-sales-call"><span class="img-wrapper"><img src="http://bioclub.org/assets/images/22338797_898531363655916_1703649443857039054_o_1.jpg" alt="BioClub Weekly: MinION Sales Call"></span></a></div>
 																					</li>
 											<li class="article">
 						 
@@ -518,8 +518,8 @@
 							
 														
 																																				<div class="date">events&nbsp;&nbsp;|&nbsp;&nbsp;2017.10.17 (火) 19:00 – </div>
-							<h2 class="article-ttl"><a href="http://bioclub.org/event/lab-inventory-next-steps">BioClub Weekly: ラボの目録 &amp; 次のステップについて</a></h2>
-																															<div class="thumb"><a href="http://bioclub.org/event/lab-inventory-next-steps"><span class="img-wrapper"><img src="http://bioclub.org/assets/images/22338797_898531363655916_1703649443857039054_o_1.jpg" alt="BioClub Weekly: ラボの目録 &amp; 次のステップについて"></span></a></div>
+							<h2 class="article-ttl"><a href="/bioclub-org/event/lab-inventory-next-steps">BioClub Weekly: ラボの目録 &amp; 次のステップについて</a></h2>
+																															<div class="thumb"><a href="/bioclub-org/event/lab-inventory-next-steps"><span class="img-wrapper"><img src="http://bioclub.org/assets/images/22338797_898531363655916_1703649443857039054_o_1.jpg" alt="BioClub Weekly: ラボの目録 &amp; 次のステップについて"></span></a></div>
 																					</li>
 											<li class="article">
 						 
@@ -537,8 +537,8 @@
 							
 														
 																																				<div class="date">events&nbsp;&nbsp;|&nbsp;&nbsp;2017.10.10 (火) 19:00 – </div>
-							<h2 class="article-ttl"><a href="http://bioclub.org/event/checking-chicken-cells">BioClub Weekly: チキンセルのチェックをしよう</a></h2>
-																															<div class="thumb"><a href="http://bioclub.org/event/checking-chicken-cells"><span class="img-wrapper"><img src="http://bioclub.org/assets/images/22338797_898531363655916_1703649443857039054_o_1.jpg" alt="BioClub Weekly: チキンセルのチェックをしよう"></span></a></div>
+							<h2 class="article-ttl"><a href="/bioclub-org/event/checking-chicken-cells">BioClub Weekly: チキンセルのチェックをしよう</a></h2>
+																															<div class="thumb"><a href="/bioclub-org/event/checking-chicken-cells"><span class="img-wrapper"><img src="http://bioclub.org/assets/images/22338797_898531363655916_1703649443857039054_o_1.jpg" alt="BioClub Weekly: チキンセルのチェックをしよう"></span></a></div>
 																					</li>
 											<li class="article">
 						 
@@ -556,8 +556,8 @@
 							
 														
 																																				<div class="date">events&nbsp;&nbsp;|&nbsp;&nbsp;2017.10.03 (火) 19:00 – </div>
-							<h2 class="article-ttl"><a href="http://bioclub.org/event/bioclub-weekly-10-3-17-shojinmeat">BioClub Weekly: ShojinMeat</a></h2>
-																															<div class="thumb"><a href="http://bioclub.org/event/bioclub-weekly-10-3-17-shojinmeat"><span class="img-wrapper"><img src="http://bioclub.org/assets/images/21055887_875975672578152_926346537822379053_o_1.jpg" alt="BioClub Weekly: ShojinMeat"></span></a></div>
+							<h2 class="article-ttl"><a href="/bioclub-org/event/bioclub-weekly-10-3-17-shojinmeat">BioClub Weekly: ShojinMeat</a></h2>
+																															<div class="thumb"><a href="/bioclub-org/event/bioclub-weekly-10-3-17-shojinmeat"><span class="img-wrapper"><img src="http://bioclub.org/assets/images/21055887_875975672578152_926346537822379053_o_1.jpg" alt="BioClub Weekly: ShojinMeat"></span></a></div>
 																					</li>
 											<li class="article">
 						 
@@ -575,8 +575,8 @@
 							
 														
 																																				<div class="date">events&nbsp;&nbsp;|&nbsp;&nbsp;2017.09.26 (火) 19:00 – </div>
-							<h2 class="article-ttl"><a href="http://bioclub.org/event/bioclub-weekly-26-9-2017-eric-platon">BioClub Weekly: エリック・プラトンさん</a></h2>
-																															<div class="thumb"><a href="http://bioclub.org/event/bioclub-weekly-26-9-2017-eric-platon"><span class="img-wrapper"><img src="http://bioclub.org/assets/images/21765115_891097237732662_8582115254016775049_n_1.jpg" alt="BioClub Weekly: エリック・プラトンさん"></span></a></div>
+							<h2 class="article-ttl"><a href="/bioclub-org/event/bioclub-weekly-26-9-2017-eric-platon">BioClub Weekly: エリック・プラトンさん</a></h2>
+																															<div class="thumb"><a href="/bioclub-org/event/bioclub-weekly-26-9-2017-eric-platon"><span class="img-wrapper"><img src="http://bioclub.org/assets/images/21765115_891097237732662_8582115254016775049_n_1.jpg" alt="BioClub Weekly: エリック・プラトンさん"></span></a></div>
 																					</li>
 											<li class="article">
 						 
@@ -594,8 +594,8 @@
 							
 														
 																																				<div class="date">events&nbsp;&nbsp;|&nbsp;&nbsp;2017.09.19 (火) 19:00 – </div>
-							<h2 class="article-ttl"><a href="http://bioclub.org/event/new-farming">BioClub Weekly 19/9/2017: New Farming - エンドファイト x ゲノム育種</a></h2>
-																															<div class="thumb"><a href="http://bioclub.org/event/new-farming"><span class="img-wrapper"><img src="http://bioclub.org/assets/images/21686045_883513268491059_7977492545432809629_n_1.jpg" alt="BioClub Weekly 19/9/2017: New Farming - エンドファイト x ゲノム育種"></span></a></div>
+							<h2 class="article-ttl"><a href="/bioclub-org/event/new-farming">BioClub Weekly 19/9/2017: New Farming - エンドファイト x ゲノム育種</a></h2>
+																															<div class="thumb"><a href="/bioclub-org/event/new-farming"><span class="img-wrapper"><img src="http://bioclub.org/assets/images/21686045_883513268491059_7977492545432809629_n_1.jpg" alt="BioClub Weekly 19/9/2017: New Farming - エンドファイト x ゲノム育種"></span></a></div>
 																					</li>
 											<li class="article">
 						 
@@ -613,8 +613,8 @@
 							
 														
 																																				<div class="date">events&nbsp;&nbsp;|&nbsp;&nbsp;2017.09.12 (火) 18:30 – </div>
-							<h2 class="article-ttl"><a href="http://bioclub.org/event/metaphorest">BioClub Weekly: 岩崎秀雄_Stelarc@metaPhorest</a></h2>
-																															<div class="thumb"><a href="http://bioclub.org/event/metaphorest"><span class="img-wrapper"><img src="http://bioclub.org/assets/images/21200628_878288685680184_3396462117544057857_o_1.jpg" alt="BioClub Weekly: 岩崎秀雄_Stelarc@metaPhorest"></span></a></div>
+							<h2 class="article-ttl"><a href="/bioclub-org/event/metaphorest">BioClub Weekly: 岩崎秀雄_Stelarc@metaPhorest</a></h2>
+																															<div class="thumb"><a href="/bioclub-org/event/metaphorest"><span class="img-wrapper"><img src="http://bioclub.org/assets/images/21200628_878288685680184_3396462117544057857_o_1.jpg" alt="BioClub Weekly: 岩崎秀雄_Stelarc@metaPhorest"></span></a></div>
 																					</li>
 											<li class="article">
 						 
@@ -632,8 +632,8 @@
 							
 														
 																																				<div class="date">events&nbsp;&nbsp;|&nbsp;&nbsp;2017.09.05 (火) 20:00 – </div>
-							<h2 class="article-ttl"><a href="http://bioclub.org/event/bioclub-movie-day-vol-1">映画DAY_Vol.1</a></h2>
-																															<div class="thumb"><a href="http://bioclub.org/event/bioclub-movie-day-vol-1"><span class="img-wrapper"><img src="http://bioclub.org/assets/images/21272230_880363385472714_7680748925219913525_n_1.jpg" alt="映画DAY_Vol.1"></span></a></div>
+							<h2 class="article-ttl"><a href="/bioclub-org/event/bioclub-movie-day-vol-1">映画DAY_Vol.1</a></h2>
+																															<div class="thumb"><a href="/bioclub-org/event/bioclub-movie-day-vol-1"><span class="img-wrapper"><img src="http://bioclub.org/assets/images/21272230_880363385472714_7680748925219913525_n_1.jpg" alt="映画DAY_Vol.1"></span></a></div>
 																					</li>
 											<li class="article">
 						 
@@ -651,8 +651,8 @@
 							
 														
 																																				<div class="date">events&nbsp;&nbsp;|&nbsp;&nbsp;2017.08.23 (水) 03:00 – </div>
-							<h2 class="article-ttl"><a href="http://bioclub.org/event/rikuo">Weekly Meeting : 長谷川陸央（MIT Media Lab）8/22 (火)@FabCafeMTRL</a></h2>
-																															<div class="thumb"><a href="http://bioclub.org/event/rikuo"><span class="img-wrapper"><img src="http://bioclub.org/assets/images/detail14_main_img_1.jpg" alt="Weekly Meeting : 長谷川陸央（MIT Media Lab）8/22 (火)@FabCafeMTRL"></span></a></div>
+							<h2 class="article-ttl"><a href="/bioclub-org/event/rikuo">Weekly Meeting : 長谷川陸央（MIT Media Lab）8/22 (火)@FabCafeMTRL</a></h2>
+																															<div class="thumb"><a href="/bioclub-org/event/rikuo"><span class="img-wrapper"><img src="http://bioclub.org/assets/images/detail14_main_img_1.jpg" alt="Weekly Meeting : 長谷川陸央（MIT Media Lab）8/22 (火)@FabCafeMTRL"></span></a></div>
 																					</li>
 											<li class="article">
 						 
@@ -670,8 +670,8 @@
 							
 														
 																																				<div class="date">events&nbsp;&nbsp;|&nbsp;&nbsp;2017.08.20 (日) – 2017.10.10 (火)</div>
-							<h2 class="article-ttl"><a href="http://bioclub.org/event/resist-refuse">Weekly Meeting / BCL “Resist / Refsue” 8/14 (火)@fabcafeMTRL</a></h2>
-																															<div class="thumb"><a href="http://bioclub.org/event/resist-refuse"><span class="img-wrapper"><img src="http://bioclub.org/assets/images/single_180329_171121.jpg" alt="Weekly Meeting / BCL “Resist / Refsue” 8/14 (火)@fabcafeMTRL"></span></a></div>
+							<h2 class="article-ttl"><a href="/bioclub-org/event/resist-refuse">Weekly Meeting / BCL “Resist / Refsue” 8/14 (火)@fabcafeMTRL</a></h2>
+																															<div class="thumb"><a href="/bioclub-org/event/resist-refuse"><span class="img-wrapper"><img src="http://bioclub.org/assets/images/single_180329_171121.jpg" alt="Weekly Meeting / BCL “Resist / Refsue” 8/14 (火)@fabcafeMTRL"></span></a></div>
 																					</li>
 									            </ul>
         </article>
@@ -680,14 +680,14 @@
 <nav id="tag-modal">
     <div class="tag-modal-ttl">tags</div>
     <ul>
-					<li><a href="http://bioclub.org/tags/weekly_meeting">#WeeklyMeeting<span>&nbsp;(29)</span></a></li>
-					<li><a href="http://bioclub.org/tags/ワークショップ">#ワークショップ<span>&nbsp;(32)</span></a></li>
-					<li><a href="http://bioclub.org/tags/イベント">#トークイベント<span>&nbsp;(33)</span></a></li>
-					<li><a href="http://bioclub.org/tags/ミートアップ">#ミートアップ<span>&nbsp;(7)</span></a></li>
-					<li><a href="http://bioclub.org/tags/news">#NEWS<span>&nbsp;(10)</span></a></li>
-					<li><a href="http://bioclub.org/tags/report">#REPORT<span>&nbsp;(11)</span></a></li>
-					<li><a href="http://bioclub.org/tags/biohack-academy">#BioHack Academy<span>&nbsp;(12)</span></a></li>
-					<li><a href="http://bioclub.org/tags/project">#PROJECT<span>&nbsp;(2)</span></a></li>
+					<li><a href="/bioclub-org/tags/weekly_meeting">#WeeklyMeeting<span>&nbsp;(29)</span></a></li>
+					<li><a href="/bioclub-org/tags/ワークショップ">#ワークショップ<span>&nbsp;(32)</span></a></li>
+					<li><a href="/bioclub-org/tags/イベント">#トークイベント<span>&nbsp;(33)</span></a></li>
+					<li><a href="/bioclub-org/tags/ミートアップ">#ミートアップ<span>&nbsp;(7)</span></a></li>
+					<li><a href="/bioclub-org/tags/news">#NEWS<span>&nbsp;(10)</span></a></li>
+					<li><a href="/bioclub-org/tags/report">#REPORT<span>&nbsp;(11)</span></a></li>
+					<li><a href="/bioclub-org/tags/biohack-academy">#BioHack Academy<span>&nbsp;(12)</span></a></li>
+					<li><a href="/bioclub-org/tags/project">#PROJECT<span>&nbsp;(2)</span></a></li>
 		    </ul>
 </nav>
 <div id="tag-modal-close"></div>
@@ -697,16 +697,16 @@
 </footer>
 
 <script src="//ajax.googleapis.com/ajax/libs/jquery/1.11.2/jquery.min.js"></script>
-<script>window.jQuery || document.write('<script src="/common/css/js/vendor/jquery-1.11.2.min.js"><\/script>')</script>
-<script src="/common/js/vendor/jquery.easing.1.3.js"></script>
-<script src="/common/js/vendor/jquery.scrollbar.min.js"></script>
-<script src="/common/js/vendor/imagesloaded.pkgd.min.js"></script>
-<script src="/common/js/vendor/masonry.pkgd.min.js"></script>
-<script src="/common/js/vendor/jquery.touchSwipe.min.js"></script>
-<script src="/common/js/vendor/jquery.BlackAndWhite.js"></script>
-<script src="/common/js/vendor/slick.min.js"></script>
-<script src="/common/js/main.js?20180322"></script>
-<script src="/common/js/common.js"></script>
+<script>window.jQuery || document.write('<script src="/bioclub-org/common/css/js/vendor/jquery-1.11.2.min.js"><\/script>')</script>
+<script src="/bioclub-org/common/js/vendor/jquery.easing.1.3.js"></script>
+<script src="/bioclub-org/common/js/vendor/jquery.scrollbar.min.js"></script>
+<script src="/bioclub-org/common/js/vendor/imagesloaded.pkgd.min.js"></script>
+<script src="/bioclub-org/common/js/vendor/masonry.pkgd.min.js"></script>
+<script src="/bioclub-org/common/js/vendor/jquery.touchSwipe.min.js"></script>
+<script src="/bioclub-org/common/js/vendor/jquery.BlackAndWhite.js"></script>
+<script src="/bioclub-org/common/js/vendor/slick.min.js"></script>
+<script src="/bioclub-org/common/js/main.js?20180322"></script>
+<script src="/bioclub-org/common/js/common.js"></script>
 	
     </body>
 </html>

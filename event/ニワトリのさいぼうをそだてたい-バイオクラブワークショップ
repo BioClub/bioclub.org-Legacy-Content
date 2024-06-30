@@ -18,11 +18,11 @@
 	<meta property="og:type" content="website">
 	
 	<meta name="viewport" content="width=device-width">
-	<script src="/common/js/viewport.js"></script>
+	<script src="/bioclub-org/common/js/viewport.js"></script>
 	
-	<link rel="stylesheet" href="/common/css/normalize.min.css">
-	<link rel="stylesheet" href="/common/css/main.css?20170322">
-	<script src="/common/js/vendor/modernizr-2.8.3-respond-1.4.2.min.js"></script>
+	<link rel="stylesheet" href="/bioclub-org/common/css/normalize.min.css">
+	<link rel="stylesheet" href="/bioclub-org/common/css/main.css?20170322">
+	<script src="/bioclub-org/common/js/vendor/modernizr-2.8.3-respond-1.4.2.min.js"></script>
 	<script src="https://use.fontawesome.com/0dfbc630d2.js"></script>
 	<link rel="shortcut icon" href="/favicon.ico">
 	
@@ -57,7 +57,7 @@
 						<div class="header-logo-box img-style" id="logo">
 													<a href="/" class="block">
 				         							<h1 class="logo-img-slider-wrap">
-						<a href="/" class=""><img alt="BioClub" src="/common/img/logo.gif"></a>
+						<a href="/" class=""><img alt="BioClub" src="/bioclub-org/common/img/logo.gif"></a>
 					</h1>
 				 
 				
@@ -67,26 +67,26 @@
             <nav class="subnav">
                 <ul>
                     <li>
-						<a href="http://bioclub.org/event/">
+						<a href="/bioclub-org/event/">
 								
 								events
 													</a>
 					</li>
                     <li>
-						<a href="http://bioclub.org/news/">
+						<a href="/bioclub-org/news/">
 								
 								news
 													</a>
 					</li>
 											<li>
-							<a href="http://bioclub.org/project/">
+							<a href="/bioclub-org/project/">
 																	report
 															</a>
 						</li>
 										
                 </ul>
 									<div class="lang">
-						<div class="en"><a href="http://bioclub.org/en/" class="hv-op">en</a></div>
+						<div class="en"><a href="/bioclub-org/en/" class="hv-op">en</a></div>
 						<div class="ja"><span>ja</span></div>
 					</div>
 				            </nav>
@@ -104,25 +104,25 @@
 						<div class="link-inner">
 							
 															<ul class="global-nav-lang-link">
-									<li><a href="http://bioclub.org/en/" class="hv-op">en</a></li>
+									<li><a href="/bioclub-org/en/" class="hv-op">en</a></li>
 									<li><span>ja</span></li>
 								</ul>
 														
 							<ul class="global-nav-link">
 								<li>
-									<a href="http://bioclub.org/event/" class="hv-op">
+									<a href="/bioclub-org/event/" class="hv-op">
 											
 											events
 																			</a>
 								</li>
 								<li>
-									<a href="http://bioclub.org/news/" class="hv-op">
+									<a href="/bioclub-org/news/" class="hv-op">
 											
 											news
 																			</a>
 								</li>
 																											<li>
-											<a href="http://bioclub.org/project/" class="hv-op">
+											<a href="/bioclub-org/project/" class="hv-op">
 																									report
 																							</a>
 										</li>
@@ -130,7 +130,7 @@
 															</ul>
 							
 							<ul class="global-nav-sub-link">
-																	<li><a class="hv-op" href="http://bioclub.org/about/">about</a></li>
+																	<li><a class="hv-op" href="/bioclub-org/about/">about</a></li>
 																<li><a href="/contact/" class="hv-op"><i class="fa fa-envelope"></i></a></li>
 								<li><a href="https://github.com/BioClub" target="_blank" class="hv-op"><i class="fa fa-github"></i></a></li>
 								<li><a href="https://www.facebook.com/bioclubtokyo/" target="_blank" class="hv-op"><i class="fa fa-facebook"></i></a></li>
@@ -152,7 +152,7 @@
 					<div class="single-pager-text-box">
 																			<div class="single-pager-box prev">
 								<div class="table-style">
-									<a href="http://bioclub.org/event/バイオの力に触れてみよう-diy-bio-challenge" class="table-cell va-mid">
+									<a href="/bioclub-org/event/バイオの力に触れてみよう-diy-bio-challenge" class="table-cell va-mid">
 										<p class="single-pager-text">Prev</p>
 									</a>
 								</div>
@@ -174,7 +174,7 @@
 					
 																			<div class="single-pager-box next">
 								<div class="table-style">
-									<a href="http://bioclub.org/event/biohack-academy-2022-info-event" class="table-cell va-mid">
+									<a href="/bioclub-org/event/biohack-academy-2022-info-event" class="table-cell va-mid">
 										<p class="single-pager-text">Next</p>
 									</a>
 								</div>
@@ -202,7 +202,7 @@
                 <h1 class="ct-single-ttl h1">ニワトリのさいぼうをそだてたい：バイオクラブワークショップ</h1>
 				
 																	<div class="ct-tag-btn-list-wrap">
-													<div class="tag-btn"><a href="http://bioclub.org/tags/ワークショップ">#ワークショップ</a></div>
+													<div class="tag-btn"><a href="/bioclub-org/tags/ワークショップ">#ワークショップ</a></div>
 											</div>
 								
 				
@@ -437,7 +437,7 @@ Shojinmeat Projectは、純肉やバイオの技術が特定利益ではなく�
 					<div class="single-pager-text-box">
 																			<div class="single-pager-box prev">
 								<div class="table-style">
-									<a href="http://bioclub.org/event/バイオの力に触れてみよう-diy-bio-challenge" class="table-cell va-mid">
+									<a href="/bioclub-org/event/バイオの力に触れてみよう-diy-bio-challenge" class="table-cell va-mid">
 										<p class="single-pager-text">Prev</p>
 									</a>
 								</div>
@@ -446,7 +446,7 @@ Shojinmeat Projectは、純肉やバイオの技術が特定利益ではなく�
 						<div class="single-pager-date-box">
 							<div class="table-style">
 								<div class="table-cell va-mid">
-									<a href="http://bioclub.org/event/">
+									<a href="/bioclub-org/event/">
 																					一覧ページへ
 																			</a>
 								</div>
@@ -455,7 +455,7 @@ Shojinmeat Projectは、純肉やバイオの技術が特定利益ではなく�
 					
 																			<div class="single-pager-box next">
 								<div class="table-style">
-									<a href="http://bioclub.org/event/biohack-academy-2022-info-event" class="table-cell va-mid">
+									<a href="/bioclub-org/event/biohack-academy-2022-info-event" class="table-cell va-mid">
 										<p class="single-pager-text">Next</p>
 									</a>
 								</div>
@@ -469,7 +469,7 @@ Shojinmeat Projectは、純肉やバイオの技術が特定利益ではなく�
 													<h2 class="h2 ct-bd-ttl">新着記事</h2>
 												<ul class="article-list col3">
 															<li class="article">
-	<a href="http://bioclub.org/event/kat-alb" class="ct-block hv-op">
+	<a href="/bioclub-org/event/kat-alb" class="ct-block hv-op">
 	
 		<p class="ct-label-wrap">
 							<span class="ct-label text-small lg type va-top">events</span>
@@ -500,11 +500,11 @@ Shojinmeat Projectは、純肉やバイオの技術が特定利益ではなく�
 	</a>
 	
 						
-									<p class="ct-link-lead"><a href="http://bioclub.org/event/kat-alb" class="ct-block hv-op">From our friends from Art Laboratory Berlin:<br />
+									<p class="ct-link-lead"><a href="/bioclub-org/event/kat-alb" class="ct-block hv-op">From our friends from Art Laboratory Berlin:<br />
 Art Laboratory Berlin is delighted to invite you to take part in our Colloquium, a discursive format on research in art, science and humanities, curated by Regine Rapp. It takes place in tandem with our Reading Club, curated by Tuçe Erel.<br />
 The colloquium addresses an international interdisciplinary research audience to present and discuss past, present or future projects by artists and scholars, curators or editors from the fields of art, science and the humanities. The topics could refer to an art project, a book, text or chapter, a research or exhibition project, a lab experiment, a lecture series, a conference concept or other.</a></p>
 			</li>															<li class="article">
-	<a href="http://bioclub.org/event/spcs-4-sharing-session" class="ct-block hv-op">
+	<a href="/bioclub-org/event/spcs-4-sharing-session" class="ct-block hv-op">
 	
 		<p class="ct-label-wrap">
 							<span class="ct-label text-small lg type va-top">events</span>
@@ -534,10 +534,10 @@ The colloquium addresses an international interdisciplinary research audience to
 		</h2>
 	</a>
 	
-																									<div class="tag-btn"><a href="http://bioclub.org/tags/イベント">#トークイベント</a></div>
+																									<div class="tag-btn"><a href="/bioclub-org/tags/イベント">#トークイベント</a></div>
 		
 							<div class="thumb">
-				<a href="http://bioclub.org/event/spcs-4-sharing-session" class="ct-block hv-op">
+				<a href="/bioclub-org/event/spcs-4-sharing-session" class="ct-block hv-op">
 					<span class="img-wrapper"><img src="http://bioclub.org/assets/images/SPCS4.jpg" alt="SPCS Season 4 | Living Dyes: 共有セッション"></span>
 					
 																<p class="ct-link-lead">2023年9月、さまざまなバックグラウンドを持つ23人の参加者がFabCafe Kyotoに集まり、DIYによるバクテリアの培養方法を学びました。色素を生成する菌株を植え付けたシャーレを持ち帰り、そのバクテリアでテキスタイルを染めるという6週間のチャレンジに挑みました。このグループ実験の結果は、京都と東京で開催される展覧会に展示されます。東京で開催される展示の最終日に、参加者のうちの4人がこのプロセスについての経験や感想を共有します。<br />
@@ -546,7 +546,7 @@ Living Dyes | The Exhibition showcases the process and results of the research a
 									</a>
 			</div>
 			</li>															<li class="article">
-	<a href="http://bioclub.org/event/antti-tenetz-getting-lost" class="ct-block hv-op">
+	<a href="/bioclub-org/event/antti-tenetz-getting-lost" class="ct-block hv-op">
 	
 		<p class="ct-label-wrap">
 							<span class="ct-label text-small lg type va-top">events</span>
@@ -576,10 +576,10 @@ Living Dyes | The Exhibition showcases the process and results of the research a
 		</h2>
 	</a>
 	
-																									<div class="tag-btn"><a href="http://bioclub.org/tags/イベント">#トークイベント</a></div>
+																									<div class="tag-btn"><a href="/bioclub-org/tags/イベント">#トークイベント</a></div>
 		
 							<div class="thumb">
-				<a href="http://bioclub.org/event/antti-tenetz-getting-lost" class="ct-block hv-op">
+				<a href="/bioclub-org/event/antti-tenetz-getting-lost" class="ct-block hv-op">
 					<span class="img-wrapper"><img src="http://bioclub.org/assets/images/Antti2.jpg" alt="Artist Talk: Antti Tenetz - スペースの間に迷い込む"></span>
 					
 																<p class="ct-link-lead">​What can other than human life, slime molds, local and AI machine systems based knowledge and cowandering teach us about survival and evolving as whole.<br />
@@ -600,14 +600,14 @@ Living Dyes | The Exhibition showcases the process and results of the research a
 <nav id="tag-modal">
     <div class="tag-modal-ttl">tags</div>
     <ul>
-					<li><a href="http://bioclub.org/tags/weekly_meeting">#WeeklyMeeting<span>&nbsp;(29)</span></a></li>
-					<li><a href="http://bioclub.org/tags/ワークショップ">#ワークショップ<span>&nbsp;(32)</span></a></li>
-					<li><a href="http://bioclub.org/tags/イベント">#トークイベント<span>&nbsp;(33)</span></a></li>
-					<li><a href="http://bioclub.org/tags/ミートアップ">#ミートアップ<span>&nbsp;(7)</span></a></li>
-					<li><a href="http://bioclub.org/tags/news">#NEWS<span>&nbsp;(10)</span></a></li>
-					<li><a href="http://bioclub.org/tags/report">#REPORT<span>&nbsp;(11)</span></a></li>
-					<li><a href="http://bioclub.org/tags/biohack-academy">#BioHack Academy<span>&nbsp;(12)</span></a></li>
-					<li><a href="http://bioclub.org/tags/project">#PROJECT<span>&nbsp;(2)</span></a></li>
+					<li><a href="/bioclub-org/tags/weekly_meeting">#WeeklyMeeting<span>&nbsp;(29)</span></a></li>
+					<li><a href="/bioclub-org/tags/ワークショップ">#ワークショップ<span>&nbsp;(32)</span></a></li>
+					<li><a href="/bioclub-org/tags/イベント">#トークイベント<span>&nbsp;(33)</span></a></li>
+					<li><a href="/bioclub-org/tags/ミートアップ">#ミートアップ<span>&nbsp;(7)</span></a></li>
+					<li><a href="/bioclub-org/tags/news">#NEWS<span>&nbsp;(10)</span></a></li>
+					<li><a href="/bioclub-org/tags/report">#REPORT<span>&nbsp;(11)</span></a></li>
+					<li><a href="/bioclub-org/tags/biohack-academy">#BioHack Academy<span>&nbsp;(12)</span></a></li>
+					<li><a href="/bioclub-org/tags/project">#PROJECT<span>&nbsp;(2)</span></a></li>
 		    </ul>
 </nav>
 <div id="tag-modal-close"></div>
@@ -617,16 +617,16 @@ Living Dyes | The Exhibition showcases the process and results of the research a
 </footer>
 
 <script src="//ajax.googleapis.com/ajax/libs/jquery/1.11.2/jquery.min.js"></script>
-<script>window.jQuery || document.write('<script src="/common/css/js/vendor/jquery-1.11.2.min.js"><\/script>')</script>
-<script src="/common/js/vendor/jquery.easing.1.3.js"></script>
-<script src="/common/js/vendor/jquery.scrollbar.min.js"></script>
-<script src="/common/js/vendor/imagesloaded.pkgd.min.js"></script>
-<script src="/common/js/vendor/masonry.pkgd.min.js"></script>
-<script src="/common/js/vendor/jquery.touchSwipe.min.js"></script>
-<script src="/common/js/vendor/jquery.BlackAndWhite.js"></script>
-<script src="/common/js/vendor/slick.min.js"></script>
-<script src="/common/js/main.js?20180322"></script>
-<script src="/common/js/common.js"></script>
+<script>window.jQuery || document.write('<script src="/bioclub-org/common/css/js/vendor/jquery-1.11.2.min.js"><\/script>')</script>
+<script src="/bioclub-org/common/js/vendor/jquery.easing.1.3.js"></script>
+<script src="/bioclub-org/common/js/vendor/jquery.scrollbar.min.js"></script>
+<script src="/bioclub-org/common/js/vendor/imagesloaded.pkgd.min.js"></script>
+<script src="/bioclub-org/common/js/vendor/masonry.pkgd.min.js"></script>
+<script src="/bioclub-org/common/js/vendor/jquery.touchSwipe.min.js"></script>
+<script src="/bioclub-org/common/js/vendor/jquery.BlackAndWhite.js"></script>
+<script src="/bioclub-org/common/js/vendor/slick.min.js"></script>
+<script src="/bioclub-org/common/js/main.js?20180322"></script>
+<script src="/bioclub-org/common/js/common.js"></script>
 	</div>
 	
 			<script id="gmap-script">
